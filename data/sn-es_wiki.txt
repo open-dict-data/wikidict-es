@@ -1,0 +1,1577 @@
+Africa	África
+Japan	Japón
+South America	América del Sur
+Norway	Noruega
+Scotland	Escocia
+Wales	Gales
+Ireland	Irlanda
+Hungary	Hungría
+Spain	España
+United States of America	Estados Unidos
+Belgium	Bélgica
+Luxembourg	Luxemburgo
+Rudunhumwe	Universo
+Rinopasi	Tierra
+Finland	Finlandia
+Sweden	Suecia
+Denmark	Dinamarca
+Poland	Polonia
+Lithuania	Lituania
+Italy	Italia
+Switzerland	Suiza
+Austria	Austria
+Greece	Grecia
+Turkey	Turquía
+Doro	Cerveza
+Portugal	Portugal
+Europe	Europa
+Asia	Asia
+North America	América del Norte
+Netherlands	Países Bajos
+Mboro	Pene
+Washington, DC	Washington D. C.
+Bern	Berna
+Uruguay	Uruguay
+London	Londres
+Cairo	El Cairo
+Alexandria	Alejandría
+Paris	París
+Mexico	México
+Gungwa reAtlantic	Océano Atlántico
+Gungwa rePacific	Océano Pacífico
+Muvhuro	Lunes
+Kenya	Kenia
+Ethiopia	Etiopía
+Ghana	Ghana
+Gunyana	Septiembre
+Chipiri	Martes
+Chitatu	Miércoles
+China (Musi)	Jueves
+Chishanu (musi)	Viernes
+Mugovera	Sábado
+Svondo (musi)	Domingo
+Shumba	Panthera leo
+France	Francia
+Imbwa	Canis lupus familiaris
+United Kingdom	Reino Unido
+Katsi	Felis silvestris catus
+China (nyika)	República Popular China
+Hove	Pisces
+Brazil	Brasil
+Russian Federation	Rusia
+Skweya	Cuadrado
+Germany	Alemania
+Belarus	Bielorrusia
+Iceland	Islandia
+Mwari	Dios
+Estonia	Estonia
+Ndege	Avión
+Hondo	Guerra
+Motsi	Uno
+Piri	Dos
+Tatu	Tres
+China	Cuatro
+Shanu	Cinco
+Chipasina	Cero
+Ruramamakonyo	Rectángulo
+Rurama (pimanyika)	Ángulo recto
+Latvia	Letonia
+Ukraine	Ucrania
+Czechia	República Checa
+Slovakia	Eslovaquia
+Slovenia	Eslovenia
+Vilnius	Vilna
+Moldova	Moldavia
+Romania	Rumania
+Bulgaria	Bulgaria
+Rome	Roma
+Macedonia	República de Macedonia
+Albania	Albania
+Croatia	Croacia
+Bosnia and Herzegovina	Bosnia y Herzegovina
+Azerbaijan	Azerbaiyán
+Andorra	Andorra
+Cyprus	Chipre
+Georgia	Georgia
+Kazakhstan	Kazajistán
+Malta	Malta
+Monaco	Mónaco
+Montenegro	Montenegro
+Vatican City	Ciudad del Vaticano
+San Marino	San Marino
+Brussels	Región de Bruselas-Capital
+Cuba	Cuba
+Belize	Belice
+Barbados	Barbados
+Indonesia	Indonesia
+South Africa	Sudáfrica
+Algeria	Argelia
+Uzbekistan	Uzbekistán
+Tashkent	Taskent
+Warsaw	Varsovia
+Mvura	Agua
+Dehwe	Cuero
+Chile	Chile
+Nhoroondo	Historia
+Mutauro	Lenguaje
+Zvechadenga	Astronomía
+Singapore	Singapur
+Liechtenstein	Liechtenstein
+Hondo yePasirose yeChiposhi	Primera Guerra Mundial
+Hondo yePasirose yeChipiri	Segunda Guerra Mundial
+Skopje	Skopie
+Masvomhu	Matemáticas
+Bahrain	Baréin
+Armenia	Armenia
+Serbia	Serbia
+Mwedzi (mutumbi)	Luna
+Australia	Australia
+Fundoyetsimba	Física
+Argentina	Argentina
+Peru	Perú
+Ketaupenyu	Biología
+North Korea	Corea del Norte
+Cambodia	Camboya
+Ketamhuka	Zoología
+Islam	Islam
+Ljubljana	Liubliana
+Rugare	Paz
+Mukadzi	Mujer
+Sofia	Sofía
+Husimbe	Pereza
+Nyemwerera	Sonrisa
+Milan	Milán
+Dhodhi	Excremento
+Mukosho	Ano
+Ruva	Flor
+Guta	Ciudad
+Nyenyedzi	Estrella
+Zuva	Sol
+Dandira reMushana	Sistema Solar
+Mazino	Diente
+Bhuku	Libro
+Musi	Día
+East Timor	Timor Oriental
+Husiku	Noche
+Gore	Año
+Mwaka wechizana	Siglo
+Oslo	Oslo
+Lisbon	Lisboa
+Nyeredzi	Planeta
+Mimhanzi	Música
+Moscow	Moscú
+Chad	Chad
+Maodzanyemba	Norte
+New Zealand	Nueva Zelanda
+Chamhembe	Sur
+India	India
+Tuvalu	Tuvalu
+Tonga	Tonga
+Madokero	Oeste
+Samoa	Samoa
+Mabvazuva	Este
+Solomon Islands	Islas Salomón
+Vanuatu	Vanuatu
+Papua New Guinea	Papúa Nueva Guinea
+Palau	Palaos
+Nauru	Nauru
+Federated States of Micronesia	Estados Federados de Micronesia
+Marshall Islands	Islas Marshall
+Kiribati	Kiribati
+Mongolia	Mongolia
+Fiji	Fiyi
+Venezuela	Venezuela
+Bhiza	Equus ferus caballus
+Amsterdam	Ámsterdam
+Zvombo	Arma
+Mhuka	Animalia
+Suriname	Surinam
+Paraguay	Paraguay
+Guyana	Guyana
+Ecuador	Ecuador
+Colombia	Colombia
+Bolivia	Bolivia
+Trinidad and Tobago	Trinidad y Tobago
+Madzinde	Plantae
+Saint Vincent and the Grenadines	San Vicente y las Granadinas
+Zeng'e	Cinc
+Saint Lucia	Santa Lucía
+Saint Kitts and Nevis	San Cristóbal y Nieves
+Jamaica	Jamaica
+Grenada	Granada (país)
+Guatemala	Guatemala
+The Bahamas	Bahamas
+Huku	Gallus gallus domesticus
+Antigua and Barbuda	Antigua y Barbuda
+Honduras	Honduras
+Dominica	Dominica
+Dominican Republic	República Dominicana
+Nguruve	Sus scrofa domestica
+Haiti	Haití
+El Salvador	El Salvador
+Iran	Irán
+Iraq	Irak
+Costa Rica	Costa Rica
+Israel	Israel
+Panama	Panamá
+Yemen	Yemen
+Jordan	Jordania
+Nicaragua	Nicaragua
+Florida	Florida
+Kyrgyzstan	Kirguistán
+Kuwait	Kuwait
+Laos	Laos
+Lebanon	Líbano
+Maldives	Maldivas
+America (dzose)	América
+Malaysia	Malasia
+Burma	Birmania
+Nepal	Nepal
+Oman	Omán
+Pakistan	Pakistán
+Qatar	Catar
+Saudi Arabia	Arabia Saudita
+Sri Lanka	Sri Lanka
+Syria	Siria
+Tajikistan	Tayikistán
+Taiwan	República de China
+Thailand	Tailandia
+Chitima	Tren
+Turkmenistan	Turkmenistán
+United Arab Emirates	Emiratos Árabes Unidos
+Vietnam	Vietnam
+South Korea	Corea del Sur
+Afghanistan	Afganistán
+Muronga Suez Canal	Canal de Suez
+Bangladesh	Bangladés
+Mali	Malí
+Angola	Angola
+Bhutan	Bután
+Brunei	Brunéi
+Tanzania	Tanzania
+Philippines	Filipinas
+Central African Republic	República Centroafricana
+Isaac Newton	Isaac Newton
+Togo	Togo
+Tunisia	Túnez
+Zambia (nyika)	Zambia
+Zimbabwe	Zimbabue
+Beijing	Pekín
+South Sudan	Sudán del Sur
+Benin	Benín
+Botswana	Botsuana
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Comoros	Comoras
+Republic of the Congo	República del Congo
+Democratic Republic of the Congo	República Democrática del Congo
+Djibouti	Yibuti
+Equatorial Guinea	Guinea Ecuatorial
+Eritrea	Eritrea
+New Delhi	Nueva Delhi
+Tbilisi	Tiflis
+Mucheche	Bebé
+Gabon	Gabón
+Gambia	Gambia
+Guinea	Guinea
+Guinea-Bissau	Guinea-Bisáu
+Côte d'Ivoire	Costa de Marfil
+Cameroon	Camerún
+Cape Verde	Cabo Verde
+Lesotho	Lesoto
+Liberia	Liberia
+Libya	Libia
+Madagascar	Madagascar
+Malawi	Malaui
+Mauritania	Mauritania
+Mauritius	Mauricio
+Morocco	Marruecos
+Mozambique	Mozambique
+Namibia	Namibia
+Niger	Níger
+Nigeria	Nigeria
+Uganda	Uganda
+Rwanda	Ruanda
+Sao Tome and Principe	Santo Tomé y Príncipe
+Senegal	Senegal
+Seychelles	Seychelles
+Sierra Leone	Sierra Leona
+Somalia	Somalia
+Julius Caesar	Julio César
+Sudan	Sudán
+Swaziland	Suazilandia
+Mubatanidzwa weNyika Pasirose	Organización de las Naciones Unidas
+Ketanyika	Geología
+Taranyika	Geografía
+Moyo	Corazón
+Huropi	Cerebro
+Prague	Praga
+Jerusalem	Jerusalén
+Kosovo	Kosovo
+Chicago	Chicago
+Chirimo	Primavera
+Tsazahusiku	Equinoccio
+Montevideo	Montevideo
+Dhaka	Daca
+Buwe	Araneae
+Islamabad	Islamabad
+Muchero	Fruto
+Shoko	Mono
+Mari	Dinero
+Zagreb	Zagreb
+Manila	Manila
+Buenos Aires	Buenos Aires
+Mexico City	México, D. F.
+Tokyo	Tokio
+La Paz	La Paz
+Dziva rokushambira	Piscina
+Abu Dhabi	Abu Dabi
+Astana	Astaná
+Athens	Atenas
+Baghdad	Bagdad
+Caracas	Caracas
+Guatemala City	Ciudad de Guatemala
+Havana	La Habana
+Fodya	Tabaco
+Vienna	Viena
+Copenhagen	Copenhague
+Stockholm	Estocolmo
+Helsinki	Helsinki
+Dublin	Dublín
+Reykjavík	Reikiavik
+Tallinn	Tallin
+Riga	Riga
+Bratislava	Bratislava
+Budapest	Budapest
+Vaduz	Vaduz
+Bhaibheri	Biblia
+City of San Marino	San Marino (ciudad)
+Phnom Penh	Nom Pen
+Guta reHo Chi Minh	Ciudad Ho Chi Minh
+Hanoi	Hanói
+True Jesus Church	Verdadera Iglesia de Jesús
+Chirungu	Idioma inglés
+Bangkok	Bangkok
+Andorra la Vella	Andorra la Vieja
+Kuala Lumpur	Kuala Lumpur
+Taipei	Taipéi
+Dong Hoi	Đồng Hới
+Kyiv	Kiev
+Ottawa	Ottawa
+Juba	Yuba (Sudán del Sur)
+Yerevan	Ereván
+Dar es Salaam	Dar es-Salam
+Khartoum	Jartum
+Kudya	Alimento
+Nyoka	Serpentes
+Nhanzvi	Sexo oral
+Minsk	Minsk
+Chemishonga	Química
+Mogadishu	Mogadiscio
+Nassau	Nasáu
+Sana'a	Saná
+Nhabvu	Fútbol
+Rutsvamhumburu	Holocausto
+Madrid	Madrid
+Bogotá	Bogotá
+Brasília	Brasilia
+Lima	Lima
+Santiago	Santiago de Chile
+Quito	Quito
+Asunción	Asunción
+Mbudzi	Capra aegagrus hircus
+Mhuru	Novillo
+Paramaribo	Paramaribo
+Kathmandu	Katmandú
+Belmopan	Belmopán
+San José	San José (Costa Rica)
+San Salvador	San Salvador
+Canberra	Canberra
+Moto	Fuego
+Tegucigalpa	Tegucigalpa
+Managua	Managua
+Panama City	Panamá (ciudad)
+Rwizi Nile	Nilo
+Rabat	Rabat
+Algiers	Argel
+Tunis	Túnez (ciudad)
+Tripoli	Trípoli
+Djibouti (city)	Yibuti (ciudad)
+Tehran	Teherán
+Addis Ababa	Adís Abeba
+Jakarta	Yakarta
+Ankara	Ankara
+Asmara	Asmara
+N'Djamena	Yamena
+Nouakchott	Nuakchot
+Riyadh	Riad
+Bamako	Bamako
+Belgrade	Belgrado
+Dakar	Dakar
+Banjul	Banjul
+Conakry	Conakri
+Bissau	Bisáu
+Monrovia	Monrovia
+Praia	Praia
+Accra	Acra
+Damascus	Damasco
+Yamoussoukro	Yamusukro
+French Guiana	Guayana Francesa
+Ouagadougou	Uagadugú
+Freetown	Freetown
+Abuja	Abuya
+Lomé	Lomé
+Porto-Novo	Porto Novo
+Amman	Amán
+Yaoundé	Yaundé
+Malabo	Malabo
+Beirut	Beirut
+Libreville	Libreville
+Muscat	Mascate
+Bangui	Bangui
+Kinshasa	Kinsasa
+Brazzaville	Brazzaville
+Bujumbura	Buyumbura
+Nicosia	Nicosia
+Kigali	Kigali
+Doha	Doha
+Dodoma	Dodoma
+Nairobi	Nairobi
+Lilongwe	Lilongüe
+Lusaka	Lusaka
+Manama	Manama
+Kudzikatidzwa kwezuva	Eclipse solar
+Maputo	Maputo
+Kampala	Kampala
+Luanda	Luanda
+Moroni	Moroni (Comoras)
+Mbabane	Mbabane
+Maseru	Maseru
+Muravanembiri	Sistema binario
+Chikoro	Escuela
+Antananarivo	Antananarivo
+Gaborone	Gaborone
+Harare	Harare
+Pretoria	Pretoria
+Port Louis	Port Louis
+São Tomé	Santo Tomé (capital)
+Windhoek	Windhoek
+Victoria (Seychelles)	Victoria (Seychelles)
+Imba	Casa
+Rwizi	Río
+Boterekwa	Órbita
+Dong Hoi Airport	Aeropuerto de Đồng Hới
+Mukaha weChadenga	Espacio exterior
+Chiringakure	Telescopio
+Curitiba	Curitiba
+Sango	Bosque
+Category:Masvomhu	Categoría:Matemáticas
+Mbiru	Columna (arquitectura)
+Gungwa Mediterranean	Mar Mediterráneo
+Chitendero chechiKristu	Cristianismo
+Mupunga	Arroz
+Ziwumbe	Continente
+Shiri	Aves
+Mwedzi (Mwaka)	Mes
+Peji Rekutanga	Wikipedia:Portada
+Cape Town	Ciudad del Cabo
+Durban	Durban
+Bhazi	Autobús
+Kabul	Kabul
+Gumbeze	Frazada
+Kusvira	Relación sexual
+Mbutu	Vagina
+Category:Candidates for speedy deletion	Categoría:Wikipedia:Borrar (definitivo)
+Shambira	Natación
+Category:Zvechadenga	Categoría:Astronomía
+Mbayo	Materialismo
+Matongerwo eNyika	Política
+Baradzira	Propaganda
+Kilimanjaro	Kilimanjaro
+Kutsvoda	Beso
+Rudzi rwaIsrael	Pueblo judío
+Nzeve	Oído
+Mhuno	Nariz
+Ziso	Ojo
+Humhutu	Culicidae
+Hwayi	Ovis orientalis aries
+Nghamera	Camelus
+Dzinoyamwisa	Mammalia
+Nyuchi	Anthophila
+Amai (vakakubereka)	Madre
+Sinowo	Nieve
+Baba	Padre
+Vabereki	Parental
+Vana	Niño
+Ngongoni	Connochaetes
+Chingwa	Pan
+Sangano reHutano Pasirose	Organización Mundial de la Salud
+Chimbuzi	Inodoro
+Sera (rezvinorarama)	Célula
+Ropa	Sangre
+Mapapu	Pulmones
+Casablanca	Casablanca
+Kundengenyeka kwenyika	Terremoto
+Muchegwa	Mineral
+Chokwadi	Verdad
+Mashandiro eZvinhu Zvisingararami	Ciencias naturales
+Dombo	Roca
+Chikwatamabwe	Volcán
+Pimagonyonhatu	Trigonometría
+Pimanyika	Geometría
+Mhepo	Viento
+Gute romweya	Atmósfera
+Muchenga Pfuma	Economía
+Hushangazhi	Industria
+Misambo paBonde	Anexo:Posturas sexuales
+Bonyora	Masturbación
+Chita	Sociedad
+Mhuri	Familia
+Murume	Varón
+Rusaruraganda	Racismo
+Muranda	Esclavitud
+Mukaka	Leche
+Gomo	Montaña
+Gwenga	Desierto
+Lagos	Lagos
+Seoul	Seúl
+Ruzivo	Conocimiento
+Zamu	Mama
+Chiedza	Luz
+Chinamato	Religión
+Genesisi	Génesis
+Eksodo	Éxodo
+Baku	Bakú
+Thimphu	Timbu
+Bandar Seri Begawan	Bandar Seri Begawan
+Dili	Dili
+Vientiane	Vientián
+Malé	Malé
+Bishkek	Biskek
+Dushanbe	Dusambé
+Chitaka	Hígado
+Itsvo	Riñón
+Jende	Testículo
+Gungwa	Océano
+Tsindi	Sciuridae
+Kufema	Respiración
+Muzongoza	Médula espinal
+Chibereko	Útero
+Rurimi	Lengua (anatomía)
+Dzira (nhengo)	Nervio
+Makandiro	Ovario
+Mutsipa	Cuello
+Matumbu	Intestino
+Chipfuva	Tórax
+Tsatsadzi	Glándula
+Muronga wechikafu	Aparato digestivo
+Huronyo	Semen
+Nouméa	Numea
+Ronald Reagan	Ronald Reagan
+Cardiff	Cardiff
+Robert Gabriel Mugabe	Robert Mugabe
+Georgetown	Georgetown
+Bununu	Desnudez
+Dzinokambaira	Reptilia
+Muti	Árbol
+Dzehugaro huviri	Amphibia
+Huchi	Miel
+Nyama	Carne
+Mbatatisi	Solanum tuberosum
+Shuga	Azúcar
+Muriwo	Verdura
+Pepanhau	Prensa escrita
+Runhare	Teléfono
+Tsika	Cultura
+Sarajevo	Sarajevo
+Mhetapawa	Logaritmo
+Huwandu	Aritmética
+Zviringani	Sistema de coordenadas
+Munyu	Sal
+Enzane	Ecuación
+Munangatire	Función matemática
+Gonyo	Ángulo
+Chidenhi	Hormona
+Rufangu	Aceleración
+Simba	Energía
+Manikidzo	Fuerza
+Ngoma	Tambor
+Chinyenze	Flauta
+Gunganidzo	Gravedad
+Huremu	Masa
+Simbi	Metal
+Misandu yeSebhe	Estado de agregación de la materia
+Gasi	Gas
+Mutuvi	Líquido
+Godo	Sólido
+Kurima	Agricultura
+Zvipfeko	Ropa
+Kurima neMombe	Arado (agricultura)
+Muchacha	Velocidad
+Hujoto	Temperatura
+Kukorora Simbi	Metalurgia
+Nguva	Tiempo
+Nharaunda	Área
+Dudzirazivo raPythagoras	Teorema de Pitágoras
+Nhamba	Número
+Chibage	Zea mays
+Kudzana	Danza
+Rufuvha (magetsi)	Corriente eléctrica
+Hwiriro	Frecuencia
+Sikarudzi	Reproducción
+Nhumbu	Embarazo humano
+Gorosi	Triticum
+Mapfunde	Sorghum
+Hutano	Salud
+Kufuta	Obesidad
+Zambuko	Puente
+Dhamu	Represa
+Kupimirana	Simetría
+Nhamba mhumburu	Número entero
+Mburungwa	Esfera
+Danhiko	Escalera
+Munondo	Espada
+Zvombo zveShomwe	Arma nuclear
+Majuro	Majuro
+Dehenya	Cráneo
+Ranjisi	Citrus × sinensis
+Ruomba	Crema de leche
+Bhodhi	Sostén (prenda de vestir)
+Penzura	Lápiz
+Tafura	Mesa
+Template:Location map Zimbabwe	Plantilla:Mapa de localización de Zimbabue
+Twiza	Giraffa camelopardalis
+Muromo	Labio
+Tsoka	Pie
+Dzvinyu	Lacertilia
+Pahuro	Garganta
+Template:Link FA	Plantilla:Destacado
+Pasirose	Mundo
+Wikipedia:Community Portal	Wikipedia:Café
+Guam	Guam
+American Samoa	Samoa Americana
+Northern Mariana Islands	Islas Marianas del Norte
+Lolol	Lolol
+Chipatara	Hospital
+Kereke	Iglesia (edificio)
+Zai	Huevo (biología)
+Denderedzwa	Circunferencia
+Mutsendo	Plano (geometría)
+Mhou (shiri)	Struthio camelus
+Dudzirazivo	Teoría
+Pyongyang	Pionyang
+Pfumbamwe	Nueve
+Tirana	Tirana
+Mbongoro	Equus africanus asinus
+Gonyonhatu	Triángulo
+Cecil John Rhodes	Cecil Rhodes
+Chișinău	Chisináu
+Gumbapamwe reZviringani ZveTaranyika	Coordenadas geográficas
+Njanji	Ferrocarril
+Shangu	Zapato
+Nomwe	Siete
+Nhuta	Chrysochloridae
+Sere	Ocho
+Vhiki	Semana
+Nyanza	Lago
+Ulaanbaatar	Ulán Bator
+Edinburgh	Edimburgo
+Ashgabat	Asjabad
+Chitsuwa	Isla
+Tanhatu	Seis
+Madomasi	Solanum lycopersicum
+Muenzanisi	Ecuador terrestre
+Podgorica	Podgorica
+Duramahwi	Diccionario
+Musoro	Cabeza
+Wellington	Wellington (Nueva Zelanda)
+Valletta	La Valeta
+Gumi	Diez
+Dindingwe	Acinonyx jubatus
+Mwaka yepaNyika	Estaciones del año
+Zizi	Strigiformes
+Nguva dzezuva	Hora
+Dzemuzongoza	Vertebrata
+Nowy Dwór Królewski	Nowy Dwór Królewski
+Pristina	Pristina
+Nyundo	Martillo
+Pichilemu	Pichilemu
+Bete	Blattodea
+Pawa	Potencia (física)
+Shuramurove	Ciconia ciconia
+Mukweso	Resistencia eléctrica
+Haka	Manis
+Mukwava	Vértice (geometría)
+Cook Islands	Islas Cook
+Chipo (huwandu)	Aproximación
+Vhudzi	Pelo
+Pimamuganhu	Perímetro
+Chedza	Tentativa
+Huduma	Densidad
+Mbiti	Lutra lutra
+Mafuro	Prado
+Twana	Caracal caracal
+Alofi	Alofi (Niue)
+Jamestown	Jamestown (Santa Elena)
+French Polynesia	Polinesia Francesa
+Hagåtña	Agaña
+Mata-Utu	Mata-Utu
+Yaren	Yaren (distrito)
+Tambo	Cuerda
+Wedzaniso	Suma
+Tsiva	Boxeo
+Banga	Cuchillo
+Mbizi	Cebra
+ChiBantu	Lenguas bantúes
+Muradanuro	Potenciación
+Mheni	Rayo
+New Caledonia	Nueva Caledonia
+Hugari hwevanhu	Población
+Shizha	Hoja
+ChiShona	Idioma shona
+Niue	Niue
+Rumbariro	Latitud
+Mapopoma	Cascada
+Funafuti	Funafuti
+Humburumbira	Cilindro
+Port-au-Prince	Puerto Príncipe
+Chitendero	Creencia
+Sipo	Jabón
+Mugwagwa	Carretera
+Mvuu	Hippopotamus amphibius
+Munwe	Dedo
+Mirairo gumi yaMwari	Diez Mandamientos
+Johannesburg	Johannesburgo
+Jecha	Arena
+Kingston	Kingston
+Mbada	Panthera pardus
+Chipembere	Rhinocerotidae
+Santo Domingo	Santo Domingo
+Kuwait City	Kuwait (ciudad)
+Arab	Pueblo árabe
+Colombo	Colombo
+Bako	Cueva
+Wallis and Futuna	Wallis y Futuna
+Mhakatwa	Materia
+Huni	Leña
+Kukotsira	Sueño
+Kubhabhatidza	Bautismo
+Igwa	Barco
+Mushenjere	Bambuseae
+Ivhu (Dhaga)	Suelo
+Bridgetown	Bridgetown
+Hurefu	Longitud
+Apia	Apia
+Saint John's	Saint John (Antigua y Barbuda)
+Roseau	Roseau
+Chiroto	Ensueño
+Hunhungo	Longitud (cartografía)
+Port Moresby	Puerto Moresby
+Kupirimuka kwemishonga	Reacción química
+Chipfambi	Prostitución
+Gonhi	Puerta
+Gonyoina	Cuadrilátero
+Tokelau	Tokelau
+Gumi nembiri	Doce
+Chiso	Cara
+Shambadza	Publicidad
+Mutsetse	Recta
+Gumi neimwe	Once
+Gumi nenhatu	Trece
+Masaisai	Onda
+Gurapakati	Diámetro
+Mudzidzisi	Maestro
+Mweya Mutsvene	Espíritu Santo
+Nzungu	Arachis hypogaea
+Naypyidaw	Naipyidó
+Zana	Cien
+Mabvi	Articulación de la rodilla
+Bvungapfunga	Niebla
+Gonyozhinji	Polígono (geometría)
+Chivhuramabwe	Granizo
+Musika (Kunotengeswa)	Mercado
+Rwavhi	Chamaeleonidae
+Bloemfontein	Bloemfontein
+Mawuto ehondo	Ejército
+Port Vila	Port Vila
+Firiji	Refrigerador
+Mbambaira	Ipomoea batatas
+Mitemo yeruhambo yaNewton	Leyes de Newton
+Gumi neina	Catorce
+Nwiwa	Citrullus lanatus
+Gumi neshanu	Quince
+Gumi nesere	Dieciocho
+Suva	Suva
+Nukuʻalofa	Nukualofa
+Port of Spain	Puerto España
+Mbeva	Mus (animal)
+Puresha	Presión
+Chiremba	Médico
+Mupata	Valle
+Kuverengwa kweVanhu	Censo (estadística)
+Gumi nepfumbamwe	Diecinueve
+Mudhebhe	Pantalón
+Mwaka wechikumi	Década
+Zvidhinha	Ladrillo
+Denderende	Elipse
+Gumi nenomwe	Diecisiete
+Gumi nenhanhatu	Dieciséis
+Kuunga huwandu	Multiplicación
+Makumi maviri	Veinte
+Gweta	Abogado
+Kubvisa	Resta
+Mbeu	Semilla
+Mhando	Kata
+Gakanje	Brachyura
+Honiara	Honiara
+Mutundo	Orina
+Huma	Frente (anatomía)
+Mapisarema	Libro de los Salmos
+Dova	Rocío (fenómeno físico)
+Gonyoina tsazamativi	Rombo
+Mburungwagama rekuchamhembe	Hemisferio sur
+Runhanhira	Cantidad de movimiento
+Basseterre	Basseterre
+Kingstown	Kingstown
+St. George's, Grenada	Saint George (Granada)
+Castries	Castries
+Rudzi	Etnia
+Fanza	Ebullición
+Chisumamunyati	Hipótesis (método científico)
+Zvakazarurwa	Apocalipsis
+Bere	Hyaenidae
+Magaro	Nalga
+Mubhedha	Cama
+Basa	Trabajo (física)
+Gwenzi	Arbusto
+Munyakwe	Arcilla
+Makumi mana	Cuarenta
+Charaka	Cono (geometría)
+Mutsimba	Lucha (deporte)
+Nzunza	Leptailurus serval
+Palikir	Palikir
+Ndebvu	Barba
+Makumi matatu	Treinta
+Muchovha	Vehículo
+Muduso	Finanzas
+Shangwa	Sequía
+Rwizi Zambezi	Río Zambeze
+Garwe	Crocodylidae
+Tsivatsaona	Seguro
+Gonyeti	Camión
+Victoria Falls	Cataratas Victoria
+Gunguwo	Corvus
+Nzvari	Hembra
+Ruwoko	Brazo
+Tsime	Pozo
+Cotonou	Cotonú
+Sokisi	Calcetín
+Ngarikuni	Meleagris
+Guvhu	Ombligo
+Hono	Masculino
+Injini	Motor
+Kudzikatidzwa kwemwedzi	Eclipse lunar
+Cayenne	Cayena
+Madziya	Calor
+Pfumo	Lanza
+Chigayo	Molino
+Mugodhi	Minería
+Poyindi	Punto (geometría)
+Gonyoina sambamba	Paralelogramo
+Museve	Flecha
+Annaba	Annaba
+Hweru	Orycteropus afer
+Dandare remagetsi	Campo eléctrico
+Simba reNhekairo	Energía cinética
+Gonyoina sambambiri	Trapecio (geometría)
+Uta	Arco (arma)
+Kamba	Testudinidae
+Mandundu	Cordillera
+Chindori	Anillo
+Saint-Denis	Saint-Denis (Reunión)
+Mugomo	Cubo (recipiente)
+Chiyero chekupimisa	Unidad de medida
+Bhoni	Lámpara incandescente
+Chitupa	Documento de identidad
+Template:Commons category	Plantilla:Commonscat
+Chitunha	Cadáver
+Kennedy Space Center	Centro espacial John F. Kennedy
+Penti	Braga (prenda de vestir)
+Kuramwa Basa	Huelga
+Muchato	Boda
+Gwaro	Documento
+Muzasedimbu	Proporcionalidad
+Quilicura	Quilicura
+Pago Pago	Pago Pago
+Saipan	Saipán
+Chirwere cheEbola	Enfermedad por el virus del Ébola
+Hurukuro	Conversación
+Datya	Anura
+Sambamba	Paralelismo (matemática)
+Musenerera	Ósmosis
+Choya	Vello púbico
+Ndiro (yokudyira)	Plato
+Morgan Tsvangirai	Morgan Tsvangirai
+Nhare	Fortificación
+Dandira (zvakarongeka)	Sistema
+Swakopmund	Swakopmund
+Chivi (kutadza)	Pecado
+Pakati	Center
+Marudzi aShem	Pueblos semitas
+Chanduru	Vesícula biliar
+Kugetsenura	Electrólisis
+Dimbu	Fracción
+Rutsaudzo rwechiedza	Refracción
+Doworume	Espermatozoide
+Duvurwi	Meseta
+Misodzi	Lágrima
+Mushonga	Sustancia química
+Makumi matanhatu	Sesenta
+Mukonikoni	Anisoptera
+Bhodhoro	Botella
+Jerenyenje	Herpestidae
+Derere	Abelmoschus esculentus
+Fes	Fez (Marruecos)
+Nhevedzwa dzeMvura	Ciclo hidrológico
+Muravanegumi	Sistema de numeración decimal
+Chikara (mhuka)	Carnívoro
+Kurwadziwa	Dolor
+Nyanga	Cuerno
+Mhesvi	Catálisis
+Rudzindi	Fricción
+Dunhu	Región
+Zita	Nombre
+Gonyonhanhatu	Hexágono
+Denga (Remba)	Cubierta (construcción)
+Chidembo	Mephitidae
+Dzingiswa	Circuncisión
+Huchenjeri	Inteligencia
+Honha	Lingote
+Mazita eMhuri	Apellido
+Dare	Campana (instrumento)
+Lobamba	Lobamba
+Marrakesh	Marrakech
+Mhopo	Verruga
+Chitofu (mugodhi)	Mena (minería)
+Nyauka	Fusión (cambio de estado)
+Kayiti	Deltoide
+Dendera	Movimiento de rotación
+Gwamba	Solidificación
+Marin County	Condado de Marin
+Kuperekera magetsi	Resistividad
+Bumha	Bandada
+Chinepfu (ruhambo)	Inercia
+Tsika yekurava nhamba	Sistema de numeración
+Gora	Buitre
+Huyu	Panal
+Zuvaragodza	Solsticio
+Mhanda (Kurwa)	Violencia
+Chisipiti	Manantial
+Chindunduma	Rebelión
+Port Elizabeth	Puerto Elizabeth
+Nhambwe	Distancia
+Tangier	Tánger
+Kurutsa	Vómito
+Gavakava	Aloe
+Bhomba	Bomba (explosivo)
+Makunakuna	Incesto
+Tsanga (ziso)	Catarata
+Mafuta	Grasa
+Zvidya	Muslo
+Papeetē	Papeete
+Jekanyika	Geodesia
+Badza	Azada
+South Tarawa	Tarawa Sur
+Chidzayo	Cuña (máquina)
+2 Johane	Segunda epístola de Juan
+Muprofita Isaya	Libro de Isaías
+3 Johane	Tercera epístola de Juan
+Judi	Epístola de Judas
+Nhoo	Escudo
+Muprofita Jeremia	Libro de Jeremías
+Menduru	Medalla
+Sandhuru	Sandalia
+Kuverereka	Sublimación
+Oran	Orán
+Zano	Idea
+Mhara	Aepyceros melampus
+Mamoudzou	Mamoudzou
+Sasauka	Evaporación
+Mhondi	Asesinato
+Africa Zasi kweSahara	África negra
+Haro	Puerto (montaña)
+Gumbo	Pata
+Bvurunuro	Difracción (física)
+Bhande (chipfeko)	Cinturón (prenda)
+Chikero	Balanza
+Pombi	Bomba hidráulica
+Kun'ura	Corrosión
+Nhoro	Tragelaphus strepsiceros
+Tsono (kusona)	Aguja (costura)
+Gwaya	Abramis brama
+Munyungu	Disolvente
+Kisangani	Kisangani
+Dovi	Mantequilla de maní
+Rumanda	Alambrada
+Mufundisi	Pastor (ministro religioso)
+Chisuvi chemvura	Divisoria de aguas
+Dota	Ceniza
+Kamba dzenhapwa	Campo de concentración
+Gomo reNyangani	Monte Nyangani
+Kamba dzekuuraya	Campo de exterminio
+Poto	Cazuela (recipiente)
+Chidzudzani	Congruencia (geometría)
+Simba reChakunga	Energía potencial
+Gonyonhatu tsazakose	Triángulo equilátero
+Zenda	Esponsales
+Ramallah	Ramala
+Gonyonhatu yakarurama	Triángulo rectángulo
+Nhokwe	Cyperus papyrus
+Gonje	Agave sisalana
+Chiwundudzi	Moho
+Gudo	Papio
+Mapatya	Gemelos (biología)
+Mureza weZimbabwe	Bandera de Zimbabue
+Mumvuri	Sombra
+Nyati	Syncerus caffer
+Mhene	Llanura
+Ruchichinuko	Convección
+Keetmanshoop	Keetmanshoop
+Muchacha pima negonya	Velocidad angular
+Munyonga	Curva
+Ketamabwe	Petrología
+Mukoko	Colmena
+Mhiripiri	Chile (pimiento)
+Tsanga	Arundo
+Nhanga (Muchero)	Calabaza gigante
+Francistown	Francistown
+Nhunzi	Musca domestica
+Kubundira	Condensación (cambio de estado)
+Betafo	Betafo
+Remba	Lemba (tribu)
+Ambuya	Abuelo
+Mhete	Pendiente (indumentaria)
+Caselle Landi	Caselle Landi
+Hargeisa	Hargeisa
+Hwata	Sagittarius serpentarius
+Nelspruit	Nelspruit
+Matoro	Humedal
+Avarua	Avarua
+Agadir	Agadir
+Maun	Maun
+Zvombo zvinechefu	Arma biológica
+Nhovo	Colchón
+Sunflower	Helianthus annuus
+Bwato	Canoa
+Tsaona	Accidente
+Hanga	Numididae
+Rukuvhute	Cordón umbilical
+Fosi yeRutondapakati	Fuerza centrípeta
+Nhoozhinji	Poliedro
+Hunzwi	Sentido (percepción)
+Bantu	Bantú
+Guva	Sepultura
+Mhumhi	Lycaon pictus
+Taramunyongo	Radio (geometría)
+Bara	Bala (munición)
+Chitsitsinho	Talón
+Mukondo	Autoridad
+Ruwa	Medio rural
+Kuswedera	Convergencia
+Toamasina	Toamasina
+Rutsuwa rwemagetsi	Aislamiento eléctrico
+Rukwarapakati	Fuerza centrífuga
+Ruzha	Ruido
+Zhumwi	Prisma (geometría)
+Dhuku	Bandana (indumentaria)
+Nhanzva	Trineo
+Mutemo waPareto	Principio de Pareto
+Maungira	Eco
+Kano	Kano
+Njiri	Phacochoerus africanus
+Magonga (taranyika)	Polo (cartografía)
+Ibadan	Ibadán
+Shato	Pythonidae
+Rhekeni	Catapulta
+Gwati (muti)	Corteza
+Tlemcen	Tlemecén
+Nyamukuta	Matrona
+Gwee	Galagidae
+Chirambo (misandu)	Cambio de estado
+Pietermaritzburg	Pietermaritzburg
+Donhwe	Gota de agua
+Bota	Gacha
+Constantine, Algeria	Constantina (Argelia)
+Chifufuro	Cohecho
+Lumumbashi	Lubumbashi
+Chikuwo	Moda (estadística)
+Idi	Hecho (filosofía)
+Choto	Hogar (fuego)
+Rovambira	Dendroaspis polylepis
+Munda	Campo (agricultura)
+Manyene	Canis mesomelas
+Chikwereti	Empréstito
+Abomey	Abomey
+Guramakonyo	Diagonal
+Harar	Harar Jugol
+Nhambwe yasudurukwa	Desplazamiento (vector)
+Bhutsu	Bota
+Kumhura	Difamación
+Mbonga	Monja
+Mhute	Neblina
+Madamvura	Hidrófilo
+Cherechedza	Observación
+Gambamutengo	Subsidio
+Bulawayo	Bulawayo
+Mweya (wemunhu)	Ser espiritual
+Dire Dawa	Dire Dawa
+Mbabvu	Costilla
+Chapupu	Testigo
+Kuvaviwa	Picor (prurito)
+Chikupo	Honda (arma)
+Nhamba ndemera	Número negativo
+Rifa	Herencia (derecho)
+Hupfumi	Riqueza
+Rufu	Funeral
+Ziguinchor	Ziguinchor
+Avhareji	Media (matemáticas)
+Bandiko	Sector circular
+Chitofu (Kubika)	Estufa (calefacción)
+Goma	Goma (ciudad)
+Pito	Silbato
+Mutwi	Perpendicularidad
+Kananga	Kananga
+Dendera pa Mineti	Revolución por minuto
+Tafura yekuunga huwandu	Tabla de multiplicar
+Vanga	Cicatriz
+Rudzindi rwemweya	Arrastre (física)
+Ruremekedzo	Honor
+Huswa	Césped
+Shepi	Forma (figura)
+Masvingo eZimbabwe	Gran Zimbabue
+Njiva	Columba
+East London	East London
+Mbandaka	Mbandaka
+Matadi	Matadi
+Hudyu	Ingle
+Dzinza	Clan
+Kupambadzirwa	Ductilidad
+Zera (chizvarwa)	Generación
+Kukohwa (kuunganidza)	Cosecha
+Furo	Espuma
+Mhofu	Taurotragus oryx
+Bilda	Blida
+Port Harcourt	Port Harcourt
+Hungwe	Haliaeetus vocifer
+Hunyoro	Humedad
+Mahajanga	Mahajanga
+Gondar	Gondar
+Antsiranana	Antsiranana
+Palestine	Estado de Palestina
+Matyamvura	Hidrófobo
+Walvis Bay	Walvis Bay
+Chapfunga	Esquistosomiasis
+Bukavu	Bukavu
+Hukama	Relación interpersonal
+Boma	Boma
+Muny'atira	Absorción
+Gwanza (chivakwa)	GAP
+Manhikatika	Variación
+Mombasa	Mombasa
+Hwendedzo	Médium (desambiguación)
+Dungidzira	Alternativa
+Kusuduruka	Divergencia
+Chipakati	Mediana (estadística)
+Kushumira	Apareamiento
+Zvinoshandiswa kuchengetedza	Control de acceso
+Vavariro	Target (desambiguación)
+Saga	Saga
+Runda	Tendón
+Hupombwe	Adulterio
+Boka (masvomhu)	Set
+Varungu	Blanco (persona)
+Makumi mapfumbamwe	Noventa
+Ngwarati	Hippotragus niger
+Mhakure	Naja haje
+Kumimina	Filtración
+Chiware	Capa (desambiguación)
+Mupfunga	Vapor (estado)
+Rukweza	Mijo
+Mutupo	Tótem
+Mhomho	Falta (fútbol)
+Kindu	Kindu
+Saint-Louis, Senegal	Saint Louis (Senegal)
+Mhembwe	Cephalophinae
+Kirsty Coventry	Kirsty Coventry
+Chiremera	Dignidad
+Mawere	Pendiente (matemáticas)
+Massawa	Massawa
+Makumi mashanu nena	Cincuenta y cuatro
+Husvinu	Cualidad
+Masanga (Panosangana)	Junction
+Hwembwa (bonde)	Posición del perro
+Nungu	Hystricidae
+Musami	Espejismo
+Hozhwa	Caracol
+Kuronga	Planeamiento
+Madora	Gonimbrasia belina
+Buea	Buea
+Ian Smith	Ian Smith
+Rwendo	Journey (desambiguación)
+Abel Tendekai Muzorewa	Abel Muzorewa
+Mukwende	Carga de pago
+Mbuji-Mayi	Mbuji-Mayi
+Benin City	Benin City
+Kugunzva	Sistema somatosensorial
+Mek'ele	Mekele
+Mhiri kweMakungwa	Ultramar
+Muchovha Mota	Anexo:Medios de transporte
+Makumi masere nesere	Ochenta y ocho
+Donzvo	Objetivo
+Adama	Adama
+Mukova	Threshold
+Mhene (mhuka)	Raphicerus campestris
+Kugera	Afeitado
+Kuchepa	Normalización
+Chiva	Bitis arietans
+Bonga-musakwani	Bitis gabonica
+Kunyenga	Cortejo
+Chibeto	Tamizado
+Nyanzvi	Perito
+Mukombe	Trofeo
+Kadoma	Kadoma
+Jimma	Jima
+Agordat	Agordat
+Murayiro	Instrucción
+Kugura	Sever
+Chitungwiza	Chitungwiza
+Gweru	Gweru
+Mutare	Mutare
+Laghouat	Laghouat
+America	América (desambiguación)
+Kunze	Outside
+Rumazvitinhura	Automatic
+Kuenzana chikero	Equilibrium
+Kududza	Pliego de condiciones
+Humba	Potamochoerus larvatus
+Gideon Gono	Gideon Gono
+Makumi mapfumbamwe nepfumbamwe	Noventa y nueve
+Mashonaland West	Mashonalandia Occidental
+Bhuku raMormoni	Libro de Mormón
+Kutapira	Sabor dulce
+Bahir Dar	Bahir Dar
+Manicaland	Manicalandia
+Mahusekwa	Mashonalandia Oriental
+Salé	Salé
+Joshua Nkomo	Joshua Nkomo
+Nyota	Sed
+Chenza (kutodza)	Imagen
+Chiso (Chiumbwa)	Superficie (matemática)
+Hutong'o	Tenacidad
+Chipika	Cuello (indumentaria)
+Edinburgh of the Seven Seas	Edimburgo de los Siete Mares
+Nyemba	Vigna unguiculata
+Maguta emuZimbabwe	Anexo:Localidades de Zimbabue
+Chinyamudzura	Polemaetus bellicosus
+Ngerulmud	Ngerulmud
+Butembo	Butembo
+Tôlanaro	Tôlanaro
+Fianarantsoa	Fianarantsoa
+Bamenda	Bamenda
+Keren, Eritrea	Keren
+Kusuma	Inform
+Mongo	Médula ósea
+Ishwa	Isoptera
+Waya	Alambre
+Yunivhesiti yeZimbabwe	Universidad de Zimbabue
+Antsirabe	Antsirabe
+Okahandja	Okahandja
+Thiès	Thiès
+Mudzi wenhamba	Radicación
+Chingaira	Hieraaetus wahlbergi
+Gungano renhenderedzi	Concéntrico
+Kusamhura	Cuenta (matemáticas)
+Chengu	Alcelaphus buselaphus
+Ngururu	Oreotragus oreotragus
+Dhumukwa	Kobus ellipsiprymnus
+Tsumeb	Tsumeb
+Atafu	Atafu
+Bunia	Bunia
+Mushandi	Empleo
+Touba, Senegal	Touba (Senegal)
+Homwe	Cuenta bancaria
+Kunatsa	Refinación
+Makumi mashanu neshanu	Cincuenta y cinco
+Parakou	Parakou
+Georgetown (Ascension Island)	Georgetown (Isla Ascensión)
+Nyamuragira	Monte Nyamuragira
+Makumi masere	Ochenta
+Makumi maviri nembiri	Veintidós
+Makumi manomwe	Setenta
+Makumi mashanu	Cincuenta
+Makumi matatu nenhatu	Treinta y tres
+Makumi mana nena	Cuarenta y cuatro
+Makumi matanhatu nenhanhatu	Sesenta y seis
+Makumi manomwe nenomwe	Setenta y siete
+Mazana maviri	Doscientos
+Madirano eNzizi	Confluencia
+Mutowo	Método
+Nhova	Fontanelas
+Dessie	Dese
+Awasa	Awasa
+Roora	Excrex
+Bangassou	Bangassou
+SADC	Comunidad de Desarrollo de África Austral
+Toliara	Toliara (ciudad)
+Chishanu (mhoresa)	Apretón de manos
+Kumbumba	Let There Be Rock
+Hupfu	Harina de maíz
+Banda	Camilla
+Calabar	Calabar
+Zvinyanye	Extremos de una función
+Mucheko	Sección (geometría)
+Musarirwa	Resto
+Kaolack	Kaolack
+Bhachi	Chaqueta
+Ouidah	Ouidah
+Ndiro (midziyo)	Vajilla
+Kudzinda	Reluctancia magnética
+Chimukuyu	Biltong
+Morondava	Morondava
+Birchenough Bridge	Puente Birchenough
+Rukanda runosarura zvinobvinina	Membrana semipermeable
+Djougou	Djougou
+Hukoshi	Valor económico
+Gongo	Clítoris
+Ladysmith, KwaZulu-Natal	Ladysmith (Sudáfrica)
+Boka	Grupo social
+Mujawo	Carrera (competición)
+Bossangoa	Bossangoa
+Chivhuni	Fragilidad
+Kudzimurira	Control de gestión
+Maunga huwandu	Productorio
+Mhandamabwe	Trituradora
+Kurega basa	Jubilación
+Duwo	Nasa (pesca)
+Mukuwasha	Afinidad (derecho)
+Rusero	Criba
+Gonzalo da Silveira	Gonçalo da Silveira
+Tiburon	Tiburón (California)
+Grootfontein	Grootfontein
+Chubhu dzinotakura ropa	Vaso sanguíneo
+Otjiwarongo	Otjiwarongo
+Klerksdorp	Klerksdorp
+Rufisque	Rufisque
+M'Bour	M'Bour
+Dekemhare	Dekemhare
+Mthatha	Mthatha
+Worcester, Western Cape	Worcester (Sudáfrica)
+Dumbu	Estómago
+Bimha	Redunca
+Mambara	Ganga (minería)
+Chimiro chemuviri	Forma del cuerpo humano
+Clement Doke	Clement Martyn Doke
+Bindu	Jardín
+Coloureds	Coloured
+Njodzi	Peligro
+Muteremuko	Pendiente (geografía)
+Muururo	Barreno
+MDC	Movimiento por el Cambio Democrático
+Zimbabwean presidential election, 2008	Elecciones presidenciales de Zimbabue de 2008
+Zingizi	Xylocopa
+Mhiri	Across
+Nhamba Ndandira	Signo (matemáticas)
+Ketamukadzi	Ginecología
+Govaniso	División (matemática)
+Chidavado	Decoración
+Nhamba svinu	Número racional
+Dowokadzi	Óvulo
+Humbowo	Evidencia (filosofía)
+Puranga	Tablón
+Zvinotarisirwa	Expectativa
+Bvinina	Percolación
+Kuzvira	Contracción de aristas
+Hwabvu	Labios (genitales)
+Makonyo Mhirikano	Ángulos suplementarios
+Muchovha Masvomhu	Vector (desambiguación)
+Miko	Promesa
+Madzudzo	Inquietud
+Mhemberero	Día festivo
+Category:Vietnam	Categoría:Vietnam
+Category:Madzinde	Categoría:Plantae
+Category:Fundoyetsimba	Categoría:Física
+Category:Chezvipenyu	Categoría:Biología
+Category:Chemishonga	Categoría:Química
+Category:Taranyika	Categoría:Geografía
+Category:Chinamato	Categoría:Religión
+Mhitsa dzehondo	Superpotencia internacional
+Giyani	Giyani
+Chenza	Imago Dei
+Nzwisa	Muestra
+Maturo	Acepción
+Chidzikwe	Estándar
+Katahwi	Himen
+Kukapura	Skimming
+Tsika yezvinzvimbo zvenhamba	Notación posicional
+Bundutso	Proceso de fabricación
+Kukavanisa	Variegación
+Nyundwa	Anca
+Munatsi	Refinería de petróleo
+Kudhoma	Técnicas de estudio
+Zanu-PF	Unión Nacional Africana de Zimbabue - Frente Patriótico
+Huhombe	Magnitud (matemática)
+Gondo	Águila
+Kudoma	Especificación
+Nyamafingu	Cobra
+Bohicon	Bohicon
+Mungongoma	Schinziophyton rautanenii
+Sazita	Tocayo
+Tsono (zviridzwa)	Estilete
+Tsanga (Dzinde)	Caña (vegetal)
+Category:Tsika	Categoría:Cultura
+Category:Ziwumbe	Categoría:Continentes
+Bumbiro	Collection
+Tsapfu	Pantorrilla
+Hukukutu	Dureza
+Ganda	Raza (clasificación de los seres humanos)
+Dumba	Pirámide (geometría)
+Rheshiyo	Razón (matemáticas)
+Dzihwa	Moco
+Category:Wikipedia bots	Categoría:Wikipedia:Bots
+Hutapiri	Concentración
+Spidhi	Rapidez
+Dhadha	Pato
+Akiso	Simetría axial
+Template:Tl	Plantilla:Ep
+Category:Muviri	Categoría:Anatomía
+Category:Hurapi	Categoría:Medicina
+Category:Dzidzo	Categoría:Educación
+Egypt	Egipto
+Template:Bot	Plantilla:Bot
+Canada	Canadá
+Nzenda	Dimensión
+Denga (raMwari)	Cielo (religión)
+Category:Europe	Categoría:Europa
+Template:Documentation	Plantilla:Documentación
+Category:User languages	Categoría:Wikipedia:Wikipedistas por idioma
+Sung Jae-ki	Sung Jae-ki
+Template:Softredirect	Plantilla:Redirección suave
+Template:Delete	Plantilla:Destruir
+Category:Wikipedia	Categoría:Wikipedia
+Wikipedia:General disclaimer	Wikipedia:Limitación general de responsabilidad
+Wikipedia:Statistics	Wikipedia:Estadísticas
+Template:Navbox	Plantilla:Navegación
+Template:!	Plantilla:!
+Template:!-	Plantilla:!-
+Template:Nowrap	Plantilla:Nowrap
+Category:Africa	Categoría:África
+Category:Zviperengo Zvehuwandu	Categoría:Números
+Category:Bhaibheri	Categoría:Biblia
+Template:Babel	Plantilla:Babel
+Template:Location map/Info	Plantilla:Mapa de localización/Info
+Category:User uk	Categoría:Wikipedia:Wikipedistas con conocimientos de ucraniano
+Category:User uk-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de ucraniano
+Template:Max	Plantilla:Max
+Template:Navbox with columns	Plantilla:Navegación con columnas
+Template:Location map	Plantilla:Mapa de localización
+Category:User en-4	Categoría:Wikipedia:Wikipedistas con nivel experto de inglés
+Category:User en	Categoría:Wikipedia:Wikipedistas con conocimientos de inglés
+Category:User en-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de inglés
+Template:Infobox	Plantilla:Ficha
+Template:GeoTemplate	Plantilla:GeoTemplate
+Category:Kurima	Categoría:Agricultura
+Template:Both	Plantilla:Ambas
+Template:Kujekesa	Plantilla:Desambiguación
+Template:Convert	Plantilla:Convertir
+Template:Citation/make link	Plantilla:Obra citada/enlace
+Category:Gonyazhinji	Categoría:Polígonos
+Category:User az	Categoría:Wikipedia:Wikipedistas con conocimientos de azerí
+Category:User be	Categoría:Wikipedia:Wikipedistas con conocimientos de bielorruso
+Category:User sk	Categoría:Wikipedia:Wikipedistas con conocimientos de eslovaco
+Category:User eo	Categoría:Wikipedia:Wikipedistas con conocimientos de esperanto
+Category:User lt	Categoría:Wikipedia:Wikipedistas con conocimientos de lituano
+Category:User cs-1	Categoría:Wikipedia:Wikipedistas con nivel básico de checo
+Category:User da-1	Categoría:Wikipedia:Wikipedistas con nivel básico de danés
+Category:User ar-1	Categoría:Wikipedia:Wikipedistas con nivel básico de árabe
+Category:User be-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de bielorruso
+Category:User da-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de danés
+Category:User lt-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de lituano
+Category:User af	Categoría:Wikipedia:Wikipedistas con conocimientos de afrikaans
+Category:User af-1	Categoría:Wikipedia:Wikipedistas con nivel básico de afrikáans
+Category:User als	Categoría:Wikipedia:Wikipedistas con conocimientos de Alemannisch
+Category:User als-1	Categoría:Wikipedia:Wikipedistas con nivel básico de Alemannisch
+Category:User ar	Categoría:Wikipedia:Wikipedistas con conocimientos de árabe
+Category:User cs	Categoría:Wikipedia:Wikipedistas con conocimientos de checo
+Category:User da	Categoría:Wikipedia:Wikipedistas con conocimientos de danés
+Category:User sk-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de eslovaco
+Category:User de	Categoría:Wikipedia:Wikipedistas con conocimientos de alemán
+Category:User de-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de alemán
+Category:User de-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de alemán
+Category:User el	Categoría:Wikipedia:Wikipedistas con conocimientos de griego antiguo
+Category:User en-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de inglés
+Category:User en-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de inglés
+Category:User eo-1	Categoría:Wikipedia:Wikipedistas con nivel básico de esperanto
+Category:User es	Categoría:Wikipedia:Wikipedistas con conocimientos de español
+Category:User es-1	Categoría:Wikipedia:Wikipedistas con nivel básico de español
+Category:User es-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de español
+Category:User es-4	Categoría:Wikipedia:Wikipedistas con nivel experto de español
+Category:User es-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de español
+Category:Pimanzvimbo	Categoría:Geometría
+Template:Weather box	Plantilla:Clima
+Chamhembe kwakadziva kumabvazuva	Sureste
+Template:Sup	Plantilla:Exp
+Simudzo	Flotabilidad
+Maodzanyemba kwakadziva kuMabvazuva	Nordeste
+Ruchiva	Lujuria
+Nhungu	Barraca (vivienda)
+Category:Hushangazhi	Categoría:Industria
+Category:User tr	Categoría:Wikipedia:Wikipedistas con conocimientos de turco
+Category:User tr-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de turco
+Template:Citation/core	Plantilla:Obra citada/núcleo
+Category:Rwizi	Categoría:Ríos
+Category:Zimbabwe	Categoría:Zimbabue
+Paradise Cay	Paradise Cay (California)
+Category:Musangano	Categoría:Partidos políticos
+Category:Gonyanhatu	Categoría:Triángulos
+Category:Mhuka	Categoría:Animales
+Category:Dzemuzongoza	Categoría:Vertebrata
+Category:Zvombo	Categoría:Armas
+Category:Zvipfeko	Categoría:Indumentaria
+Category:Mhuri	Categoría:Familia
+Category:Chitendero	Categoría:Creencias
+Category:Nyoka	Categoría:Serpentes
+Category:North America	Categoría:América del Norte
+Sadza	Sadza
+Category:Nzwimbo	Categoría:Lugares
+Category:Kubika kweZimbabwe	Categoría:Gastronomía de Zimbabue
+Category:Huwandu	Categoría:Aritmética
+Category:Bhuku Ramorimoni	Categoría:Libro de Mormón
+Category:Jekanyika	Categoría:Geodesia
+Kuhamba	Movimiento
+Category:Marudzi aShem	Categoría:Pueblos semitas
+Igo	Avispa
+Category:User en-1	Categoría:Wikipedia:Wikipedistas con nivel básico de inglés
+Category:User de-1	Categoría:Wikipedia:Wikipedistas con nivel básico de alemán
+Category:User da-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de danés
+Nhutirwa	Entrada
+Mutauro wePasirose	Lengua mundial
+Template:Location map~	Plantilla:Mapa de localización~
+Kukangaridza	Exposé
+Template:Location map+	Plantilla:Mapa de localización+
+Template:Location map many	Plantilla:Mapa de localización múltiple
+Basa (neFosi)	Trabajo
+Module:Citation/CS1/Whitelist	Módulo:Citas/Whitelist
+Module:StringReplace	Módulo:Encode
+Bhucha	Carnicería
+Module:Arguments	Módulo:Argumentos
+Special:RecentChanges	Especial:CambiosRecientes
+Module:Citation/CS1	Módulo:Citas
+Module:Citation/CS1/Configuration	Módulo:Citas/Configuración
+Module:HtmlBuilder	Módulo:HtmlBuilder
+Module:Coordinates	Módulo:Coordenadas
+Module:Math	Módulo:Math
+Module:Infobox	Módulo:Ficha
+Module:Location map	Módulo:Mapa de localización
+Module:Citation/CS1/Date validation	Módulo:Citas/ValidaciónFechas
+Gusi	Ganso
+Module:No globals	Módulo:No globals

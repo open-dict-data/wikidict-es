@@ -1,0 +1,1396 @@
+Afrig	África
+Sapoŋ	Japón
+Bëj-saalumu Aamerig	América del Sur
+Noorwees	Noruega
+Irlaand	Irlanda
+Ongiri	Hungría
+Ispaañ	España
+Diiwaan yu Bennoo	Estados Unidos
+Belsik	Bélgica
+Luksambuur	Luxemburgo
+Suuf	Tierra
+Finlaand	Finlandia
+Suweed	Suecia
+Danmaark	Dinamarca
+Poloñ	Polonia
+Lituwaani	Lituania
+Itaali	Italia
+Suwis	Suiza
+Otris	Austria
+Girees	Grecia
+Tirki	Turquía
+Portugaal	Portugal
+Tugal	Europa
+Asi	Asia
+Bëj-gànnaaru Aamerig	América del Norte
+Goxub Dottub Bëj-saalum	Antártida
+Wikipedia	Wikipedia
+Olaand	Países Bajos
+PHP	PHP
+Berlin	Berlín
+Nosukaay	Computadora
+Bern	Berna
+Zurich	Zúrich
+Internet	Internet
+Uruguwaay	Uruguay
+Londar	Londres
+Xayra	El Cairo
+Alegsàndiri	Alejandría
+Pari	París
+Meksik	México
+Mbàmbulaanug Atlas	Océano Atlántico
+Mbàmbulaan Gu-Dal	Océano Pacífico
+Altine	Lunes
+Samwie	Enero
+Fewirie	Febrero
+Maars (weer)	Marzo
+Maas	Marte (planeta)
+Keeñaa	Kenia
+Ecoopi	Etiopía
+Gana	Ghana
+Awril	Abril
+Mee	Mayo
+Suwe	Junio
+Sulet	Julio
+Waxset	Agosto
+Satumbar	Septiembre
+Oktoobar	Octubre
+Nowembar	Noviembre
+Disambar	Diciembre
+Talaata	Martes
+Àllarba	Miércoles
+Alxames	Jueves
+Àjjuma	Viernes
+Gaawu	Sábado
+Dibéer	Domingo
+Gaynde	Panthera leo
+Faraas	Francia
+Esperanto	Esperanto
+Xaj	Canis lupus familiaris
+Nguur-Yu-Bennoo	Reino Unido
+Muus	Felis silvestris catus
+Réewum Popileer bu Siin	República Popular China
+Wu-faraas	Idioma francés
+Wikbaatukaay	Wikcionario
+Breesil	Brasil
+Riisi	Rusia
+Géej	Mar
+São Paulo	São Paulo
+Almaañ	Alemania
+Belaarus	Bielorrusia
+Islaand	Islandia
+Yàlla	Dios
+Estooni	Estonia
+Benn	Uno
+Ñaar	Dos
+Ñatt	Tres
+Ñent	Cuatro
+Juroom	Cinco
+Tus	Cero
+Letóoni	Letonia
+Ukreen	Ucrania
+Réewum Cek	República Checa
+Eslowaaki	Eslovaquia
+Esloweeni	Eslovenia
+Wilniyus	Vilna
+Moldaawi	Moldavia
+Romaani	Rumania
+Bulgaari	Bulgaria
+Rom	Roma
+Réewum Maseduwaan	República de Macedonia
+Albaani	Albania
+Groenlaand	Groenlandia
+Korwaasi	Croacia
+Bosni	Bosnia y Herzegovina
+Aserbayjaan	Azerbaiyán
+Andoor	Andorra
+Ciipër	Chipre
+Jeoorji	Georgia
+Kasakistaan	Kazajistán
+Malt	Malta
+Monaako	Mónaco
+Montenegro	Montenegro
+Watikaa	Ciudad del Vaticano
+San Marino	San Marino
+Burusel	Bruselas
+Kubaa	Cuba
+Beliis	Belice
+Barbados	Barbados
+Endoneesi	Indonesia
+Afrig gu Bëj-saalum	Sudáfrica
+Alseeri	Argelia
+Usbekistaan	Uzbekistán
+Warsaw	Varsovia
+Ndox	Agua
+Sili	Chile
+Yéesu-kristaa	Jesús de Nazaret
+Merkuur	Mercurio (planeta)
+Taariix	Historia
+Weenus	Venus (planeta)
+Kàllaama	Lenguaje
+Yupiter	Júpiter (planeta)
+Uraanus	Urano (planeta)
+Neptuun	Neptuno (planeta)
+Saytubiddiw	Astronomía
+Singapoor	Singapur
+Xam-xam	Ciencia
+Pluton	Plutón (planeta enano)
+Liechtenstein	Liechtenstein
+Xareb Àdduna bu Njëkk	Primera Guerra Mundial
+Ñaareelu Xareb Àdduna	Segunda Guerra Mundial
+Skopje	Skopie
+Xayma	Matemáticas
+Bahrayni	Baréin
+Armeeni	Armenia
+Seerbi	Serbia
+Óstraali	Australia
+Jëmm	Física
+Arsantin	Argentina
+Peru	Perú
+Kore gu Bëj-gànnaar	Corea del Norte
+Kamboodi	Camboya
+Alxuraan	Corán
+Lislaam	Islam
+Jubaljana	Liubliana
+Jimbulang bu waa-Brëtaañ	Enciclopedia Británica
+World Wide Web	World Wide Web
+Jigéen	Mujer
+Sofiya	Sofía
+Jant	Sol
+Asamaan	Cielo
+Oseyaani	Oceanía
+Nosteg jant	Sistema Solar
+Bés	Día
+Timoor gu Penku	Timor Oriental
+Guddi	Noche
+At	Año
+Oslo	Oslo
+Lisbon	Lisboa
+Way	Música
+Mosku	Moscú
+Cadd	Chad
+Seland-Gu-Bees	Nueva Zelanda
+End	India
+Tuvalu	Tuvalu
+Tonga	Tonga
+Samowaa	Samoa
+Duni Solomon	Islas Salomón
+Wanuatu	Vanuatu
+Papuwaasi-Gine-Gu-Bees	Papúa Nueva Guinea
+Palau	Palaos
+Nauru	Nauru
+Réew yu Bennoo yu Mikronesi	Estados Federados de Micronesia
+Duni Marshall	Islas Marshall
+Kiribati	Kiribati
+Mongoli	Mongolia
+Fiiji	Fiyi
+Benesuwela	Venezuela
+Amsterdam	Ámsterdam
+Rab	Animalia
+Surinaam	Surinam
+Paraguwaay	Paraguay
+Guyaana	Guyana
+Fànn	Arte
+Ekwadoor	Ecuador
+Koloombi	Colombia
+Boliibi	Bolivia
+Tirinidaad ak Tobaago	Trinidad y Tobago
+Gàncax	Plantae
+Saint Vincent and the Grenadines	San Vicente y las Granadinas
+Saint Lucia	Santa Lucía
+Saint Kitts and Nevis	San Cristóbal y Nieves
+Jamayka	Jamaica
+Grenada	Granada (país)
+Guwaatemala	Guatemala
+Bahamas	Bahamas
+Ganaar	Gallus gallus domesticus
+Antigua ak Barbuda	Antigua y Barbuda
+Onduras	Honduras
+Dominika	Dominica
+Réewum Dominik	República Dominicana
+Mbaam	Sus scrofa domestica
+Mbàmbulaan gu Bëj-gànnaar	Océano Ártico
+Ayiti	Haití
+Salbadoor	El Salvador
+Iraan	Irán
+Iraak	Irak
+Kosta Riika	Costa Rica
+Israayil	Israel
+Panamaa	Panamá
+Yaman	Yemen
+Jordaani	Jordania
+Nikaraaguwa	Nicaragua
+Kirgistaan	Kirguistán
+Kowet	Kuwait
+Réewum Lawos	Laos
+Libaa	Líbano
+Maldiif	Maldivas
+Aamerig	América
+Maleesi	Malasia
+Miyanmaar	Birmania
+Nepaal	Nepal
+Omaan	Omán
+Pakistaan	Pakistán
+Kataar	Catar
+Araabi Sawdit	Arabia Saudita
+Siri Laanka	Sri Lanka
+Siri	Siria
+Tajikistaan	Tayikistán
+Taaywaan	República de China
+Taaylaand	Tailandia
+Ceññeer-mbej	Radiocomunicación
+Turkumenistaan	Turkmenistán
+Imaaraat yu Araab yu Bennoo yi	Emiratos Árabes Unidos
+Wiyetnaam	Vietnam
+Kore gu Bëj-saalum	Corea del Sur
+Afganistaan	Afganistán
+Banglaades	Bangladés
+Mali	Malí
+Angolaa	Angola
+Butaan	Bután
+Tansani	Tanzania
+Filipiin	Filipinas
+Réewum Diggu Afrig	República Centroafricana
+Dottub Bëj-saalum	Polo Sur
+Dottub Bëj-gànnaar	Polo Norte
+Albert Einstein	Albert Einstein
+Mboq	Amarillo
+Togóo	Togo
+Tiniisi	Túnez
+Saambi	Zambia
+Simbaawee	Zimbabue
+Bene	Benín
+Botswana	Botsuana
+Burkinaa Faaso	Burkina Faso
+Buruundi	Burundi
+Komoor	Comoras
+Kongóo-Brasaawiil	República del Congo
+Kongóo-Kinshasa	República Democrática del Congo
+Jibuti	Yibuti
+Gineg yamoo	Guinea Ecuatorial
+Eritere	Eritrea
+Tibilisi	Tiflis
+Gaboŋ	Gabón
+Gàmbi	Gambia
+Gine	Guinea
+Gine Bisaawóo	Guinea-Bisáu
+Kodiwaar	Costa de Marfil
+Kamerun	Camerún
+Kap Weert	Cabo Verde
+Lesoto	Lesoto
+Libeeria	Liberia
+Libi	Libia
+Madagaskaar	Madagascar
+Malawi	Malaui
+Gànnaar	Mauritania
+Móoris	Mauricio
+Marok	Marruecos
+Mosambik	Mozambique
+Namibi	Namibia
+Niseer	Níger
+Charles Darwin	Charles Darwin
+Ugandaa	Uganda
+Ruwandaa	Ruanda
+Saw Tome ak Preesip	Santo Tomé y Príncipe
+Senegaal	Senegal
+Seysel	Seychelles
+Siraa Leyoon	Sierra Leona
+Somali	Somalia
+Julius Caesar	Julio César
+Sudaan	Sudán
+Suwaasilaand	Suazilandia
+Kureelu Mbootayu Xeet yi	Organización de las Naciones Unidas
+Melosuuf	Geografía
+Melo	Color
+Prag	Praga
+Baxa	Azul
+Yanu mbëj	Carga eléctrica
+Poortorikoo	Puerto Rico
+Mbàmbulaanug End	Océano Índico
+Wàll:Xët wu njëkk	Categoría:Índice de categorías
+Golo	Mono
+Koppar	Dinero
+Gunóor	Insecta
+Niccolò Machiavelli	Nicolás Maquiavelo
+Uetersen	Uetersen
+Jibraltaar	Gibraltar
+Sagreb	Zagreb
+Astana	Astaná
+Aten	Atenas
+Bagdad	Bagdad
+Caracas	Caracas
+Wiyen	Viena
+Kopenagen	Copenhague
+Stokolm	Estocolmo
+Elsinki	Helsinki
+Dublin	Dublín
+Reykjawik	Reikiavik
+Talin	Tallin
+Riga	Riga
+Baratislawa	Bratislava
+Budapest	Budapest
+Luksambuur (péy)	Luxemburgo (ciudad)
+Wadus	Vaduz
+Biibël	Biblia
+San Marino (péy)	San Marino (ciudad)
+Ho Chi Minh City	Ciudad Ho Chi Minh
+Jàngu Yéesu bu Dëggu bi	Verdadera Iglesia de Jesús
+Wu-angalteer	Idioma inglés
+Andorra la Vella	Andorra la Vieja
+Đồng Hới	Đồng Hới
+Concepción (Ciili)	Concepción (Chile)
+Kiyew	Kiev
+Końskowola	Końskowola
+Xartum	Jartum
+Sharles Degóol	Charles de Gaulle
+Mbëjfepp	Electrón
+Minsk	Minsk
+Feppsaal	Protón
+Kurów	Kurów
+Feppmaandu	Neutrón
+Mogadisu	Mogadiscio
+Football	Fútbol
+Madrid	Madrid
+Wert	Verde
+Xonq	Rojo
+Safara	Fuego
+Lourdes	Lourdes (Altos Pirineos)
+Niiruw jant	Nebulosa protosolar
+Rabat	Rabat
+Alse	Argel
+Dexub Senegaal	Río Senegal
+Tunis	Túnez (ciudad)
+Tripoli (Libi)	Trípoli
+Jibuti (dëkk)	Yibuti (ciudad)
+Addis-Abeba	Adís Abeba
+Ankara	Ankara
+Asmara	Asmara
+Njamena	Yamena
+Nouakchott	Nuakchot
+Belgrad	Belgrado
+Ndakaaru	Dakar
+Banjul	Banjul
+Wàll:Royuwaay	Categoría:Wikipedia:Plantillas
+Praia	Praia
+Guyaana gu Faraas	Guayana Francesa
+Amman	Amán
+Yaunde	Yaundé
+Malabo	Malabo
+Libarwil	Libreville
+Bangi	Bangui
+Kinshasa	Kinsasa
+Brasawil	Brazzaville
+Bujumbura	Buyumbura
+Kigali	Kigali
+Dodoma	Dodoma
+Nairobi	Nairobi
+Lilongwe	Lilongüe
+Lusaka	Lusaka
+Maputo	Maputo
+Kampala	Kampala
+Luanda	Luanda
+Moroni	Moroni (Comoras)
+Antananariwo	Antananarivo
+Arare	Harare
+Wiktoria (Seysel)	Victoria (Seychelles)
+Kër	Casa
+Lonkoyoon	Mapa
+Dex	Río
+Osasco	Osasco
+Curitiba	Curitiba
+Sowwu Afrig	África Occidental
+Confucius	Confucio
+Corbin Bleu	Corbin Bleu
+Wàll:Xayma	Categoría:Matemáticas
+Duni Faarow	Islas Feroe
+Géej gu Diggu	Mar Mediterráneo
+Gox	Continente
+Monzón	Monzón (Huesca)
+Weer	Mes
+Mustafa Kemal Atatürk	Mustafa Kemal Atatürk
+Almazán	Almazán
+Jimbulang	Enciclopedia
+Xët wu njëkk	Wikipedia:Portada
+Dëgërlukaay	Resistor
+Fattalukaay(mbëj)	Condensador eléctrico
+Xiirtalukaay	Inductor
+Tugalasi	Eurasia
+Babilon	Babilonia (ciudad)
+Dunu Aland	Åland
+Betleyem	Belén
+Duni Kanaari	Canarias
+Xeltu	Filosofía
+Rap	Rap
+Hebe Camargo	Hebe Camargo
+Sahara gu Sowwu	Sahara Occidental
+Atali	Antalya
+Wàll:Saytubiddiw	Categoría:Astronomía
+Saara	Desierto del Sahara
+Niels Bohr	Niels Bohr
+Politig	Política
+Qin Shi Huang	Qin Shi Huang
+Penku gu Diggu	Oriente Medio
+Réew	Estado
+Mbàmbulaan gu Bëj-saalum	Océano Antártico
+Bët	Ojo
+Melentaan	Formicidae
+Simili	Minuto
+Taariixu Itaali	Historia de Italia
+Mburu	Pan
+Kiswahili	Idioma suajili
+Dereet	Sangre
+Toulouse	Toulouse
+Xam-xamu suuf si ak jawwu ji	Ciencias de la Tierra
+Doj	Roca
+Jawwu ji	Atmósfera
+Koom-koom	Economía
+Yewwute gu ndefar	Industria
+Wàll:Bulgaari	Categoría:Bulgaria
+Njàngat	Literatura
+Wàll:Faraas	Categoría:Francia
+Wàll:Woy	Categoría:Música
+Wàll:Njàngat	Categoría:Literatura
+.ac	.ac
+Xay	Civilización
+Gόor	Varón
+Tangor	Montaña
+Yay	Desierto
+Ooŋ Koŋ	Hong Kong
+HTML	HTML
+Xarefulwoon	Átomo
+Nosteg doxiin	Sistema operativo
+Baku	Bakú
+Mbàmbulaan	Océano
+Budda	Buda Gautama
+Premier League	Premier League
+Mohammed	Mahoma
+Dunu Falkland	Islas Malvinas
+Ronald Reagan	Ronald Reagan
+Gordon Brown	Gordon Brown
+Wàll:Benesuwela	Categoría:Venezuela
+Pitax	Columbidae
+Garab	Árbol
+Wuutuloxo	Máquina
+Xibaar	Información
+Paj	Medicina
+Saarayego	Sarajevo
+Wàll:Breesil	Categoría:Brasil
+Wàll:Romaani	Categoría:Rumania
+Xeet	Elemento químico
+Kàttan	Energía
+Hip-hop	Hip hop
+Mbëjbijjaakon	Electromagnetismo
+Toolu bijjaakon	Campo magnético
+Dooley ñoddi	Gravedad
+Bijjaan	Imán
+Yolaakon	Líquido
+Féex	Vacío
+Yaatuwaay	Área
+Saa	Segundo
+Cuub	Pintura
+Nataal	Fotografía
+Yatt	Escultura
+Mbëjfeppal	Electrónica
+Dawaanu mbëj	Corriente eléctrica
+Baraay	Frecuencia
+Soppalikaay	Transformador
+Xaralay xibaar ak jokkoo	Tecnología de la información
+Duni Virgin (us)	Islas Vírgenes de los Estados Unidos
+Bëj-saalum-penku Asi	Sudeste Asiático
+Limu réewi àdduna bi	Anexo:Países
+Njëkk-taariix	Prehistoria
+Réewum ñaari dex yi	Mesopotamia
+Las Palmasu Kanaari gu Mag	Las Palmas de Gran Canaria
+Arminaat	Calendario
+Xarey jóoñe	Cruzadas
+Mbëj	Electricidad
+Montserrat	Montserrat
+Ndajem Berlin	Conferencia de Berlín
+Adiratig	Mar Adriático
+Ngiste	Óptica
+Makaaw	Macao
+Soviet Yi Benno	Unión Soviética
+Queen	Queen
+Royuwaay:Lien AdQ	Plantilla:Destacado
+Àdduna	Mundo
+Wikipedia:Pénc mi	Wikipedia:Café
+Guam	Guam
+Samoa gu Aamerig	Samoa Americana
+Northern Mariana Islands	Islas Marianas del Norte
+United States Minor Outlying Islands	Islas Ultramarinas Menores de Estados Unidos
+Guwaadalup	Guadalupe (Francia)
+Martinik	Martinica
+Mayoot	Mayotte
+Reiñõo	Reunión (departamento de Francia)
+Turks and Caicos Islands	Islas Turcas y Caicos
+Manchester United	Manchester United Football Club
+Juróom ñent	Nueve
+Bien Hoa	Biên Hòa
+Nha Trang	Nha Trang
+Rafael Correa	Rafael Correa
+Bukarest	Bucarest
+Louvre	Museo del Louvre
+Kureelu tembte bu Poortorikoo	Partido Independentista Puertorriqueño
+Tirana	Tirana
+Nowel	Navidad
+Breinigerberg	Breinigerberg
+Ségg	Panthera tigris
+Kisinawu	Chisináu
+Xam-xamu nosukaay	Ciencias de la computación
+Şalom	Şalom
+Aruba	Aruba
+Juróom ñaar	Siete
+Juróom ñett	Ocho
+Ayubés	Semana
+Ngéej	Lago
+Jeexiituwaay bu Orsay	Museo de Orsay
+Dunu Buwet	Isla Bouvet
+Dun	Isla
+Juróom benn	Seis
+Moshchena	Moshchena
+Paltoga	Paltoga
+Yamoo	Ecuador terrestre
+Mérida, Benesuwela	Mérida (Venezuela)
+Podgorika	Podgorica
+Baatukaay	Diccionario
+Bermuda	Bermudas
+Palestiin	Palestina (región)
+Waleta	La Valeta
+Fukk	Diez
+Tene	Acinonyx jubatus
+Looy	Strigiformes
+Angila	Anguila (dependencia)
+Waxtu	Hora
+Pichilemu	Pichilemu
+Duni Virgin (angalteer)	Islas Vírgenes Británicas
+Phan Thiet	Phan Thiết
+Goxub Dottub Bëj-gànnaar	Ártico
+Ngóora (jëmm)	Potencia (física)
+Ndëgërlu gu mbëj	Resistencia eléctrica
+Dendu mbëj	Tensión (electricidad)
+Niccolò Cusano University	Universidad Nicolás de Cusa
+Mbëjtekkaaral	Electrostática
+Anet	Anethum graveolens
+Dunu Kook	Islas Cook
+Penku Asi	Asia Oriental
+Diggu Asi	Asia Central
+Bëj-gànnaaru Afrig	Norte de África
+Bëj-saalumu Afrig	África austral
+Penku Afrig	África Oriental
+Diggu Afrig	África Central
+Bëj-saalumu Tugal	Europa meridional
+Penku Tugal	Europa Oriental
+Bëj-gànnaaru Tugal	Europa del Norte
+Sowwu Tugal	Europa Occidental
+Afritugalasi	Eurafrasia
+Diggu Aamerig	América Central
+Maghreb	Magreb
+Weeri wolof	Calendario musulmán
+Ecser	Ecser
+Akas	Ajaz
+Polineesi gu Faraas	Polinesia Francesa
+Dunu Norfolk	Isla Norfolk
+Dunu Christmas	Isla de Navidad
+Arabi	Arabia
+Paaka	Cuchillo
+Pullaar	Idioma fula
+Kaledooni-Gu-Bees	Nueva Caledonia
+Way-dëkk	Población
+Niwe	Niue
+Tus-wu-gaar	Latitud
+Wolof (làkk)	Idioma wólof
+Gëstubiddiw	Astrología
+Seent Eleen	Isla Santa Elena
+Saint Pierre ak Miquelon	San Pedro y Miquelón
+Njëkk-xaymà	Anexo:Prefijos telefónicos mundiales
+Tequixquiac	Tequixquiac
+Jeoorji gu Bëj-saalum ak Duni Islaand yi Bëj-saalum	Islas Georgias del Sur y Sandwich del Sur (territorio británico de ultramar)
+Dalub web	Sitio web
+Araab	Pueblo árabe
+Wallis ak Futuna	Wallis y Futuna
+Pitkeern	Islas Pitcairn
+Ne-ne	Materia
+Al Bayda	Al Baida
+Gaal	Barco
+Polineesi	Polinesia
+Dunu Kokos	Islas Cocos
+Thanh Hoa	Thanh Hóa
+Siligo	Siligo
+Tus-wu-taxaw	Longitud (cartografía)
+Dàngin	Gorilla
+Ben Tre	Bến Tre (ciudad)
+Xëtu web	Página web
+Tokelau	Tokelau
+Tembte	Independencia
+Melaneesi	Melanesia
+Téeméer	Cien
+Campora San Giovanni	Campora San Giovanni
+Besançon	Besanzón
+Jinax	Mus (animal)
+Melosuufug Burkinaa Faaso	Geografía de Burkina Faso
+Suraas	Naranja (color)
+Artemis	Artemisa
+Esaas	Gasolina
+Radio Studio 54 Network	Radio Studio 54 Network
+Tëriinuw nosukaay	Programa informático
+Jëf ya	Hechos de los Apóstoles
+Bejjenu Afrig	Cuerno de África
+Fatt-jawwu	Troposfera
+Al Pacino	Al Pacino
+Doolerandu	Mecánica
+Sinemaa	Sala de cine
+Jum	Cohete
+Daawuda	David
+Seere	Shahada
+Liggéey (jëmm)	Trabajo (física)
+Penku gu Sori	Extremo Oriente
+Gëwéel	Zona intertropical
+Junni	Mil
+Xaralaymbëj	Ingeniería eléctrica
+Waañ	Cocina (habitación)
+Andare	Andrés el Apóstol
+Bartelemi	Bartolomé el Apóstol
+Melosuufug Alseeri	Geografía de Argelia
+Alex Ferguson	Alex Ferguson
+The Doors	The Doors
+Toolu mbëj	Campo eléctrico
+Kàttanug imbiku	Energía cinética
+Mbootaayu Réewi Jullit yi	Organización para la Cooperación Islámica
+Penku gu Jege	Oriente Próximo
+Royuwaay:Bokktekki	Desambiguación lingüística
+Almasi bi	Mesías
+Bànni Israyil	Tribus de Israel
+Aaroona	Aarón
+Anas	Anás
+Jàngoroy Ebola	Enfermedad por el virus del Ébola
+Locri	Locri
+Monaako (péy)	Mónaco (ciudad)
+Wàll:Filmi	Categoría:Películas
+Aset	Plato
+Truong Tan Sang	Trương Tấn Sang
+Duran Duran	Duran Duran
+Safaanukaay	Alternador
+Ron-goxu End	Subcontinente indio
+Diiwaani dott	Regiones polares
+Sahel	Sahel
+Aadama	Adán
+Doxalukaay bu mbëj	Motor eléctrico
+Ametist	Amatista
+Coronel Fabriciano	Coronel Fabriciano
+Junj	Símbolo
+1 Korent	Primera epístola a los corintios
+Furset	Tenedor
+Kuddu	Cuchara
+Royan	Royan
+Lepton	Leptón
+Bundesliga	Bundesliga (Alemania)
+Dencukaay	Archivo (informática)
+Cosaan	Tradición
+Jéeri ji	Litosfera
+Ba Don	Ba Đồn
+Lëkkalekaay	Hiperenlace
+Nukleon	Nucleón
+Beril	Berilo
+Xarey àdduna	Guerra mundial
+Abdulaay Wàdd	Abdoulaye Wade
+Dëgërluwiin	Resistividad
+Yolom-jawwu	Estratosfera
+Melosuufug Tugal	Geografía de Europa
+Dawaan bu safaanu	Corriente alterna
+Disc jockey	Disc jockey
+2 Piyeer	Segunda epístola de Pedro
+Heard Island and McDonald Islands	Islas Heard y McDonald
+Jurukaayu mbëj	Generador eléctrico
+Ndombo gu mbëj	Circuito
+Mamudsu	Mamoudzou
+Afrig gu bëj-saalumu-Sahara	África negra
+Sawara	Combustión
+Raaya wu Senegaal	Bandera del Senegal
+Albaatar	Alabastro
+Diggi-tabaski	Du l-qa'da
+Leopool Sedaar Sengoor	Léopold Sédar Senghor
+Dóox	Ducado
+Bennoo gu Almaañ	Unificación alemana
+Dawaan bu wéy	Corriente continua
+Pachuca de Soto	Pachuca de Soto
+Iyon-jawwu	Ionosfera
+Break dancing	Breakdance
+Biti-jawwu	Exosfera
+Asot	Asdod
+Amiin	Amén
+Amos	Libro de Amós
+Bunt: taariix	Portal:Historia
+Ponki Lislaam	Pilares del islam
+Toolu mbëjbijjaakon	Campo electromagnético
+Xiirtalu	Inductancia
+Mbëjbijjaan	Electroimán
+ASP.NET	ASP.NET
+Diiwaanu Ndar	Región de Saint-Louis
+Ayóoba	Job (Biblia)
+Aakimoo jawwu ji	Exploración espacial
+Dalu Archimède	Principio de Arquímedes
+Imbraatóor gu Mali	Imperio de Malí
+Barnabas	Bernabé apóstol
+Alaaji Omar Fuutiyu TAAL	El Hadj Umar Tall
+Tabaski	Du l-hiyya
+Armagedon	Armagedón
+Njël	Orto
+Ndeyi-koor	Rayab
+Bere	Véria (Grecia)
+Areyopas	Areópago
+Beelsebul	Belcebú
+Pël	Fulani
+Imbraatóor gu Songaay	Imperio songhai
+Vesoul	Vesoul
+Akayi	Acaya (provincia romana)
+Alisa	Eliseo
+Imbraatóor gu Gana	Imperio de Ghana
+Kàttanug mbëj	Energía eléctrica
+Piipa	Delphinus delphis
+Doxalukaay bu demandoodi	Motor asíncrono
+Duusub sin	Sinusoide
+Sudaan (diiwaan)	Sudán (región)
+Njeexitu joule	Efecto Joule
+Yuusu Nduur	Youssou N'Dour
+Bowas	Booz
+Ajara	Agar
+Wolof (askan)	Wólof
+Amfipolis	Anfípolis
+Turu Way-Dëkk	Gentilicio
+Baraxlu	Shaabán
+Ngaté bu digen	Diplodus vulgaris
+Sao Tome (dun)	Isla de Santo Tomé
+Haj	Hajj
+Krushynka	Krushynka
+Arkelawus	Herodes Arquelao
+Beer	Isla de Gorea
+Mboolaay	Sociedad (desambiguación)
+Ndar	Saint Louis (Senegal)
+Yoonu Eŋaca	Vía Egnatia
+Rakki-gàmmu	Rabi' al-Thani
+Abadon	Abadón
+Wommat wu mbëj	Conductancia eléctrica
+Jasaan	Pristis pectinata
+Asaf	Asa de Judá
+Barabas	Barrabás
+Agaripa	Herodes Agripa II
+Abel	Abel
+Amon	Amón de Judá
+Ousmane Sembène	Ousmane Sembène
+Abiyatar	Abiatar
+Akilas	Aquila de Sinope
+Aristobul	Aristóbulo I
+Agabus	Ágabo
+Bëer	Argyrosomus regius
+Bitini	Bitinia
+Toq	Tockus
+Xaaju kol-kol	Hemisferio
+Yolet	Violeta (color)
+Ahmadou Bamba	Amadou Bamba
+Arpagsàdd	Arfaxad
+Ben-yamin	Benjamín
+Berenis	Berenice (hija de Herodes Agripa I)
+Aristàrk	Aristarco de Tesalónica
+Saamóori Ture	Samory Touré
+Gàmmu	Rabi' al-Awwal
+Planoise	Planoise
+Diggi-gàmmu	Safar
+Betsayda	Betsaida
+Bisub Tabaski	Eid al-Adha
+Seex Anta Jóob	Cheikh Anta Diop
+Dalmasi	Dalmacia
+Max	Isoptera
+Antipas	Antipas de Pérgamo
+Balaam	Balaam
+Wure	Oware
+Ancos ci Pisidi	Antioquía de Pisidia
+Koom-koomu Afrig	Economía de África
+Diiwaanu Séeju	Región de Sédhiou
+Baal	Baal
+Sompat	Pomadasys perotaei
+Cees	Thiès
+Tuubaa	Touba (Senegal)
+Antipataris	Antipatris
+Kori	Shawwal
+Taariixu Aamerig	Historia de América
+Diiwaanu Luga	Región de Louga
+Diiwaanu Koldaa	Región de Kolda
+Séeréer	Serer
+Asos	Aso (Misia)
+Tundi Senegaal	Departamentos de Senegal
+Jolof	Imperio Jólof
+Melosuufug Afrig	Geografía de África
+Banda	Plectorhinchus mediterraneus
+Bartime	Bartimeo (ciego)
+Beliyar	Belial
+Mandinke	Mandinga
+Maami-koor	Yumada al-Thania
+Diiwaanu Siggcoor	Región de Ziguinchor
+Awa	Eva
+Betani	Betania
+Betesda	Piscina de Bethesda
+Kaasamaas	Casamance
+Swalbard ak Jan Mayen	Svalbard y Jan Mayen
+Santiago Tequixquiac	Santiago Tequixquiac
+Limub njiiti Senegaal yil	Anexo:Presidentes de Senegal
+Doxalukaay bu demandoo	Motor síncrono
+Diiwaanu Kawlax	Región de Kaolack
+Kawlak	Kaolack
+Diiwaanu Cees	Región de Thiès
+Diiwaanu Tambaakundaa	Región de Tambacounda
+Rakkaati-gàmmu	Yumada al-Wula
+Nosteg galag	Derecho tributario
+Diiwaanu Njaaréem	Región de Diourbel
+Diiwaanu Ndakaaru	Región de Dakar
+Diiwaanu Maatam	Región de Matam
+Diiwaanu Fatik	Región de Fatick
+Kaabu	Reino de Gabú
+Oiapoque	Oiapoque
+Jurbel	Diourbel
+Wuutuloxo bu mbëj	Máquina eléctrica
+Xiirtalug mbëjbijjaakon	Inducción electromagnética
+Budka Suflera	Budka Suflera
+Tëngéej	Rufisque
+Podoor	Podor
+Mbuur	M'Bour
+Diiwaanu Kéedugu	Región de Kédougou
+Diiwaanu Kafrin	Región de Kaffrine
+Catir	Tiatira
+Wersun	Spondyliosoma cantharus
+Melosuufug Angolaa	Geografía de Angola
+Taariixu Senegaal	Historia de Senegal
+Joolaa (askan)	Diola
+Abilen	Abilene (Biblia)
+Wàll:Gόor	Categoría:Hombre
+Wàll:Almaañ	Categoría:Alemania
+Wàll:Itaali	Categoría:Italia
+Wàll:Riisi	Categoría:Rusia
+Wàll:Kanadaa	Categoría:Canadá
+Wàll:Nguur-Yu-Bennoo	Categoría:Reino Unido
+Wàll:Ispaañ	Categoría:España
+Wàll:Sapoŋ	Categoría:Japón
+Wàll:Óstraali	Categoría:Australia
+Wàll:Meksik	Categoría:México
+Wàll:End	Categoría:India
+Wàll:Araabi Sawdit	Categoría:Arabia Saudita
+Wàll:Israayil	Categoría:Israel
+Wàll:Watikaa	Categoría:Ciudad del Vaticano
+Wàll:Tirki	Categoría:Turquía
+Wàll:Afrig gu Bëj-saalum	Categoría:Sudáfrica
+Wàll:Isipt	Categoría:Egipto
+Wàll:Iraan	Categoría:Irán
+Wàll:Arsantin	Categoría:Argentina
+Balag	Balac
+Abba	Abbá
+Wàll:Afganistaan	Categoría:Afganistán
+Wàll:Alseeri	Categoría:Argelia
+Wàll:Banglaades	Categoría:Bangladés
+Wàll:Kubaa	Categoría:Cuba
+Wàll:Ecoopi	Categoría:Etiopía
+Wàll:Endoneesi	Categoría:Indonesia
+Wàll:Iraak	Categoría:Irak
+Wàll:Niseeria	Categoría:Nigeria
+Wàll:Poloñ	Categoría:Polonia
+Wàll:Portugaal	Categoría:Portugal
+Wàll:Kore gu Bëj-saalum	Categoría:Corea del Sur
+Wàll:Sudaan	Categoría:Sudán
+Wàll:Suwis	Categoría:Suiza
+Wàll:Tansani	Categoría:Tanzania
+Wàll:Ukreen	Categoría:Ucrania
+Wàll:Wiyetnaam	Categoría:Vietnam
+Wàll:Picc	Categoría:Aves
+Wàll:Gàncax	Categoría:Plantae
+Wàll:Jëmm	Categoría:Física
+Wàll:Taariix	Categoría:Historia
+Wàll:Melosuuf	Categoría:Geografía
+Wàll:Diine	Categoría:Religión
+Wàll:Sport	Categoría:Deporte
+Wàll:Xam-xam	Categoría:Ciencia
+Wàll:Sinemaa	Categoría:Cine
+Wàll:Suuf	Categoría:Tierra
+Wàll:Xibaar	Categoría:Información
+Melosuufug Afrig gu Bëj-saalum	Geografía de Sudáfrica
+Njàngale	Caso instructivo
+Aana	Ana (profetisa)
+Aser	Aser
+Melosuufug Botswana	Geografía de Botsuana
+Tamxarit	Muharram
+Yoonu murit	Muridismo
+Wàll:Xeltu	Categoría:Filosofía
+Wàll:Lislaam	Categoría:Islam
+Melosuufug Bene	Geografía de Benín
+Mandabi	Manda-bi
+Melosuufug Buruundi	Geografía de Burundi
+Aminadab	Aminadab
+Melosuufug Senegaal	Geografía de Senegal
+Tunduw Ndakaaru	Departamento de Dakar
+Fëtt	Pseudotolithus
+Betfase	Betfagé
+Ba Ria	Ba Ria
+Djabar	Lutjanus agennes
+Melosuufug Kamerun	Geografía de Camerún
+Dundat yi	Biota (taxonomía)
+Benedicta Boccoli	Benedicta Boccoli
+Fötö	Pseudotolithus typus
+Arimate	Arimatea
+Taís Araújo	Taís Araújo
+Aliin Situwe Jaata	Alyn Sytoe Jata
+Wàll:Gox yi	Categoría:Continentes
+Angolemi	Angolemi
+Bunt:Melosuuf	Portal:Geografía
+Balastus	Blastus
+Mikroneesi	Micronesia
+Séddaliinu yoriinu Senegaal	Organización territorial de Senegal
+Anna Rita Del Piano	Anna Rita Del Piano
+Royuwaay:M	Plantilla:Ep
+Royuwaay:Yeneenlàkk	Plantilla:Portada:Idiomas
+Wàll:Réew	Categoría:Países
+Wàll:Koom-koom	Categoría:Economía
+Wikipedia:Yorkat	Wikipedia:Bibliotecarios
+Wàll:Kasakistaan	Categoría:Kazajistán
+Wikipedia:Bureaucrats	Wikipedia:Burócratas
+Wikipedia:Bot	Wikipedia:Bot
+Wàll:Paj	Categoría:Medicina
+Wàll:Politig	Categoría:Política
+Wàll:Fànn	Categoría:Arte
+Isipt	Egipto
+Royuwaay:Bot	Plantilla:Bot
+Kanadaa	Canadá
+Wàll:Beljik	Categoría:Bélgica
+Wàll:Ciipër	Categoría:Chipre
+Wàll:Réewum Cek	Categoría:República Checa
+Wàll:Danmaark	Categoría:Dinamarca
+Wàll:Estooni	Categoría:Estonia
+Wàll:Finlaand	Categoría:Finlandia
+Wàll:Girees	Categoría:Grecia
+Wàll:Letóoni	Categoría:Letonia
+Wàll:Islaand	Categoría:Islandia
+Wàll:Luksambuur	Categoría:Luxemburgo
+Wàll:Lituwaani	Categoría:Lituania
+Wàll:Malt	Categoría:Malta
+Wàll:Suweed	Categoría:Suecia
+Wàll:Eslowaaki	Categoría:Eslovaquia
+Wàll:Esloweeni	Categoría:Eslovenia
+Bunt: Xarala	Portal:Ciencias naturales y formales
+Wàll:Tugal	Categoría:Europa
+Wommatiinu mbëj	Conductividad eléctrica
+Wàll:Waa-wikipedia ci làkk-ak-làkk	Categoría:Wikipedia:Wikipedistas por idioma
+Sung Jae-gi	Sung Jae-ki
+Royuwaay:Softredirect	Plantilla:Redirección suave
+Royuwaay:Far	Plantilla:Destruir
+Wàll:Xarala	Categoría:Tecnología
+Wàll:Làkk	Categoría:Lenguas
+Wàll:Arminaat	Categoría:Calendarios
+Wàll:Wikipedia	Categoría:Wikipedia
+Apolyon	Apolión
+Royuwaay:!	Plantilla:!
+Wàll:Afrig	Categoría:África
+Wàll:Sulet	Categoría:Julio
+Wàll:Suwe	Categoría:Junio
+Wàll:Mbëjfeppal	Categoría:Electrónica
+Wàll:Leeral Biibël	Categoría:Biblia
+Wàll:Weeri at mi	Categoría:Meses
+Royuwaay:Babel	Plantilla:Babel
+Royuwaay:Commons	Plantilla:Commons
+Royuwaay:Lien BA	Plantilla:Bueno
+Wàll:Xaralaymbëj	Categoría:Ingeniería eléctrica
+Royuwaay:ANG	Plantilla:AGO
+Royuwaay:Junj	Plantilla:Esbozo
+Wàll:Dundat yi	Categoría:Vida
+Wàll:Fewirie	Categoría:Febrero
+Wàll:Gunóor	Categoría:Insecta
+Wàll:Moldaawi	Categoría:Moldavia
+Royuwaay:HRV	Plantilla:HRV
+Wàll:Aserbayjaan	Categoría:Azerbaiyán
+Wàll:Asi	Categoría:Asia
+Wàll:Ciili	Categoría:Chile
+Wàll:Lesoto	Categoría:Lesoto
+Wàll:Jëfandikukat uk	Categoría:Wikipedia:Wikipedistas con conocimientos de ucraniano
+Wàll:Jëfandikukat uk-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de ucraniano
+Wàll:Maleesi	Categoría:Malasia
+Wàll:Football	Categoría:Fútbol
+Wàll:Jimbulang	Categoría:Enciclopedias
+Royuwaay:USA	Plantilla:USA
+Royuwaay:ITA	Plantilla:ITA
+Royuwaay:GEO	Plantilla:GEO
+Royuwaay:BOL	Plantilla:BOL
+Royuwaay:MEX	Plantilla:MEX
+Wàll:Jëfandikukat fr-1	Categoría:Wikipedia:Wikipedistas con nivel básico de francés
+Royuwaay:MAR	Plantilla:MAR
+Royuwaay:MDK	Plantilla:MDG
+Royuwaay:ISBN	Plantilla:ISBN
+Royuwaay:SVK	Plantilla:SVK
+Royuwaay:EGY	Plantilla:EGY
+Royuwaay:KGZ	Plantilla:KGZ
+Royuwaay:MYT	Plantilla:MYT
+Royuwaay:Infobox Réew	Plantilla:Ficha de país
+Royuwaay:Max	Plantilla:Max
+Royuwaay:STP	Plantilla:STP
+Royuwaay:VEN	Plantilla:VEN
+Royuwaay:UKR	Plantilla:UKR
+Royuwaay:ROU	Plantilla:ROU
+Royuwaay:TUR	Plantilla:TUR
+Royuwaay:JBT	Plantilla:DJI
+Wàll:Gana	Categoría:Ghana
+Wàll:Jëfandikukat en-4	Categoría:Wikipedia:Wikipedistas con nivel experto de inglés
+Wàll:Togóo	Categoría:Togo
+Wàll:Jëfandikukat en	Categoría:Wikipedia:Wikipedistas con conocimientos de inglés
+Wàll:Jëfandikukat zh	Categoría:Wikipedia:Wikipedistas con conocimientos de chino
+Wàll:Korwaasi	Categoría:Croacia
+Wàll:Jëfandikukat zh-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de chino
+Wàll:Jëfandikukat en-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de inglés
+Royuwaay:Coord/URL	Plantilla:Coor URL
+Wàll:Jëfandikukat hi	Categoría:Wikipedia:Wikipedistas con conocimientos de hindi
+Farhad Zarif	Farhad Zarif
+Wàll:Aamerig	Categoría:América
+Royuwaay:Boyutu Babel N	Plantilla:BabelN
+Royuwaay:Boyutu Babel 1	Plantilla:Babel1
+Royuwaay:KPW	Plantilla:CPV
+Wàll:Samwie	Categoría:Enero
+Royuwaay:TJK	Plantilla:TJK
+Royuwaay:GAN	Plantilla:GHA
+Royuwaay:GAM	Plantilla:GMB
+Royuwaay:IDN	Plantilla:IDN
+Royuwaay:AFB	Plantilla:ZAF
+Royuwaay:POL	Plantilla:POL
+Royuwaay:BOA	Plantilla:BWA
+Royuwaay:URY	Plantilla:URY
+Royuwaay:CUB	Plantilla:CUB
+Royuwaay:KMR	Plantilla:CMR
+Royuwaay:KOS	Plantilla:COD
+Royuwaay:BIH	Plantilla:BIH
+Royuwaay:GIN	Plantilla:GIN
+Royuwaay:FIN	Plantilla:FIN
+Wàll:Cuub	Categoría:Pintura
+Royuwaay:CAN	Plantilla:CAN
+Royuwaay:DNK	Plantilla:DNK
+Royuwaay:Jëfandikukat	Plantilla:Página usuario
+Royuwaay:DEU	Plantilla:DEU
+Royuwaay:BEN	Plantilla:BEN
+Royuwaay:SWE	Plantilla:SWE
+Saeid Marouf	Saeid Marouf
+Royuwaay:Boyutu Babel 4	Plantilla:Babel4
+Wàll:Tiniisi	Categoría:Túnez
+Royuwaay:JPN	Plantilla:JPN
+Royuwaay:SOM	Plantilla:SOM
+Royuwaay:VAT	Plantilla:VAT
+Royuwaay:SWL	Plantilla:SWZ
+Wàll:Suti	Categoría:Equipamiento
+Royuwaay:ISL	Plantilla:ISL
+Royuwaay:MOR	Plantilla:MUS
+Royuwaay:COL	Plantilla:COL
+Royuwaay:GIB	Plantilla:GNB
+Royuwaay:ERT	Plantilla:ERI
+Royuwaay:GAR	Plantilla:MRT
+Royuwaay:GAB	Plantilla:GAB
+Royuwaay:IRN	Plantilla:IRN
+Royuwaay:MAL	Plantilla:MLI
+Royuwaay:SUD	Plantilla:SDN
+Royuwaay:NAM	Plantilla:NAM
+Royuwaay:RDA	Plantilla:CAF
+Royuwaay:MKD	Plantilla:MKD
+Royuwaay:GNY	Plantilla:GNQ
+Royuwaay:KOM	Plantilla:COM
+Royuwaay:SAM	Plantilla:ZMB
+Royuwaay:MLW	Plantilla:MWI
+Royuwaay:TAN	Plantilla:TZA
+Royuwaay:KAZ	Plantilla:KAZ
+Royuwaay:NIS	Plantilla:NER
+Royuwaay:KON	Plantilla:COG
+Royuwaay:SMR	Plantilla:SMR
+Royuwaay:PER	Plantilla:PER
+Royuwaay:MOS	Plantilla:MOZ
+Royuwaay:GUY	Plantilla:GUY
+Royuwaay:ECP	Plantilla:ETH
+Royuwaay:NIA	Plantilla:NGA
+Royuwaay:SRB	Plantilla:SRB
+Royuwaay:NIC	Plantilla:NIC
+Royuwaay:LIA	Plantilla:LBR
+Royuwaay:TKM	Plantilla:TKM
+Royuwaay:LIB	Plantilla:LBY
+Royuwaay:LES	Plantilla:LSO
+Royuwaay:BUK	Plantilla:BFA
+Royuwaay:CAD	Plantilla:TCD
+Royuwaay:PRY	Plantilla:PRY
+Royuwaay:ECU	Plantilla:ECU
+Royuwaay:SEY	Plantilla:SYC
+Royuwaay:SIR	Plantilla:SLE
+Royuwaay:LTU	Plantilla:LTU
+Royuwaay:IND	Plantilla:IND
+Wàll:Poortorikoo	Categoría:Puerto Rico
+Wàll:Jëfandikukat ja-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de japonés
+Wàll:Royuwaay jëfëndikookat	Categoría:Wikipedia:Plantillas de usuario
+Royuwaay:CHE	Plantilla:CHE
+Wàll:Suwaasilaand	Categoría:Suazilandia
+Wàll:Infobox	Categoría:Wikipedia:Fichas
+Royuwaay:ATG	Plantilla:ATG
+Royuwaay:GRC	Plantilla:GRC
+Royuwaay:PRT	Plantilla:PRT
+Royuwaay:SIM	Plantilla:ZWE
+Royuwaay:CZE	Plantilla:CZE
+Royuwaay:LVA	Plantilla:LVA
+Royuwaay:AZE	Plantilla:AZE
+Royuwaay:MNE	Plantilla:MNE
+Royuwaay:NLD	Plantilla:NLD
+Royuwaay:GBR	Plantilla:GBR
+Royuwaay:LIE	Plantilla:LIE
+Royuwaay:MDA	Plantilla:MDA
+Royuwaay:Boyutu Babel 3	Plantilla:Babel3
+Royuwaay:KOR	Plantilla:KOR
+Royuwaay:SVN	Plantilla:SVN
+Royuwaay:LBN	Plantilla:LBN
+Royuwaay:FRA	Plantilla:FRA
+Wàll:Mongoli	Categoría:Mongolia
+Wàll:Réewum Maseduwaan	Categoría:República de Macedonia
+Wàll:Jëfandikukat sk	Categoría:Wikipedia:Wikipedistas con conocimientos de eslovaco
+Wàll:Jëfandikukat eo	Categoría:Wikipedia:Wikipedistas con conocimientos de esperanto
+Wàll:Jëfandikukat et	Categoría:Wikipedia:Wikipedistas con conocimientos de estonio
+Wàll:Jëfandikukat fr	Categoría:Wikipedia:Wikipedistas con conocimientos de francés
+Wàll:Jëfandikukat hu-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de húngaro
+Wàll:Jëfandikukat id	Categoría:Wikipedia:Wikipedistas con conocimientos de indonesio
+Wàll:Jëfandikukat ia	Categoría:Wikipedia:Wikipedistas con conocimientos de interlingua
+Wàll:Jëfandikukat ja	Categoría:Wikipedia:Wikipedistas con conocimientos de japonés
+Wàll:Jëfandikukat la	Categoría:Wikipedia:Wikipedistas con conocimientos de latín
+Wàll:Jëfandikukat li	Categoría:Wikipedia:Wikipedistas con conocimientos de limburgués
+Wàll:Jëfandikukat pt	Categoría:Wikipedia:Wikipedistas con conocimientos de portugués
+Wàll:Jëfandikukat ro	Categoría:Wikipedia:Wikipedistas con conocimientos de rumano
+Wàll:Jëfandikukat sv	Categoría:Wikipedia:Wikipedistas con conocimientos de sueco
+Wàll:Jëfandikukat sw	Categoría:Wikipedia:Wikipedistas con conocimientos de swahili
+Wàll:Jëfandikukat vo	Categoría:Wikipedia:Wikipedistas con conocimientos de volapük
+Wàll:Jëfandikukat fr-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de francés
+Wàll:Jëfandikukat it-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de italiano
+Wàll:Jëfandikukat da-1	Categoría:Wikipedia:Wikipedistas con nivel básico de danés
+Wàll:Jëfandikukat et-1	Categoría:Wikipedia:Wikipedistas con nivel básico de estonio
+Wàll:Jëfandikukat hi-1	Categoría:Wikipedia:Wikipedistas con nivel básico de hindi
+Wàll:Jëfandikukat li-1	Categoría:Wikipedia:Wikipedistas con nivel básico de limburgués
+Wàll:Jëfandikukat nl-1	Categoría:Wikipedia:Wikipedistas con nivel básico de neerlandés
+Wàll:Jëfandikukat pl-1	Categoría:Wikipedia:Wikipedistas con nivel básico de polaco
+Wàll:Jëfandikukat vo-1	Categoría:Wikipedia:Wikipedistas con nivel básico de volapük
+Wàll:Jëfandikukat ar-1	Categoría:Wikipedia:Wikipedistas con nivel básico de árabe
+Wàll:Jëfandikukat fr-4	Categoría:Wikipedia:Wikipedistas con nivel experto de francés
+Wàll:Jëfandikukat it-4	Categoría:Wikipedia:Wikipedistas con nivel experto de italiano
+Wàll:Jëfandikukat ar-4	Categoría:Wikipedia:Wikipedistas con nivel experto de árabe
+Wàll:Jëfandikukat fr-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de francés
+Wàll:Jëfandikukat ia-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de interlingua
+Wàll:Jëfandikukat it-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de italiano
+Wàll:Jëfandikukat la-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de latín
+Wàll:Jëfandikukat nl-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de neerlandés
+Wàll:Jëfandikukat cs-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de checo
+Wàll:Jëfandikukat fr-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de francés
+Wàll:Jëfandikukat it-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de italiano
+Wàll:Jëfandikukat lv-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de letón
+Wàll:Jëfandikukat li-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de limburgués
+Wàll:Jëfandikukat nl-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de neerlandés
+Wàll:Jëfandikukat ru-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de ruso
+Wàll:Jëfandikukat sw-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de swahili
+Wàll:Jëfandikukat fr-5	Categoría:Wikipedia:Wikipedistas con nivel profesional de francés
+Wàll:Jëfandikukat ar-5	Categoría:Wikipedia:Wikipedistas con nivel profesional de árabe
+Wàll:Jëfandikukat af	Categoría:Wikipedia:Wikipedistas con conocimientos de afrikaans
+Wàll:Jëfandikukat af-1	Categoría:Wikipedia:Wikipedistas con nivel básico de afrikáans
+Wàll:Jëfandikukat ar	Categoría:Wikipedia:Wikipedistas con conocimientos de árabe
+Wàll:Jëfandikukat cs	Categoría:Wikipedia:Wikipedistas con conocimientos de checo
+Wàll:Jëfandikukat da	Categoría:Wikipedia:Wikipedistas con conocimientos de danés
+Wàll:Jëfandikukat sk-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de eslovaco
+Wàll:Jëfandikukat de	Categoría:Wikipedia:Wikipedistas con conocimientos de alemán
+Wàll:Jëfandikukat de-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de alemán
+Wàll:Jëfandikukat de-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de alemán
+Wàll:Jëfandikukat de-4	Categoría:Wikipedia:Wikipedistas con nivel experto de alemán
+Wàll:Jëfandikukat de-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de alemán
+Wàll:Jëfandikukat el	Categoría:Wikipedia:Wikipedistas con conocimientos de griego antiguo
+Wàll:Jëfandikukat en-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de inglés
+Wàll:Jëfandikukat en-5	Categoría:Wikipedia:Wikipedistas con nivel profesional de inglés
+Wàll:Jëfandikukat en-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de inglés
+Wàll:Jëfandikukat eo-1	Categoría:Wikipedia:Wikipedistas con nivel básico de esperanto
+Wàll:Jëfandikukat es	Categoría:Wikipedia:Wikipedistas con conocimientos de español
+Wàll:Jëfandikukat es-1	Categoría:Wikipedia:Wikipedistas con nivel básico de español
+Wàll:Jëfandikukat es-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de español
+Wàll:Jëfandikukat es-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de español
+Wàll:Jëfandikukat es-4	Categoría:Wikipedia:Wikipedistas con nivel experto de español
+Wàll:Jëfandikukat es-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de español
+Wàll:Jëfandikukat hu	Categoría:Wikipedia:Wikipedistas con conocimientos de húngaro
+Wàll:Jëfandikukat pl-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de polaco
+Wàll:Jëfandikukat pt-1	Categoría:Wikipedia:Wikipedistas con nivel básico de portugués
+Wàll:Jëfandikukat it	Categoría:Wikipedia:Wikipedistas con conocimientos de italiano
+Wàll:Jëfandikukat it-1	Categoría:Wikipedia:Wikipedistas con nivel básico de italiano
+Wàll:Jëfandikukat ja-1	Categoría:Wikipedia:Wikipedistas con nivel básico de japonés
+Wàll:Jëfandikukat ka	Categoría:Wikipedia:Wikipedistas con conocimientos de georgiano
+Wàll:Jëfandikukat ko	Categoría:Wikipedia:Wikipedistas con conocimientos de coreano
+Wàll:Jëfandikukat la-1	Categoría:Wikipedia:Wikipedistas con nivel básico de latín
+Royuwaay:NOR	Plantilla:NOR
+Royuwaay:BRA	Plantilla:BRA
+Wàll:Nowembar	Categoría:Noviembre
+Wàll:Jëfandikukat ru-1	Categoría:Wikipedia:Wikipedistas con nivel básico de ruso
+Wàll:Maars	Categoría:Marzo
+Wàll:Sattumbar	Categoría:Septiembre
+Wàll:Jëfandikukat lv	Categoría:Wikipedia:Wikipedistas con conocimientos de letón
+Royuwaay:TNI	Plantilla:TUN
+Wàll:Oktoobar	Categoría:Octubre
+Royuwaay:Boyutu Babel 2	Plantilla:Babel2
+Wàll:Xam-xamu nosukaay	Categoría:Ciencias de la información
+Wàll:Géej	Categoría:Mares
+Wàll:Disambar	Categoría:Diciembre
+Wàll:Ut	Categoría:Agosto
+Wàll:Mee	Categoría:Mayo
+Wàll:Awril	Categoría:Abril
+Wàll:Angila	Categoría:Anguila
+Royuwaay:LUX	Plantilla:LUX
+Wàll:Endustri	Categoría:Industria
+Wàll:Ndox	Categoría:Agua
+Wàll:Taariixu Aamerig	Categoría:Historia de América
+Bunt:Diine	Portal:Religión
+Wàll:Xay	Categoría:Civilizaciones
+Wàll:Belaarus	Categoría:Bielorrusia
+Royuwaay:MCO	Plantilla:MCO
+Wàll:Jëfandikukat ru	Categoría:Wikipedia:Wikipedistas con conocimientos de ruso
+Wàll:Jëfandikukat ru-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de ruso
+Wàll:Jëfandikukat ru-4	Categoría:Wikipedia:Wikipedistas con nivel experto de ruso
+Wàll:Jëfandikukat tr	Categoría:Wikipedia:Wikipedistas con conocimientos de turco
+Wàll:Jëfandikukat tr-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de turco
+Royuwaay:IRL	Plantilla:IRL
+Royuwaay:ALB	Plantilla:ALB
+Royuwaay:AND	Plantilla:AND
+Royuwaay:ARG	Plantilla:ARG
+Royuwaay:ARM	Plantilla:ARM
+Royuwaay:BUR	Plantilla:BDI
+Royuwaay:BGR	Plantilla:BGR
+Royuwaay:BHS	Plantilla:BHS
+Royuwaay:BLR	Plantilla:BLR
+Royuwaay:KOD	Plantilla:CIV
+Royuwaay:CYP	Plantilla:CYP
+Wàll:Melosuufug Tugal	Categoría:Geografía de Europa
+Royuwaay:Xóotal	Plantilla:AP
+Royuwaay:EST	Plantilla:EST
+Royuwaay:RUS	Plantilla:RUS
+Royuwaay:TOG	Plantilla:TGO
+Royuwaay:AUT	Plantilla:AUT
+Royuwaay:CHL	Plantilla:CHL
+Royuwaay:CHN	Plantilla:CHN
+Wàll:Angolaa	Categoría:Angola
+Wàll:Bene	Categoría:Benín
+Wàll:Botswana	Categoría:Botsuana
+Wàll:Burkinaa Faaso	Categoría:Burkina Faso
+Wàll:Buruundi	Categoría:Burundi
+Wàll:Jibuti	Categoría:Yibuti
+Wàll:Gineg yamoo	Categoría:Guinea Ecuatorial
+Wàll:Eritere	Categoría:Eritrea
+Wàll:Gaboŋ	Categoría:Gabón
+Wàll:Gàmbi	Categoría:Gambia
+Wàll:Kamerun	Categoría:Camerún
+Wàll:Keeñaa	Categoría:Kenia
+Wàll:Komoor	Categoría:Comoras
+Wàll:Libi	Categoría:Libia
+Wàll:Madagaskaar	Categoría:Madagascar
+Wàll:Malawi	Categoría:Malaui
+Wàll:Marok	Categoría:Marruecos
+Wàll:Gànnaar	Categoría:Mauritania
+Wàll:Mosambik	Categoría:Mozambique
+Wàll:Namibi	Categoría:Namibia
+Wàll:Ruwandaa	Categoría:Ruanda
+Royuwaay:IRQ	Plantilla:IRQ
+Wàll:Taariixu senegaal	Categoría:Historia de Senegal
+Wàll:Diiney Senegaal	Categoría:Religión en Senegal
+Wàll:Melosuufug Afrig gu Bëj-saalum	Categoría:Geografía de Sudáfrica
+Wàll:Melosuufug Alseeri	Categoría:Geografía de Argelia
+Wàll:Saambi	Categoría:Zambia
+Wàll:Senegaal	Categoría:Senegal
+Wàll:Seysel	Categoría:Seychelles
+Wàll:Simbaawee	Categoría:Zimbabue
+Wàll:Melosuufug Kamerun	Categoría:Geografía de Camerún
+Wàll:Somali	Categoría:Somalia
+Wàll:Cadd	Categoría:Chad
+Wàll:Ugandaa	Categoría:Uganda
+Wàll:Réewum Diggu Afrig	Categoría:República Centroafricana
+Wàll:Filipiin	Categoría:Filipinas
+Wàll:Jëfandikukat nl	Categoría:Wikipedia:Wikipedistas con conocimientos de neerlandés
+Wàll:Jëfandikukat no	Categoría:Wikipedia:Wikipedistas con conocimientos de noruego
+Wàll:Jëfandikukat zh-1	Categoría:Wikipedia:Wikipedistas con nivel básico de chino
+Wàll:Doolerandu	Categoría:Mecánica
+Wàll:Armeeni	Categoría:Armenia
+Wàll:Bahrayni	Categoría:Baréin
+Wàll:Siri	Categoría:Siria
+Wàll:Melosuufug Senegaal	Categoría:Geografía de Senegal
+Wàll:Jeoorji	Categoría:Georgia
+Wàll:Jamayka	Categoría:Jamaica
+Wàll:Kataar	Categoría:Catar
+Wàll:Maldiif	Categoría:Maldivas
+Wàll:Nepaal	Categoría:Nepal
+Wàll:Omaan	Categoría:Omán
+Wàll:Usbekistaan	Categoría:Uzbekistán
+Wàll:Taariixu Tugal	Categoría:Historia de Europa
+Wàll:San Marino	Categoría:San Marino
+Wàll:Jordaani	Categoría:Jordania
+Wàll:Nikaraaguwa	Categoría:Nicaragua
+Wàll:Bosni	Categoría:Bosnia y Herzegovina
+Wàll:Noorwees	Categoría:Noruega
+Wàll:Paraguwaay	Categoría:Paraguay
+Wàll:Liechtenstein	Categoría:Liechtenstein
+Wàll:Onduras	Categoría:Honduras
+Wàll:Uruguwaay	Categoría:Uruguay
+Wàll:Andoor	Categoría:Andorra
+Wàll:Seerbi	Categoría:Serbia
+Wàll:Salbadoor	Categoría:El Salvador
+Wàll:Ayiti	Categoría:Haití
+Wàll:Ekwadoor	Categoría:Ecuador
+Wàll:Yaman	Categoría:Yemen
+Wàll:Peru	Categoría:Perú
+Wàll:Boliibi	Categoría:Bolivia
+Wàll:Albaani	Categoría:Albania
+Wàll:Monaako	Categoría:Mónaco
+Wàll:Cosaan	Categoría:Tradiciones
+Wàll:Jén	Categoría:Peces
+Wàll:Làkki Afrig	Categoría:Lenguas de África
+Wàll:Dëkki Benesuwela	Categoría:Localidades de Venezuela
+Royuwaay:ESP	Plantilla:ESP
+Wàll:Rab	Categoría:Animales
+Wàll:Nauru	Categoría:Nauru
+Wàll:Antigua ak Barbuda	Categoría:Antigua y Barbuda
+Wàll:Guyaana	Categoría:Guyana
+Wàll:Koloombi	Categoría:Colombia
+Wàll:Hip Hop	Categoría:Hip hop
+Wàll:Alxuraan	Categoría:Corán
+Wàll:Mbëjtekkaaral	Categoría:Electrostática
+Wàll:Mbëj	Categoría:Electricidad
+Wàll:Jëfandikukat pl	Categoría:Wikipedia:Wikipedistas con conocimientos de polaco
+Wàll:Weeri wolof	Categoría:Calendario musulmán
+Wàll:Oseyaani	Categoría:Oceanía
+Wàll:Montenegro	Categoría:Montenegro
+Wàll:Moto	Categoría:Vehículos
+Wàll:Dëkki Senegaal	Categoría:Localidades de Senegal
+Wàll:Làkki senegaal	Categoría:Lenguas de Senegal
+Wàll:Royuwaay raaya réew	Categoría:Wikipedia:Plantillas de etiquetas de país
+Ngelaw	Aire
+Wàll:Koom-koomu Afrig	Categoría:Economía de África
+Royuwaay:UGA	Plantilla:UGA
+Royuwaay:UZB	Plantilla:UZB
+Wàll:Jëfandikukat de-5	Categoría:Wikipedia:Wikipedistas con nivel profesional de alemán
+Wàll:Tundi Senegaal	Categoría:Departamentos de Senegal
+Trojany	Trojany
+Wàll:Njiiti Senegaal	Categoría:Presidentes de Senegal
+Royuwaay:RUW	Plantilla:RWA
+Royuwaay:MLT	Plantilla:MLT
+Royuwaay:Kña	Plantilla:KEN
+Royuwaay:JAM	Plantilla:JAM
+Wàll:Wallis ak Futuna	Categoría:Wallis y Futuna
+Wàll:Aakimoo jawwu ji	Categoría:Exploración espacial
+Wàll:Mbëjbijjaakon	Categoría:Electromagnetismo
+Wàll:Kàttan	Categoría:Energía
+Wàll:Kër	Categoría:Casas
+Wàll:Taariixu Isipt	Categoría:Historia del Antiguo Egipto
+Royuwaay:MNG	Plantilla:MNG
+Royuwaay:BEL	Plantilla:BEL
+Wàll:Melo	Categoría:Color
+Koor	Ramadán (mes del calendario)
+Wàll:Jamono	Categoría:Unidades de tiempo
+Wàll:Nit ñi ci Téere Linjiil	Categoría:Personajes del Nuevo Testamento
+Wàll:Làkki Niseer-Cóngoo	Categoría:Lenguas Níger-Congo
+Wàll:Njëkk-taariix	Categoría:Prehistoria
+Royuwaay:HUN	Plantilla:HUN
+Nguri	Avispa
+Wàll:Jëfandikukat en-1	Categoría:Wikipedia:Wikipedistas con nivel básico de inglés
+Wàll:Jëfandikukat de-1	Categoría:Wikipedia:Wikipedistas con nivel básico de alemán
+Wàll:Jëfandikukat da-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de danés
+Wàll:Taariixu Afrig	Categoría:Historia de África
+Abiya	Abías
+Coreca	Coreca
+Jagleel:Coppite yu mujj	Especial:CambiosRecientes
+Wàll:Jëfandikukat ja-4	Categoría:Wikipedia:Wikipedistas con nivel experto de japonés

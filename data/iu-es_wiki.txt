@@ -1,0 +1,446 @@
+ᐊᑉᕆᖄ	África
+ᓃᑉᐊᓐ	Japón
+ᐊᒥᐊᓕᑲ ᓂᒋᖅ	América del Sur
+ᓄᕐᒋ/nurgi	Noruega
+ᓯᐸᐃᓐ	España
+ᐊᒥᐊᓕᑲ	Estados Unidos
+ᓄᓇ	Tierra
+ᐄᒃ	Homo sapiens
+ᔫᕐᒋ ᕚᓯᖕᑐᓐ	George Washington
+ᔅᕗᕆᑭ	Suecia
+ᐳᓚᓐᑦ	Polonia
+ᓕᐋᑐᕙ	Lituania
+Italy	Italia
+ᐃᐆᕌᑉ	Europa
+ᐊᓰᐊ	Asia
+ᐊᒥᐊᕆᑲ ᑐᓄᕕᐊᖅ	América del Norte
+ᐅᐃᑭᐱᑎᐊ	Wikipedia
+ᐅᓱᒃ	Pene
+ᐱᕐᓖᓐ	Berlín
+ᖃᕋᓴᐅᔭᖅ	Computadora
+ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ	Internet
+ᐸᕌᒃ ᐅᐹᒪ	Barack Obama
+ᑭᒻᒥᓇᐅᔭᖅ	Manzana
+ᒎᒐᓪ	Google
+ᒦᒃᓰᖂ	México
+ᑳᓖᐴᕐᓃᐊ	California
+ᒧᓇᑖᒃ	Lunes
+ᔭᓐᓄᐊᓕ	Enero
+ᕕᐳᐊᕆ	Febrero
+ᓇᑦᓯᐊᓕᐅᑦ	Marzo
+ᐊᐃᐳᕆᓪ	Abril
+ᒪᐃ	Mayo
+ᔪᓂ	Junio
+ᔪᓚᐃ	Julio
+ᐊᐅᒍᔅ	Agosto
+ᓯᑎᒻᐳᕆ	Septiembre
+ᐅᒃᑐᐳᕆ	Octubre
+ᓄᕕᒻᐳᕆ	Noviembre
+ᑎᓯᒻᐳᕆ	Diciembre
+ᐃᓯᐱᕋᓐᑐ	Esperanto
+ᕿᖕᒥᖅ	Canis lupus familiaris
+China	República Popular China
+ᐅᐃᒍᐃᕐᒥᐅᖅ	Idioma francés
+ᐃᖃᓗᒃ	Pisces
+ᐊᖓᔮᕐᓇᖅᑐᖅ	Bebida alcohólica
+ᐅᓛᓴ	Rusia
+ᐊᕐᕕᒃ	Cetacea
+ᐅᐃᑭ	Wiki
+ᐋᓛᐹᒫ	Alabama
+ᑯᐸᐃᒃ	Quebec
+ᔨᒥ ᐆᐃᓪᔅ	Jimmy Wales
+ᔮᒪᓂ	Alemania
+ᑎᖕᒥᓲᖅ	Avión
+ᐊᑭᕋᖅᑑᑎᔪᑦ	Guerra
+ᔅᑏᕕᓐ ᐦᐊᕐᐱᕐ	Stephen Harper
+ᕕᓪᓂᐅᔅ/vilnius	Vilna
+ᐊᑯᑭᑦᑐᑦ	Groenlandia
+ᖂᐹ/quupaa	Cuba
+ᐄᓅᓯᐊ	Indonesia
+ᓯᓕ	Chile
+ᐱᐅᓕᑦᓯᔨ	Jesús de Nazaret
+ᒥᕐᑰᕆ	Mercurio (planeta)
+ᖃᐅᔨᓴᕐᓂᖅ ᑎᑎᖅᑲᑎᒍᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᖃᑦᑕᕐᓂᑯᓂᒃ	Historia
+ᕖᓄᔅ	Venus (planeta)
+ᑕᑯᑦᓱᒍᓱᑉᐳᖅ	Amor
+ᐅᕌᓄᔅ	Urano (planeta)
+ᓂᑉᑑᓐ	Neptuno (planeta)
+ᓯᓚᓯᐅᕐᓂᖅ	Astronomía
+ᑉᓘᑐ	Plutón (planeta enano)
+ᒧᕆᐊᓪ	Montreal
+ᑕᖅᑭᖅ	Luna
+ᐊᔅᑦᕌᓕᐊ	Australia
+ᐆᒫᑦᓱᓕᕆᓂᖅ/umatsuliriniq	Física
+ᐱᕉ	Perú
+ᐆᒪᔅᓱᓯᖃᕐᑐᓕᕆᓂᖅ	Biología
+ᐊᖏᐋᕐᓂᖅ	Excremento
+ᐃᑎᖅ	Ano
+ᐱᕈᖅᑐᓴᔭᖅ/piruqtusajaq	Flor
+ᓄᓇᓖᑦ	Ciudad
+ᐅᓪᓗᕆᐊᖅ	Estrella
+ᓯᕿᓂᖅ	Sol
+ᕿᓚᒃ	Cielo
+ᐅᓯᐋᓂᐊ	Oceanía
+ᕿᒥᕐᕈᐊᑦ/qimirruat	Libro
+ᖃᐅ	Día
+ᐅᑭᐅᖅ	Año
+ᑕᑯᑦᓱᒍᓱᑉᐳᖅ ᐊᑯᓐᓂᖓᓐᓂ ᒪᒡᒎᒃ ᐊᖑᑦ	Gay
+ᒨᔅᑯ	Moscú
+ᐃᓐᑎᐊ	India
+ᓂᕐᔪᑦ	Animalia
+ᐱᕈᖅᑐᖅ	Plantae
+ᒫᓵᓲᓰᑦᔅ	Massachusetts
+ᐊ'ᐊ'ᐋᒃ	Gallus gallus domesticus
+ᐃᕉᒃ	Irak
+ᐊᓛᓯᑲ	Alaska
+ᑉᓘᕇᑖ	Florida
+ᐋᕇᓲᓈ	Arizona
+ᐆᕇᕇᓐ	Oregón
+ᐸᑭᔅᑕᓐ	Pakistán
+ᓄᑕᒐᒃ	Bebé
+ᔪᓚᐃᐅᔅ	Julio César
+ᓄᓇᓕᕆᓂᖅ	Geología
+ᓄᓇᐅᔪᖅ	Geografía
+ᐄᓚᓄᐃᔅ	Illinois
+ᑖᑰᑖ ᑐᓄᕕᐊᖅ	Dakota del Norte
+ᑖᑰᑖ ᓂᒋᖅ	Dakota del Sur
+ᐄᑖᓲ	Idaho
+ᓂᕚᑖ	Nevada
+ᑰᓘᕌᑑ	Colorado
+ᓰᖄᑯ	Chicago
+ᓯᐸᐃᓂᑎᑐᑦ	Idioma español
+ᐋᓯᕙᖅ	Araneae
+ᒪᒪᖅᑐᖅ, ᓰᕐᓇᖅᑐᖅ ᐱᕈᖅᑐᖅ	Fruto
+ᓂᐅ ᐃᐅᕐᒃ	Nueva York (estado)
+ᐅᓵᐃᐅ	Ohio
+ᐃᐊᐃᑖᓯᓐ/iaitaatsin	Uetersen
+ᐊᐅᒍᔅᒻᐅᔅ	César Augusto
+ᐃᓐᑎᐋᓈ	Indiana
+ᑖᒃᓵᔅ	Texas
+ᑳᕉᓖᓈ ᑐᓄᕕᐊᖅ	Carolina del Norte
+ᑳᕉᓖᓈ ᓂᒋᖅ	Carolina del Sur
+ᑑᑭᐅ	Tokio
+ᒦᓰᓰᐲ (ᐃᓗᐊᓂ)	Misisipi
+ᒦᓃᓲᑖ	Minnesota
+ᐃᐅᕙ	Iowa
+ᐦᐃᓐᑏ	Hindi
+ᓗᐄᓰᐋᓈ	Luisiana
+ᐆᑳᓛᓲᒫ	Oklahoma
+ᔅᑑᒃᓱᓪᒻ/stuukhulm	Estocolmo
+ᖃᓪᓗᓈᑎᑐᑦ	Idioma inglés
+ᐋᓐᑎᐅᕆᔪ	Ontario
+ᐊᑐᕚ/atavaa	Ottawa
+ᓄᓇᑦᓯᐊᖅ	Territorios del Noroeste
+ᓄᓇᕗᑦ	Nunavut
+2007	2007
+ᐃᖃᓗᐃᑦ	Iqaluit
+1999	1999
+ᓂᕿ	Alimento
+ᖃᓂᖅ ᖁᐊᔪᖅ	Sexo oral
+ᒪᓪᒧ/malmu	Malmö
+ᐊᔪᒃᑕᖅ	Fútbol
+ᖂᖄ ᑰᓛ	Coca-Cola
+ᒫᑭᓐᓯ ᑰᒃ	Río Mackenzie
+ᓯᕿᓃᖅᓯᖅᑐᖅ	Eclipse solar
+ᐃᓕᓐᓂᐊᕈᑎᒃᓴᓕᐅᕐᕕᒃ	Escuela
+ᑎᒥ	Anatomía humana
+ᑰᒃ	Río
+Kunpusiusi	Confucio
+ᑮᓱᐊ	Lenguas quechuas
+ᐊᒥᖅ	Wikipedia:Portada
+ᐊᓇᐅᓕᒐᖅ	Béisbol
+ᐃᓄᒃᑕᐅᑦ	Autobús
+ᐅᓪᓕᐸᑲ	Frazada
+ᓴᓂᓕᐊᖅᑐᖅ	Relación sexual
+ᐅᑦᓱᒃ	Vagina
+ᐃᓱᒪᓕᐅᕐᓂᖅ	Filosofía
+ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ	Nación
+ᑲᐅ ᓂᕿ ᑭᒻᒥᐊᒐᖅ ᕿᖂᔭᖅ	Hamburguesa
+ᑯᓂᑉᐳᖅ	Beso
+ᕿᖓᖅ	Nariz
+ᐃᔨ	Ojo
+ᑭᒃᑐᕆᐊᖅ	Culicidae
+ᐱᓱᒃᑎ	Mammalia
+ᐊᕿᑦᑐᖅ ᖃᕆᑕᐅᔭᐅᑉ ᑎᑎᕋᕐᕕᖓ	Software
+ᒥᑎᖅ	Anatidae
+ᐊᐳᑦ	Nieve
+ᐃᖏᕐᕋᔾᔪᑎᑦ	Transporte
+ᕝᓛᑎᒥᕐ ᐴᑎᓐ	Vladímir Putin
+ᕿᖂᔭᖅ	Pan
+ᔅᕙᐦᐃᓕᑐᑦ	Idioma suajili
+ᒥᓂ	Lluvia
+ᓴᔪᑉᐱᓛᕗᖅ	Terremoto
+ᓄᕗᔭᖅ	Nube
+ᐅᓚᔪᔭᖅ	Tornado
+ᐅᖄᓯᓕᕆᓂᖅ	Lingüística
+ᐃᓕᓴᐅᑎᒃ	Alfabeto latino
+ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᖅ	Educación
+ᐊᖑᑎ	Varón
+ᐃᓄᐃᑎᑦᑐᖅ	Aborto
+ᐃᒻᒧᒃ	Leche
+ᔅᕗᓐᔅᑭᑐᑦ	Idioma sueco
+ᐃᕕᐊᖏᖅ	Mama
+ᑯᕆᐊᑎᑐᑦ	Idioma coreano
+ᐃᒡᔪᒃ	Testículo
+ᐃᒫᓗᒃ	Océano
+ᖃᐸᒃ	Semen
+Ronald Reagan	Ronald Reagan
+ᓱᑲᒃ	Azúcar
+ᓴᓇᕐᕈᑏᑦ ᐊᑑᑎᖏᑕᓗ ᖃᐅᔨᒪᔭᐅᓂᖓ	Tecnología
+ᑎᑎᕋᐅᔭᖅ	Ingeniería
+ᐋᔩᖃᑎᒋᖏᖅ	Comunicación
+ᑖᒃᑎ	Medicina
+ᕿᓚᐅᑦ	Tambor
+ᐄᒐᑕᐃᕕᑦᓴᐃᑦ	Juego
+ᐱᕈᕐᓰᓂᖅ ᓂᐅᕐᕈᑎᒃᓴᓕᐊᕆᓪᓗᒋᑦ	Agricultura
+ᐊᐅᑦᓯᓇᖅᑐᖅ	Ropa
+ᒧᒥᖅᑐᖅ	Danza
+ᓯᕗᓕᐅᖅᐹ ᐊᓪᓚᒍᑎ ᖃᐅᔨᓴᕐᓂᖅ ᑎᑎᖅᑲᑎᒍᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᖃᑦᑕᕐᓂᑯᓂᒃ/sivuliuqpaa allaguti qaujisarniq titiqqatigut qanuiliuqtauqattarnikunik	Prehistoria
+ᐊᑎᖅᐳᖅ	Ursidae
+ᑭᒍᑎᓕᕆᔨ	Odontología
+ᑐᓵᓐᖏᓐᓂᖅ	Sordera
+ᐊᓐᓂᐊᒥ ᖃᐅᔨᓴᕐᓂᖅ	Medicamento
+ᐃᒡᓗᕐᔪᐊᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ	Arquitectura
+ᑭᒍᑎᙳᐊᑦ ᓂᐱᑎᓯᒪᔪᑦ	Puente
+ᑭᓯᑦᓯᓯᖕᖑᕐᓗᒋᑦ ᐹᓯᔅᓱᑎᔅᓴᑦ	Estadística
+ᓴᕕᒐᐅᔭᖅ/ikumautit	Electricidad
+ᐊᕋᕕ	Idioma árabe
+ᑲᓇᑕᒥ ᐊᖓᔪᖅᑳᕐᔪᐊᖅ	Primer ministro
+ᓴᐃᒻᒪᑎ	Bandera
+ᐊᓪᓛᑦ	Lápiz
+ᐊᓴᐱ	Virus de la inmunodeficiencia humana
+ᐅᐃᑭᐱᑎᐊ:ᐱᐅᔪᖅ ᒪᑉᐱᑕᖅ	Wikipedia:Artículos destacados
+Template:Link FA	Plantilla:Destacado
+ᐅᐃᑭᐱᑎᐊ:ᐹᕐᓂᖅ	Wikipedia:Café
+ᐋᓐᓂᐊᕐᕕᒃ	Hospital
+ᓯᑮᑐ	Motonieve
+ᐃᒥᐊᓗᒃᑕᐃᓕᒪᓂᕐᒧᑦ ᐃᑲᔪᖃᑎᒌᒡᕕᒃ	Alcohólicos Anónimos
+ᐊᒪᕈᒃ	Canis lupus
+ᐊᕿᒃᑭᖅ	Lagopus leucura
+ᑐᓴᐅᒪᖃᑦᑕᐅᑎᔾᔪᑎᓂᒃ ᐊᐅᓚᑦᑎᔩᑦ/tusaumaqattautijjutinik aulattijiit	Ciencias de la computación
+ᒥᓗᑦᓱᑳᒐᖅ	Solanum lycopersicum
+ᑎᒦᑦᕆ ᒥᑦᕖᑎᕝ	Dmitri Medvédev
+ᕿᒥᕐᕈᐊᑦ ᐅᓐᓂᖅᑐᖅ ᒥᑦᓯ ᑐᑭᐊ	Diccionario
+ᓖᓚ ᑕᓅᔅ	Lila Downs
+ᐆᑉᓴᓚ/uupsala	Upsala
+ᐃᐅᑕᐳᕆ	Gotemburgo
+ᑲᕐᓪᔅᑕᑦ	Karlstad
+ᒧᓪᓐᓕᑭ/ Mölnlycke	Mölnlycke
+ᐳᐃᔨᒃ	Phocidae
+ᑲᓇᑕᒥ ᐃᓄᐃᑦ ᐅᖃᐅᓯᖏᑦ	Lenguas esquimo-aleutianas
+ᑭᕝᒐᓗᒃ	Ondatra zibethicus
+ᑲᑉᐳᑎᒨᖅᑐᖅ	Potencia eléctrica
+ᐆᒃᑐᕋᐃᓂᖅ	Examen (evaluación estudiantil)
+ᒧᓪᓐᑕᓪ/Mölndal	Mölndal
+ᓄᔭᐃᑦ	Pelo
+ᐃᓄᒃᑎᑐᑦ	Lenguas inuit
+ᐸᒥᐅᖅᑑᖅ	Lutra lutra
+ᒥᖏᑎᑕᐅᑎᔪᖅ	Boxeo
+ᖃᕆᑕᐅᔭᕋᓛᖅ ᐊᑕᐅᓯᖅᓯᐅᑦ/qaritaujaralaaq atrausiqsiuit	Microcomputadora
+ᓇᓄᖅ	Ursus maritimus
+ᑲᓪᓕᑕᖅ	Rayo
+ᐊᒡᒐᒃ	Mano
+ᐊᑭᕈᐊᕈᖅ	Hoja
+ᕙᓪᐸᕃᓱ	Valparaíso
+ᖁᖅᓗᕐᓂᖅ	Cascada
+ᓯᐊᙳᓰᖂ	Oaxaca
+ᐱᓚᒥᔅ	Dialecto flamenco
+ᓯᐅᕋᖅ	Arena
+ᑕᕋᖅᑑᑦ	Rayos X
+ᐃᓗ	Cueva
+ᑐᒃᑐᕙᒃ	Alces alces
+ᓇᑕᖅᑯᕐᓇᐃᑦ/nataqqurnait	Granizo
+ᐊᕕᙵᖅ	Mus (animal)
+ᐊᑯᖅ	Bahía
+ᑐᒃᑐ	Rangifer tarandus
+ᐃᒥᐊᓗᒃ	Bebida
+ᔨᓐᓂᐱᕐ ᓗᐱᔅ	Jennifer Lopez
+ᐊᐃᕕᖅ	Odobenus rosmarus
+ᑐᖁᖓᔪᒥᒃ ᖃᐅᔨᓴᕐᓂᖅ	Autopsia
+ᖃᐅᔨᓴᕐᓂᖅ	Investigación
+ᓇᐹᖅᑐᖃᕈᓐᓇᙱᑦᑐᖅ	Tundra
+ᑭᒡᒐᕕᒃ	Falco
+ᖃᓪᓗ	Ceja
+ᑕᑦᕿᖅᓯᖅᑐᖅ	Eclipse lunar
+ᐃᓂᖅᑐᐃᒍᑎ	Miedo
+ᖁᐱᓪᕈᖅ	Gusano
+ᐱᑉᓯ ᑰᓛ	Pepsi
+ᒥᖅᓱᑎ	Máquina de coser
+ᓈᕌᔩᖅ	Anura
+ᑎᑎᖅᑲᓕᐅᕈᑦ ᖃᕆᑕᐅᔭᙳᐊᒃᑯᑦ	Procesador de texto
+ᐳᑕᖅ	Plato
+ᓯᖓᐃᑦᔪᑎ	Espermatozoide
+ᐆ ᑲᓇᑕ	O Canada
+ᐃᒡᓗ	Iglú
+ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ	Indígena
+ᒪᒃᐱᖅᑕᐅᑦ	Fusil
+ᐃᕙᓗᕕᒃ ᐊᖑᑦ	Culturismo
+ᐃᕐᒥᒡᕕᒃ	Lavadora
+ᓂᐱᐅᑦ	Adhesivo
+ᕇ ᓕᖏᑏᖂ	One Direction
+ᐃᒥᒐᖅ	Gaseosa
+ᐆᒥᓱᑦᑐᖅ	Odio
+ᐄᓐᖃ	Inca
+ᑎᒻᒥᕗᖅ/timmivuq	Musca domestica
+ᓂᐱ	Archivo de documentos
+ᐅᒃᐱᒃ	Bubo scandiacus
+ᓯᓚᐅᕐᖏᖓ	Escatología
+ᐃᓄᒃ	Homo (género)
+ᑕᓕᐊᖅ	Reloj de pulsera
+ᓂᕿᓂᐅᕕᕐᕕᒃ	Supermercado
+ᐅᒥᒻᒪᖅ	Ovibos moschatus
+ᖃᕆᑕᐅᔭᖅ ᐊᒥᓱᓯᐅᑦ	Minicomputadora
+ᐊᒥᐃᐅᓕᐅᕈ	Fotocopia
+ᐃᓄᐃᑦ (ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ)	Inuit
+ᐅᓪᓛᖅ/ullaaq	Orto
+ᖁᐸᓄᐊᕐᔪᐊᖅ	Cyanocitta cristata
+ᐊᑭᖃᙱᑦᑐᒃᑯᑦ ᑕᐅᖅᓰᖃᑦᑕᕐᓂᖅ	Librecambismo
+ᐋᒪᐃᔪᖅ	Ebriedad
+ᐊᖓᔮᕐᓇᖅᑐᖅ ᓯᓕᙴᑎᕚ ᐅᓪᓛᒃ	Resaca
+ᕕᓯᐸ ᐱᐊᓯᐅ	Vespa (motocicleta)
+ᐱᓃᐊᔅᐃᕝᒥᕐᒃ	Phineas y Ferb
+ᕕᐅ	Anggun
+ᐅᑲᓕᒃ	Lepus arcticus
+ᕿᖅᑯᐊᖅ	Macroalga
+ᐅᖃᖅᑐᖅ	Teoría de los actos de habla
+ᓄᕐᒃᑲᕆᑦ ᐃᓕᑕᖅᓯᒍᑎ	Señal de alto
+ᓇᓂᑦᓯᑰᔭᐃᑦ	Corn Flakes de Kellogg's
+ᑐᐱᙳᐊᖅ	Nuez de Adán
+ᔮᓐ ᒦᐆᕐ	John Muir
+ᐃᖃᓗᑉᐱᒃ	Salvelinus alpinus
+Eva Aariak	Eva Aariak
+ᑕᑎᔮᓇ ᐳᓛᓄᕙ	Tatiana Bulanova
+ᑕᑯᒥᓇᖅᓕᐅᖅᑎᑦ	Artista
+ᓱᓇ	Sunne
+ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᓄᓇᓕᓐᓂ ᓄᓇᕗᒻᒥ	Anexo:Localidades de Nunavut
+ᐸᒃᑭ	Dedos de la mano
+ᓄᓇᑦᓯᐊᕗᑦ	Nunatsiavut
+ᐊᕐᕕᑲ	Arvika
+ᑐᐱᓚᒃ	Tupilaq
+ᑭᑦᑐᕇᓕᑕᖅ	Toldillo
+ᐃᓄᒃᑦᓯᐊᖅ	Atractivo físico
+ᒃᓚᐊᐱᑕ/klaipita	Klaipėda
+Pigazzano	Pigazzano
+ᓴᓐᓇ	Sedna (mitología)
+ᐊᕿᐊᕈᖅ	Estómago
+Sonic The Hedgehog	Sonic the Hedgehog (serie)
+ᐃᓄᒃᓱᒃ	Inukshuk
+ᐃᓄᒐᙳᐊᖅ	Falange (hueso)
+ᓄᓇᕕᒃ	Nunavik
+ᐅᖓᕙ ᑲᖏᖅᓗᒃ	Bahía de Ungava
+ᒦᓰᓰᐲ	Misisipi (desambiguación)
+ᐃᓛᖁᑦᓯᖅ	Puercoespín
+ᓐᓂᓗᐱᔅ'ᐊᕐ	Agnes Mónica
+ᐹᓪ ᐅᑲᓕᖅ	Paul Okalik
+Category:ᑲᓇᑕ	Categoría:Canadá
+ᕿᑭᖅᑖᓗᒃ	Región Qikiqtaaluk
+Category:ᐱᕈᖅᑐᖅ/piruqtuq	Categoría:Plantae
+Category:ᖃᐅᔨᓴᕐᓃᑦ	Categoría:Ciencia
+ᒥᕐᖑᐃᖅᓯᕐᕕᒃᓴᖅ	Parques nacionales de Canadá
+ᓯᑎᒐᖅ	Cucha
+ᐃᑖᖏᔭᖅᑐᖅ	Polución nocturna
+ᓂᕿᑦᓯᐊᕙᓕᕆᓂᖅ	Nutrición
+ᑎᑎᕋᐅᓯᖅᑐᖅ ᓄᑖᖅ	Silabario inuktitut
+Category:ᐊᖏᔪᖅ ᒥᕗᒃ	Categoría:Continentes
+Category:Wikipedia bots	Categoría:Wikipedia:Bots
+Category:ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ	Categoría:Países
+ᐅᐃᑭᐱᑎᐊoikipitia:ᑐᑭᓕᐅᖅᐹinuluriji	Wikipedia:Bibliotecarios
+ᐅᐃᑭᐱᑎᐊ:Bots	Wikipedia:Bot
+Category:ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ	Categoría:Internet
+Category:ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᖅ/ilinniaqtuliriniq	Categoría:Educación
+ᑯᓇᔅ/kunas	Kaunas
+ᐅᐃᑭᐱᑎᐊ:Sock puppetry	Wikipedia:Usuarios títeres
+Template:Bot	Plantilla:Bot
+ᑲᓇᑕ	Canadá
+Category:ᔅᕗᕆᑭ	Categoría:Suecia
+Template:Documentation	Plantilla:Documentación
+Category:Babel	Categoría:Wikipedia:Wikipedistas por idioma
+ᐅᐃᑭᐱᑎᐊ:ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ	Wikipedia:Esbozo
+Template:Softredirect	Plantilla:Redirección suave
+Template:ᓂᐸᖅᑎᐹ	Plantilla:Destruir
+Category:ᐅᖃᕐᕕᐅᑎᔪᑦ	Categoría:Lenguas
+Category:ᐅᐃᑭᐱᑎᐊ	Categoría:Wikipedia
+Template:!	Plantilla:!
+Category:ᑕᒃᕿᒃ	Categoría:Meses
+Template:Babel	Plantilla:Babel
+Template:Commons	Plantilla:Commons
+Template:Reflist	Plantilla:Listaref
+Template:Stub	Plantilla:Esbozo
+Category:User fr-1	Categoría:Wikipedia:Wikipedistas con nivel básico de francés
+Template:Lang-ar	Plantilla:Lang-ar
+Category:User en-4	Categoría:Wikipedia:Wikipedistas con nivel experto de inglés
+Category:User en	Categoría:Wikipedia:Wikipedistas con conocimientos de inglés
+Category:User en-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de inglés
+Category:User hi	Categoría:Wikipedia:Wikipedistas con conocimientos de hindi
+Template:IPA	Plantilla:AFI
+Template:LangWithName	Plantilla:LangWithName
+Template:Babel kadro D	Plantilla:BabelN
+Category:ᖃᕋᓴᐅᔭᖅ	Categoría:Computadoras
+Category:User ja-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de japonés
+Template:Lang-en	Plantilla:Lang-en
+Category:User gsw-1	Categoría:Wikipedia:Wikipedistas con nivel básico de alemán suizo
+Template:Lang-fr	Plantilla:Lang-fr
+Template:InterWiki	Plantilla:InterWiki
+Category:User simple	Categoría:Wikipedia:Wikipedistas con conocimientos de Simple English
+Category:User az	Categoría:Wikipedia:Wikipedistas con conocimientos de azerí
+Category:User be	Categoría:Wikipedia:Wikipedistas con conocimientos de bielorruso
+Category:User hr	Categoría:Wikipedia:Wikipedistas con conocimientos de croata
+Category:User eo	Categoría:Wikipedia:Wikipedistas con conocimientos de esperanto
+Category:User et	Categoría:Wikipedia:Wikipedistas con conocimientos de estonio
+Category:User fr	Categoría:Wikipedia:Wikipedistas con conocimientos de francés
+Category:User gl	Categoría:Wikipedia:Wikipedistas con conocimientos de gallego
+Category:User ia	Categoría:Wikipedia:Wikipedistas con conocimientos de interlingua
+Category:User ja	Categoría:Wikipedia:Wikipedistas con conocimientos de japonés
+Category:User sv	Categoría:Wikipedia:Wikipedistas con conocimientos de sueco
+Category:User fr-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de francés
+Category:User cs-1	Categoría:Wikipedia:Wikipedistas con nivel básico de checo
+Category:User da-1	Categoría:Wikipedia:Wikipedistas con nivel básico de danés
+Category:User et-1	Categoría:Wikipedia:Wikipedistas con nivel básico de estonio
+Category:User gl-1	Categoría:Wikipedia:Wikipedistas con nivel básico de gallego
+Category:User hi-1	Categoría:Wikipedia:Wikipedistas con nivel básico de hindi
+Category:User ar-1	Categoría:Wikipedia:Wikipedistas con nivel básico de árabe
+Category:User be-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de bielorruso
+Category:User da-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de danés
+Category:User fr-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de francés
+Category:User ia-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de interlingua
+Category:User cs-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de checo
+Category:User fr-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de francés
+Category:User it-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de italiano
+Category:User af	Categoría:Wikipedia:Wikipedistas con conocimientos de afrikaans
+Category:User af-1	Categoría:Wikipedia:Wikipedistas con nivel básico de afrikáans
+Category:User als	Categoría:Wikipedia:Wikipedistas con conocimientos de Alemannisch
+Category:User als-1	Categoría:Wikipedia:Wikipedistas con nivel básico de Alemannisch
+Category:User ar	Categoría:Wikipedia:Wikipedistas con conocimientos de árabe
+Category:User cs	Categoría:Wikipedia:Wikipedistas con conocimientos de checo
+Category:User da	Categoría:Wikipedia:Wikipedistas con conocimientos de danés
+Category:User de	Categoría:Wikipedia:Wikipedistas con conocimientos de alemán
+Category:User de-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de alemán
+Category:User de-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de alemán
+Category:User de-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de alemán
+Category:User en-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de inglés
+Category:User en-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de inglés
+Category:User eo-1	Categoría:Wikipedia:Wikipedistas con nivel básico de esperanto
+Category:User es	Categoría:Wikipedia:Wikipedistas con conocimientos de español
+Category:User es-1	Categoría:Wikipedia:Wikipedistas con nivel básico de español
+Category:User es-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de español
+Category:User es-4	Categoría:Wikipedia:Wikipedistas con nivel experto de español
+Category:User es-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de español
+Category:User gsw	Categoría:Wikipedia:Wikipedistas con conocimientos de alemán suizo
+Category:User iu	Categoría:Wikipedia:Wikipedistas con conocimientos de inuktitut
+Template:Babel kadro 2	Plantilla:Babel2
+Category:ᐊᓯᐊᙳᑐᖅ ᐃᓄᐃᑦ (ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ)/inuit (nunaqaqqaaqsimajut)	Categoría:Inuit
+Category:User tr	Categoría:Wikipedia:Wikipedistas con conocimientos de turco
+Category:User tr-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de turco
+Template:Lang	Plantilla:Lang
+Category:User no	Categoría:Wikipedia:Wikipedistas con conocimientos de noruego
+Category:ᓄᓇᕗᑦ/nunavut	Categoría:Nunavut
+Category:ᓯᓚᕐᔪᐊᒥᐅᑦ	Categoría:Animales
+Category:User simple-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de Simple English
+Category:ᐃᖏᕐᕋᔾᔪᑎᑦ/ingirrajjutit	Categoría:Transporte
+Template:Lang-qu	Plantilla:Lang-qu
+Template:Lang-es	Plantilla:Lang-es
+Category:???/premiers of Nunavut	Categoría:Primeros ministros de Nunavut
+Category:User en-1	Categoría:Wikipedia:Wikipedistas con nivel básico de inglés
+Category:User de-1	Categoría:Wikipedia:Wikipedistas con nivel básico de alemán
+Category:User da-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de danés
+Special:RecentChanges	Especial:CambiosRecientes

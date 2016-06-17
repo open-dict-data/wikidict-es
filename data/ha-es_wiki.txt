@@ -1,0 +1,499 @@
+Afirka	África
+Japan	Japón
+Norway	Noruega
+Ireland	Irlanda
+Hungariya	Hungría
+An Spàinn	España
+Amurika	Estados Unidos
+Beljik	Bélgica
+Luksamburg	Luxemburgo
+Duniya	Tierra
+Yan-adam	Homo sapiens
+Finland	Finlandia
+Sweden	Suecia
+Denmark	Dinamarca
+Poland	Polonia
+Lithuania	Lituania
+Italiya	Italia
+Switzerland	Suiza
+Austriya	Austria
+Greek	Grecia
+Turkiyya	Turquía
+Portugal	Portugal
+Turai	Europa
+Asiya	Asia
+Amirka ta Arewa	América del Norte
+Wikipedia	Wikipedia
+Berlin	Berlín
+Airbus	Airbus
+Na'ura	Computadora
+Yanar gizo	Internet
+Barack Obama	Barack Obama
+Pariis	París
+Kenya	Kenia
+Ethiopia	Etiopía
+Zaki	Panthera leo
+Faransa	Francia
+Esperanto	Esperanto
+Kare	Canis lupus familiaris
+Birtaniya	Reino Unido
+Kyanwa	Felis silvestris catus
+Sin	República Popular China
+Kifi	Pisces
+Rasha	Rusia
+Teku	Mar
+São Paulo	São Paulo
+Jamus	Alemania
+Iceland	Islandia
+Istoniya	Estonia
+Jirgin sama	Avión
+Ɗaya	Uno
+Biyu	Dos
+Uku	Tres
+Huɗu	Cuatro
+Biyar	Cinco
+Laitfiya	Letonia
+Ukraniya	Ucrania
+Kazech	República Checa
+Slofakiya	Eslovaquia
+Sloveniya	Eslovenia
+MOldufiniya	Moldavia
+Romainiya	Rumania
+Bulgairiya	Bulgaria
+Masadoiniya	República de Macedonia
+Albaniya	Albania
+Kroatiya	Croacia
+Azerbaijan	Azerbaiyán
+Andorra	Andorra
+Cyprus	Chipre
+Georgia (country)	Georgia
+Kazakystan	Kazajistán
+Malta	Malta
+Monaco	Mónaco
+Montenegro	Montenegro
+Vatican	Ciudad del Vaticano
+San Marino	San Marino
+Indonesiya	Indonesia
+Afirka ta kudu	Sudáfrica
+Aljeriya	Argelia
+Uzbekistan	Uzbekistán
+Ruwa	Agua
+Chile	Chile
+Isa Almasihu	Jesús de Nazaret
+Singafora	Singapur
+Ilmi	Ciencia
+Liechtenstein	Liechtenstein
+Hitler	Adolf Hitler
+Facebook	Facebook
+Baharain	Baréin
+Armeniya	Armenia
+Serbiya	Serbia
+Wata	Luna
+Santanbul	Estambul
+Asturaliya	Australia
+Koriya ta Arewa	Corea del Norte
+Kambodiya	Camboya
+Musulunci	Islam
+Rana	Sol
+Angela Merkel	Angela Merkel
+Timor-Leste	Timor Oriental
+Duniyoyi	Planeta
+Cadi	Chad
+Indiya	India
+Mangolia	Mongolia
+Dabba	Animalia
+Shuka	Plantae
+Kaza	Gallus gallus domesticus
+Jersey	Jersey
+Aladu	Sus scrofa domestica
+Iran	Irán
+Irak	Irak
+Isra'ila	Israel
+Yemen	Yemen
+Jordan	Jordania
+Kyrgystan	Kirguistán
+Kuwait	Kuwait
+Laos	Laos
+Lebanon	Líbano
+Maldives	Maldivas
+Maleziya	Malasia
+Myanmar	Birmania
+Nepal	Nepal
+Oman	Omán
+Pakistan	Pakistán
+Qatar	Catar
+Saudiyya	Arabia Saudita
+Sri Lanka	Sri Lanka
+Siriya	Siria
+Tajikistan	Tayikistán
+Thailand	Tailandia
+Turkmenistan	Turkmenistán
+Taraiyar larabawa	Emiratos Árabes Unidos
+Vietnam	Vietnam
+Koriya ta Kudu	Corea del Sur
+Da Simpsons	Los Simpson
+Afghanistan	Afganistán
+Bangladash	Bangladés
+Mali	Malí
+Angola	Angola
+Bhutan	Bután
+Brunei	Brunéi
+Filipin	Filipinas
+Togo	Togo
+Benin	Benín
+Botswana	Botsuana
+Burkina faso	Burkina Faso
+Burundi	Burundi
+Jamhuriyar dimokuradiyya Kwango	República Democrática del Congo
+Gine	Guinea
+Kameru	Camerún
+Libya	Libia
+Muritaniya	Mauritania
+Nijar	Níger
+Nijeriya	Nigeria
+Uganda	Uganda
+Senegal	Senegal
+Julius Caesar	Julio César
+Sudan	Sudán
+Majalisar Ɗinkin Duniya	Organización de las Naciones Unidas
+Kofi Annan	Kofi Annan
+Montevideo	Montevideo
+Biri	Mono
+Augustus	César Augusto
+Gibraltar	Gibraltar
+Mota	Automóvil
+Buenos Aires	Buenos Aires
+Abarba	Ananas comosus
+Zinedine Yazid Zidane	Zinedine Zidane
+Baibûl	Biblia
+Gaskiyan Cocin Isa	Verdadera Iglesia de Jesús
+Concepción, Chile	Concepción (Chile)
+Końskowola	Końskowola
+Maciji	Serpentes
+Kimiya	Química
+Lima	Lima
+Santiago de Chile	Santiago de Chile
+Osasco	Osasco
+Dong Hoi Filin	Aeropuerto de Đồng Hới
+Curitiba	Curitiba
+Confucius	Confucio
+Kiristancìì	Cristianismo
+Nahiya	Continente
+Tsuntsu	Aves
+Main Page	Wikipedia:Portada
+Saratov	Sarátov
+Bus	Autobús
+Åland	Åland
+Makkah	La Meca
+Canary Islands	Canarias
+Category:Candidates for speedy deletion	Categoría:Wikipedia:Borrar (definitivo)
+Sahara	Desierto del Sahara
+Kyautar Nobel	Premio Nobel
+Sauro	Culicidae
+Raƙumi	Camelus
+Ƙudan zuma	Anthophila
+Margaret Thatcher	Margaret Thatcher
+Nelson Mandela	Nelson Mandela
+Category:Fàransà	Categoría:Francia
+Hakkokin Yan-adam	Derechos humanos
+Hong Kong	Hong Kong
+Rio de Janeiro	Río de Janeiro
+Addini	Religión
+Muhammad	Mahoma
+Isle of Man	Isla de Man
+Ronald Reagan	Ronald Reagan
+Fernando Alonso	Fernando Alonso
+Bishiya	Árbol
+APACHE	Servidor HTTP Apache
+Lissafi	Número
+Masara	Zea mays
+Ƙasashen Duniya	Anexo:Países
+Dabbar beya	Ursidae
+Sankara	Cáncer
+Kurãme	Sordera
+Polio	Poliomielitis
+Makaman nukiliya	Arma nuclear
+Macau	Macao
+Raƙumin dawa	Giraffa camelopardalis
+Template:Link FA	Plantilla:Destacado
+Wikipedia:Community Portal	Wikipedia:Café
+Jimina	Struthio camelus
+Tara	Nueve
+Jaki	Equus africanus asinus
+Tuje	Otididae
+Jamhuriyar Sin	Isla de Taiwán
+Bakwai	Siete
+Takwas	Ocho
+Dabbar rendiya	Cervidae
+Tafarnuwa	Allium sativum
+Shida	Seis
+Moshchena	Moshchena
+Paltoga	Paltoga
+Selena	Selena Quintanilla Pérez
+Goma	Diez
+Guernsey	Guernsey
+Kahuhu	Upupa epops
+Kyankyaso	Blattodea
+Galantoyi	Ciconia ciconia
+Kada	Crocodilia
+Kurciya	Streptopelia
+Zaƙami	Datura stramonium
+Hausawa	Hausas
+Mošovce	Mošovce
+Benazir Bhutto	Benazir Bhutto
+Mahmoud Ahmadinejad	Mahmud Ahmadineyad
+Dokokin nan goma	Diez Mandamientos
+Damisa	Panthera pardus
+Ido	Ido
+Larabawa	Pueblo árabe
+Madinah	Medina
+Gyaɗa	Arachis hypogaea
+Ɗari	Cien
+Hawainiya	Chamaeleonidae
+Firinji	Refrigerador
+Khomeini	Ruhollah Jomeini
+Ɗaɗɗoya	Ocimum basilicum
+Zirin Gaza	Franja de Gaza
+Radio Studio 54 Network	Radio Studio 54 Network
+Ashirin	Veinte
+Arbaʼin	Cuarenta
+Palestin autonomija	Autoridad Nacional Palestina
+Talatin	Treinta
+Dubu	Mil
+Desmond Tutu	Desmond Tutu
+Villeneuve-d'Ascq	Villeneuve-d'Ascq
+Tsibirin Bermuda	Triángulo de las Bermudas
+Dabgi	Orycteropus afer
+Kotun Shari'ar Miyagun Laifuka	Corte Penal Internacional
+Template:Commonscat	Plantilla:Commonscat
+Afirnawan Amirka	Población afroestadounidense
+Ƙwayoyin cuta na Ebola	Enfermedad por el virus del Ébola
+Hausa	Idioma hausa
+Ali Khamenei	Alí Jamenei
+Sao Vang Filin	Aeropuerto de Sao Vàng
+Sittin	Sesenta
+Tsamiya	Tamarindus indica
+Kuɓewa	Abelmoschus esculentus
+Rogo	Manihot esculenta
+Karkandan	Diceros bicornis
+Cutar murar aladu	Pandemia de gripe A (H1N1) de 2009-2010
+Umaru Musa Yar'Adua	Umaru Yar'Adua
+Abbott (bakin dutse)	Abbot (cráter)
+Abbe (bakin dutse)	Abbe (cráter)
+Tattalin arzikin duniya	Crisis financiera
+Dila	Canis aureus
+Balbela	Bubulcus ibis
+Rimi	Ceiba pentandra
+Ashuwaki	Salvadora persica
+Zamfara	Zamfara
+Zariya	Zaria (Nigeria)
+Zirman	Ricinus communis
+Kuka	Adansonia digitata
+Ɓauna	Syncerus caffer
+Alkama	Triticum aestivum
+Kwari	Musca domestica
+Gweba	Psidium guajava
+Zabo	Numididae
+Dage	Mellivora capensis
+Herzegovina	Herzegovina
+CFA franc ( sefar yammaci Afirka)	Franco CFA
+Kaduna	Kaduna
+Gwaggon biri	Papio anubis
+Boko Haram	Boko Haram
+Jaffna	Jaffna
+Maiduguri	Maiduguri
+Afifiya	Testudines
+Gwaza	Colocasia esculenta
+Soso	Luffa
+Zogale	Moringa oleifera
+Casaʼin	Noventa
+Jibda	Civettictis civetta
+Dumya	Plectropterus gambensis
+Ƙirƙa	Chlorocebus aethiops
+Giginya	Borassus aethiopum
+Batsiya	Ourebia ourebi
+43 (adadan)	Cuarenta y tres
+Zawo	Gymnarchus niloticus
+Barewa	Eudorcas rufifrons
+Shamuwa	Ciconia abdimii
+Baba	Indigofera
+Dadis Mousa Camara	Moussa Dadis Camara
+Mayen kifi	Ceryle rudis
+Agadez	Agadez
+Mazo	Tragelaphus scriptus
+Marek Grechuta	Marek Grechuta
+Jan baki	Quelea quelea
+Gauraka	Balearica pavonina
+Baƙurna	Cephalophus rufilatus
+Kumurci	Naja nigricollis
+Matiyu	Evangelio de Mateo
+Kwara	Kwara
+Julia Savicheva	Yúliya Sávicheva
+Gwamki	Hippotragus equinus
+Tan Son Nhat Filin	Aeropuerto Internacional de Tan Son Nhat
+Gaiwa	Protopterus annectens
+Babba da jaka	Leptoptilos crumeniferus
+Labarin kasa na Nijeriya	Geografía de Nigeria
+Waaken Santanbul	Cajanus cajan
+Jihar Katsina	Katsina (estado)
+Danya	Sclerocarya birrea
+Kano	Kano (estado)
+Ybe	Yobe
+Tamanin	Ochenta
+Sabaʼin	Setenta
+Hamsin	Cincuenta
+Yanyawa	Vulpes pallida
+Wushi-wushi	Dendrocygna bicolor
+Ƙirinjijiya	Dendrocygna viduata
+Gada	Sylvicapra grimmia
+Da Nang Filin	Aeropuerto Internacional de Đà Nẵng
+Yankan Allah	Amadina fasciata
+VietJet Air	VietJet Air
+Hazbiya	Columba guinea
+51 (adadan)	Cincuenta y uno
+Ca Mau Filin	Aeropuerto de Cà Mau
+Help:Contents	Ayuda:Contenidos
+Hankaka	Corvus albus
+Tsanwaka	Coracias abyssinicus
+Kurege	Xerus erythropus
+Kabarai	Ploceus cucullatus
+Sisita	Uraeginthus bengalus
+Cilakowa	Tockus nasutus
+Jetstar Pacific Airlines	Jetstar Pacific Airlines
+Aya	Cyperus esculentus
+Suda	Tchagra senegalus
+Category:Turkiyya	Categoría:Turquía
+Category:Afirka ta kudu	Categoría:Sudáfrica
+Category:Nijeriya	Categoría:Nigeria
+Category:Vietnam	Categoría:Vietnam
+Category:Tsuntsu	Categoría:Aves
+Category:Shuka	Categoría:Plantae
+Category:Addini	Categoría:Religión
+Category:Duniya	Categoría:Tierra
+Hausa Bakwai	Estados hausa
+Duniyar Computer	Computerworld
+Gafiya	Cricetomys gambianus
+Karfasa	Tilapia (género)
+LGBT hakkin a Afrika	Homosexualidad en África
+Shaho	Águila
+Tarwaɗa	Clarias anguillaris
+Tsada	Ximenia americana
+Garafuni	Momordica balsamina
+Albert Adomah	Albert Adomah
+Riɗi	Sesamum indicum
+ESB Villeneuve-d'Ascq	ESB Villeneuve-d'Ascq
+Edmond Debeaumarché	Edmond Debeaumarché
+Rukuɓu	Amaranthus viridis
+Colin Addison	Colin Addison
+Template:Tl	Plantilla:Ep
+Template:Userbox	Usuario:Userbox/Userbox
+Adebayo Akinfenwa	Adebayo Akinfenwa
+Category:Ƙasā̀shē	Categoría:Países
+Wikipedia:Administrators	Wikipedia:Bibliotecarios
+Misra	Egipto
+Yawan Jama'a, Yana da Muhimmanci	Population Matters
+Template:Bot	Plantilla:Bot
+Kanada	Canadá
+Category:Slovakia	Categoría:Eslovaquia
+Category:Tūrai	Categoría:Europa
+Template:Documentation	Plantilla:Documentación
+Wikipedia:Community portal	Portal:Comunidad
+Category:User languages	Categoría:Wikipedia:Wikipedistas por idioma
+Sung Jae-ki	Sung Jae-ki
+Template:Softredirect	Plantilla:Redirección suave
+Template:Delete	Plantilla:Destruir
+Category:Wikipedia	Categoría:Wikipedia
+Wikipedia:General disclaimer	Wikipedia:Limitación general de responsabilidad
+Wikipedia:Statistics	Wikipedia:Estadísticas
+Template:Navbox	Plantilla:Navegación
+Conductive tawada	Tinta conductiva
+Dala, Nigeria	Dala (Nigeria)
+Template:!	Plantilla:!
+Template:=	Plantilla:=
+Template:Navbar	Plantilla:Navbar
+Template:Unicode	Plantilla:Unicode
+Wikipedia:Vital articles	Wikipedia:Lista de artículos que toda Wikipedia debería tener
+Category:Afirka	Categoría:África
+Category:Adadan	Categoría:Números
+Template:Babel	Plantilla:Babel
+Template:Reflist	Plantilla:Listaref
+Tommy Baldwin	Tommy Baldwin
+Template:Stub	Plantilla:Esbozo
+Template:See also	Plantilla:VT
+Category:Asiya	Categoría:Asia
+Category:User uk	Categoría:Wikipedia:Wikipedistas con conocimientos de ucraniano
+Category:User uk-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de ucraniano
+Template:SIL	Plantilla:Doc ISO3
+Template:ITA	Plantilla:ITA
+Template:Country showdata	Plantilla:Mostrar geodatos
+Template:Image label	Plantilla:Etiqueta imagen
+Template:Ambox	Plantilla:Metaplantilla de avisos
+Template:Infobox Country	Plantilla:Ficha de país
+Template:Cite journal	Plantilla:Cita publicación
+Category:User en-4	Categoría:Wikipedia:Wikipedistas con nivel experto de inglés
+Category:User en	Categoría:Wikipedia:Wikipedistas con conocimientos de inglés
+Category:User en-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de inglés
+Template:Infobox	Plantilla:Ficha
+Template:Cite web	Plantilla:Cita web
+Template:Country data	Plantilla:Geodatos
+Template:IPA	Plantilla:AFI
+Category:Amurika	Categoría:América
+Template:MONTHNAME	Plantilla:Nombre mes
+Template:Namespace detect	Plantilla:Detecta espacio de nombres
+Template:Country data Nigeria	Plantilla:Geodatos Nigeria
+Template:Image label end	Plantilla:Etiqueta imagen fin
+Template:Purge	Plantilla:Purgar
+Template:Sportivo	Plantilla:Ficha de deportista
+Template:Country flag2	Plantilla:Bandera icono-país
+Kungiyar Agaji Ta Red Cross Ta Duniya	Comité Internacional de la Cruz Roja
+Template:Image label small	Plantilla:Etiqueta imagen pequeña
+Template:Disambig	Plantilla:Desambiguación
+Category:User az	Categoría:Wikipedia:Wikipedistas con conocimientos de azerí
+Category:User be	Categoría:Wikipedia:Wikipedistas con conocimientos de bielorruso
+Category:User cs-1	Categoría:Wikipedia:Wikipedistas con nivel básico de checo
+Category:User da-1	Categoría:Wikipedia:Wikipedistas con nivel básico de danés
+Category:User ar-1	Categoría:Wikipedia:Wikipedistas con nivel básico de árabe
+Category:User be-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de bielorruso
+Category:User da-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de danés
+Category:User tr-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de turco
+Category:User af	Categoría:Wikipedia:Wikipedistas con conocimientos de afrikaans
+Category:User af-1	Categoría:Wikipedia:Wikipedistas con nivel básico de afrikáans
+Category:User als	Categoría:Wikipedia:Wikipedistas con conocimientos de Alemannisch
+Category:User als-1	Categoría:Wikipedia:Wikipedistas con nivel básico de Alemannisch
+Category:User ar	Categoría:Wikipedia:Wikipedistas con conocimientos de árabe
+Category:User cs	Categoría:Wikipedia:Wikipedistas con conocimientos de checo
+Category:User da	Categoría:Wikipedia:Wikipedistas con conocimientos de danés
+Category:User de	Categoría:Wikipedia:Wikipedistas con conocimientos de alemán
+Category:User de-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de alemán
+Category:User de-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de alemán
+Category:User el	Categoría:Wikipedia:Wikipedistas con conocimientos de griego antiguo
+Category:User en-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de inglés
+Category:User en-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de inglés
+Category:User tr	Categoría:Wikipedia:Wikipedistas con conocimientos de turco
+Category:User tr-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de turco
+Category:Bishiya	Categoría:Árboles y arbustos
+Category:Kudi	Categoría:Monedas
+Category:Ingila kwallon kafa players	Categoría:Futbolistas de Inglaterra
+Category:Kifi	Categoría:Peces
+Category:Amfani	Categoría:Frutas
+Category:Dabba	Categoría:Animales
+Kabewa	Cucurbita pepo
+Iska	Aire
+Template:FULLROOTPAGENAME	Plantilla:FULLROOTPAGENAME
+Template:Flag	Plantilla:Bandera2
+Trojany	Trojany
+Doya	Ñame
+Category:Hausa	Categoría:Idioma hausa
+Template:Image label begin	Plantilla:Etiqueta imagen inicio
+Template:Ns has subpages	Plantilla:No tiene subpáginas
+Category:User en-1	Categoría:Wikipedia:Wikipedistas con nivel básico de inglés
+Category:User de-1	Categoría:Wikipedia:Wikipedistas con nivel básico de alemán
+Category:User da-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de danés
+Template:Start date	Plantilla:Fecha
+Module:Citation/CS1/Whitelist	Módulo:Citas/Whitelist
+Chuba Akpom	Chuba Akpom
+Special:RecentChanges	Especial:CambiosRecientes
+Module:Citation/CS1	Módulo:Citas
+Module:Citation/CS1/Configuration	Módulo:Citas/Configuración
+Module:Infobox	Módulo:Ficha
+Module:Citation/CS1/Date validation	Módulo:Citas/ValidaciónFechas

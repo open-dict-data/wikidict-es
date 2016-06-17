@@ -1,0 +1,1744 @@
+Afrika	África
+Japani	Japón
+Amerika Kujalleq	América del Sur
+Norge	Noruega
+Irlandi	Irlanda
+Ungarni	Hungría
+Spania	España
+Naalagaaffeqatigiit	Estados Unidos
+Belgia	Bélgica
+Luxembourg (nunaat)	Luxemburgo
+Nunarsuaq	Tierra
+Finlandi	Finlandia
+Svenskit Nunaat	Suecia
+Danmarki	Dinamarca
+Poleni	Polonia
+Litaueni	Lituania
+Italia	Italia
+Schweizi	Suiza
+Østrigi	Austria
+Grækerit Nunaat	Grecia
+Tyrkia	Turquía
+Portugal	Portugal
+Europa	Europa
+Asia	Asia
+Amerika Avannarleq	América del Norte
+Qalasersuaq Kujalleq	Antártida
+Wikipedia	Wikipedia
+Hollandi	Países Bajos
+Berlin	Berlín
+Barack Obama	Barack Obama
+Uruguay	Uruguay
+London	Londres
+Cairo	El Cairo
+Alexandria	Alejandría
+Paris	París
+Mexico	México
+Ataasinngorneq	Lunes
+Jannuaari	Enero
+Februaari	Febrero
+Martsi	Marzo
+Kenya	Kenia
+Apriili	Abril
+Maaji	Mayo
+Juuni	Junio
+Juuli	Julio
+Aggusti	Agosto
+Septemberi	Septiembre
+Oktoberi	Octubre
+Novemberi	Noviembre
+Decemberi	Diciembre
+Marlunngorneq	Martes
+Pingasunngorneq	Miércoles
+Sisamanngorneq	Jueves
+Tallimanngorneq	Viernes
+Arfininngorneq	Sábado
+Sapaat	Domingo
+Franskit Nunaat	Francia
+Esperanto	Esperanto
+Tuluit Nunaat	Reino Unido
+Kina	República Popular China
+Franskisut	Idioma francés
+Brazil	Brasil
+Ruslandi	Rusia
+Toronto	Toronto
+São Paulo	São Paulo
+Québec	Quebec
+Wikimedia	Fundación Wikimedia
+Tyskit Nunaat	Alemania
+Hvideruslandi	Bielorrusia
+Tyskisut	Idioma alemán
+Islandi	Islandia
+Estlandi	Estonia
+Letlandi	Letonia
+Ukraine	Ucrania
+Tjekkia	República Checa
+Slovakia	Eslovaquia
+Slovenia	Eslovenia
+Vilnius	Vilna
+Moldova	Moldavia
+Rumænia	Rumania
+Bulgaria	Bulgaria
+Roma	Roma
+Makedonia	República de Macedonia
+Albania	Albania
+Kalaallit Nunaat	Groenlandia
+Kroatia	Croacia
+Bosnia-Hercegovina	Bosnia y Herzegovina
+Nuuk	Nuuk
+Aserbajdsjan	Azerbaiyán
+Andorra	Andorra
+Cyperni	Chipre
+Georgia	Georgia
+Kasakhstani	Kazajistán
+Malta	Malta
+Monaco	Mónaco
+Montenegro	Montenegro
+Vatikani	Ciudad del Vaticano
+San Marino	San Marino
+Bruxelles	Bruselas
+Indonesia	Indonesia
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Tyrkiskisut	Idioma turco
+Poznań	Poznań
+Warszawa	Varsovia
+Eurovision Song Contest	Festival de la Canción de Eurovisión
+Islandimiusut	Idioma islandés
+Claude Monet	Claude Monet
+Diego Velázquez	Diego Velázquez
+Chile	Chile
+El Greco	El Greco
+Jiisusi-Kristus	Jesús de Nazaret
+Oqaluttuarisaaneq	Historia
+Oqaatsit	Lenguaje
+Galaxy	Galaxia
+Ulloriarsiorneq	Astronomía
+Singapore	Singapur
+Montréal	Montreal
+Liechtensteini	Liechtenstein
+Timersorneq	Deporte
+Szczecin	Szczecin
+Matematikki	Matemáticas
+Latiinerisut	Latín
+Bahrain	Baréin
+Serbia	Serbia
+Qaammat	Luna
+Istanbul	Estambul
+Australia	Australia
+Uumaatsulerineq	Física
+Argentina	Argentina
+Peru	Perú
+Uumassusililerineq	Biología
+Korea Avannarleq	Corea del Norte
+Islam	Islam
+Lech Wałęsa	Lech Wałęsa
+Lyon	Lyon
+EU	Unión Europea
+Sofia	Sofía
+Mount Everest	Monte Everest
+Oceania	Oceanía
+Wikimedia Commons	Wikimedia Commons
+Łódź	Łódź
+Oslo	Oslo
+Katowice	Katowice
+Dubai	Dubái
+Lionel Messi	Lionel Messi
+Nipilersorneq	Música
+Rennes	Rennes
+Lille	Lille
+Moskva	Moscú
+Sankt Petersborg	San Petersburgo
+New Zealand	Nueva Zelanda
+India	India
+Mongolia	Mongolia
+Venezuela	Venezuela
+Suriname	Surinam
+Paraguay	Paraguay
+Guyana	Guyana
+Eqqumiitsuliorneq	Arte
+Ecuador	Ecuador
+Colombia	Colombia
+Bolivia	Bolivia
+Naasut	Plantae
+Białystok	Białystok
+Leonardo da Vinci	Leonardo da Vinci
+Iran	Irán
+Iraq	Irak
+Israel	Israel
+Yemen	Yemen
+Polenimiutut	Idioma polaco
+Jordan	Jordania
+Kuwait	Kuwait
+Lebanon	Líbano
+Amerika	América
+Nepal	Nepal
+Oman	Omán
+Pakistan	Pakistán
+Qatar	Catar
+Saudi Arabia	Arabia Saudita
+Syria	Siria
+Thailandi	Tailandia
+United Arab Emirates	Emiratos Árabes Unidos
+Vietnam	Vietnam
+Novosibirsk	Novosibirsk
+Korea Kujalleq	Corea del Sur
+Jekaterinburg	Ekaterimburgo
+Afghanistan	Afganistán
+Nizjnij Novgorod	Nizhni Nóvgorod
+Samara	Samara
+Kuulti	Oro
+Omsk	Omsk
+Kazan	Kazán
+Bangladesh	Bangladés
+Tjeljabinsk	Cheliábinsk
+Rostov ved Don	Rostov del Don
+Ufa	Ufá
+Volgograd	Volgogrado
+Perm	Perm
+Tanzania	Tanzania
+Philippines	Filipinas
+Isaac Newton	Isaac Newton
+Beijing	Pekín
+New Delhi	Nueva Delhi
+Tbilisi	Tiflis
+Libya	Libia
+Madagascar	Madagascar
+Uganda	Uganda
+FN	Organización de las Naciones Unidas
+Nunarsualerineq	Geología
+Ahmedabad	Ahmedabad
+Nunalerineq	Geografía
+Praha	Praga
+Mumbai	Bombay
+Jerusalem	Jerusalén
+Kosovo	Kosovo
+Grenoble	Grenoble
+Chicago	Chicago
+Spanskisut	Idioma español
+Montevideo	Montevideo
+Kolkata	Calcuta
+Chennai	Chennai
+Delhi	Delhi
+Dhaka	Daca
+Bangalore	Bangalore
+Hyderabad (India)	Hyderabad (India)
+Islamabad	Islamabad
+Aapakaaq	Mono
+Uetersen	Uetersen
+Finlandimiutut	Idioma finés
+Le Mans	Le Mans
+Bordeaux	Burdeos
+Buenos Aires	Buenos Aires
+Mexico City	México, D. F.
+Tokyo	Tokio
+La Paz (Bolivia)	La Paz
+Patagonien	Patagonia
+Abu Dhabi	Abu Dabi
+Baghdad	Bagdad
+Caracas	Caracas
+Pune	Pune
+Hindimiutut	Hindi
+Urdumiutut	Urdu
+Wien	Viena
+København	Copenhague
+Stockholm	Estocolmo
+Helsinki	Helsinki
+Murmansk	Múrmansk
+Reykjavík	Reikiavik
+Tallinn	Tallin
+Riga	Riga
+Zanzibar	Zanzíbar
+Gdańsk	Gdansk
+Wrocław	Breslavia
+Kaarasjoki	Karasjok
+Luxembourg (illoqarfik)	Luxemburgo (ciudad)
+Biibili	Biblia
+Ho Chi Minh Illoqarfik	Ciudad Ho Chi Minh
+Hanoi	Hanói
+Jesusip Ilumiortup Ilagiissai	Verdadera Iglesia de Jesús
+Tuluttut	Idioma inglés
+Bangkok	Bangkok
+Andorra la Vella	Andorra la Vieja
+Odessa	Odesa
+Đồng Hới	Đồng Hới
+Concepcion, Chile	Concepción (Chile)
+Kyiv	Kiev
+Ontario	Ontario
+Ottawa	Ottawa
+Manitoba	Manitoba
+Alberta	Alberta
+Nova Scotia	Nueva Escocia
+Dar es Salaam	Dar es-Salam
+Nouveau-Brunswick	Nuevo Brunswick
+Britisk Columbia	Columbia Británica
+Prince Edward Island	Isla del Príncipe Eduardo
+Saskatchewan	Saskatchewan
+2012	2012
+2011	2011
+2010	2010
+2009	2009
+Newfoundland aamma Labrador	Terranova y Labrador
+Northwest Territories	Territorios del Noroeste
+Yukon	Yukón
+Nunavut	Nunavut
+Iqaluit	Iqaluit
+Whitehorse (Canada)	Whitehorse
+Yellowknife	Yellowknife
+St. John's (Newfoundland aamma Labrador)	San Juan de Terranova
+Edmonton (Canada)	Edmonton
+Regina (Canada)	Regina (Saskatchewan)
+Charlottetown (Canada)	Charlottetown
+Victoria (Canada)	Victoria (Columbia Británica)
+Winnipeg	Winnipeg
+Fredericton	Fredericton
+Halifax (Canada)	Halifax
+Québec (illoqarfik)	Quebec (ciudad)
+Jannuaari 1	1 de enero
+Jannuaari 2	2 de enero
+Jannuaari 3	3 de enero
+Lund	Lund
+Jannuaari 4	4 de enero
+Jannuaari 5	5 de enero
+Arica	Arica
+Malmö	Malmö
+Jannuaari 6	6 de enero
+Jannuaari 7	7 de enero
+Jannuaari 8	8 de enero
+Jannuaari 9	9 de enero
+Jannuaari 10	10 de enero
+Jannuaari 11	11 de enero
+Jannuaari 12	12 de enero
+Jannuaari 13	13 de enero
+Jannuaari 14	14 de enero
+Jannuaari 15	15 de enero
+Jannuaari 16	16 de enero
+Jannuaari 17	17 de enero
+Jannuaari 18	18 de enero
+Jannuaari 19	19 de enero
+Jannuaari 20	20 de enero
+Skien	Skien
+Jannuaari 21	21 de enero
+Jannuaari 22	22 de enero
+Jannuaari 23	23 de enero
+Jannuaari 24	24 de enero
+Jannuaari 25	25 de enero
+Jannuaari 26	26 de enero
+Jannuaari 27	27 de enero
+Jannuaari 28	28 de enero
+Jannuaari 29	29 de enero
+Jannuaari 30	30 de enero
+Jannuaari 31	31 de enero
+Porsgrunn	Porsgrunn
+Decemberi 2	2 de diciembre
+Decemberi 1	1 de diciembre
+Decemberi 3	3 de diciembre
+Decemberi 7	7 de diciembre
+Decemberi 5	5 de diciembre
+Decemberi 8	8 de diciembre
+Decemberi 10	10 de diciembre
+Decemberi 6	6 de diciembre
+Decemberi 9	9 de diciembre
+Decemberi 4	4 de diciembre
+Februaari 1	1 de febrero
+Februaari 2	2 de febrero
+Februaari 3	3 de febrero
+Kurów (Puławy eqqaaniittoq)	Kurów
+Februaari 4	4 de febrero
+Februaari 5	5 de febrero
+Februaari 6	6 de febrero
+Februaari 7	7 de febrero
+Februaari 8	8 de febrero
+Februaari 9	9 de febrero
+Februaari 10	10 de febrero
+Februaari 14	14 de febrero
+Februaari 13	13 de febrero
+Februaari 15	15 de febrero
+Februaari 11	11 de febrero
+Februaari 12	12 de febrero
+Februaari 19	19 de febrero
+Februaari 17	17 de febrero
+Februaari 16	16 de febrero
+Februaari 18	18 de febrero
+Februaari 20	20 de febrero
+Februaari 21	21 de febrero
+Februaari 22	22 de febrero
+Februaari 23	23 de febrero
+Februaari 24	24 de febrero
+Februaari 25	25 de febrero
+Februaari 26	26 de febrero
+Februaari 27	27 de febrero
+Februaari 28	28 de febrero
+Decemberi 11	11 de diciembre
+Februaari 29	29 de febrero
+Decemberi 12	12 de diciembre
+Decemberi 13	13 de diciembre
+Decemberi 14	14 de diciembre
+Decemberi 15	15 de diciembre
+Martsi 2	2 de marzo
+Martsi 3	3 de marzo
+Martsi 5	5 de marzo
+Martsi 1	1 de marzo
+Martsi 7	7 de marzo
+Martsi 8	8 de marzo
+Martsi 4	4 de marzo
+Martsi 10	10 de marzo
+Martsi 11	11 de marzo
+Martsi 6	6 de marzo
+Martsi 13	13 de marzo
+Martsi 9	9 de marzo
+Martsi 12	12 de marzo
+Martsi 15	15 de marzo
+Martsi 14	14 de marzo
+Decemberi 16	16 de diciembre
+Decemberi 17	17 de diciembre
+Kristiansand	Kristiansand
+Martsi 16	16 de marzo
+Martsi 17	17 de marzo
+Martsi 18	18 de marzo
+Martsi 19	19 de marzo
+Martsi 20	20 de marzo
+Martsi 21	21 de marzo
+Martsi 22	22 de marzo
+Decemberi 18	18 de diciembre
+Martsi 23	23 de marzo
+Decemberi 19	19 de diciembre
+Martsi 24	24 de marzo
+Martsi 25	25 de marzo
+Decemberi 20	20 de diciembre
+Martsi 26	26 de marzo
+Martsi 27	27 de marzo
+Martsi 28	28 de marzo
+Martsi 29	29 de marzo
+Martsi 30	30 de marzo
+Martsi 31	31 de marzo
+Sana'a	Saná
+Apriili 15	15 de abril
+Apriili 13	13 de abril
+Apriili 12	12 de abril
+Apriili 14	14 de abril
+Apriili 11	11 de abril
+Apriili 10	10 de abril
+Apriili 8	8 de abril
+Apriili 9	9 de abril
+Apriili 7	7 de abril
+Apriili 6	6 de abril
+Apriili 5	5 de abril
+Apriili 4	4 de abril
+Apriili 3	3 de abril
+Apriili 1	1 de abril
+Apriili 2	2 de abril
+Apriili 16	16 de abril
+Apriili 17	17 de abril
+Apriili 18	18 de abril
+Apriili 19	19 de abril
+Apriili 20	20 de abril
+Apriili 21	21 de abril
+Apriili 22	22 de abril
+Apriili 23	23 de abril
+Apriili 24	24 de abril
+Apriili 25	25 de abril
+Apriili 26	26 de abril
+Apriili 27	27 de abril
+Apriili 28	28 de abril
+Apriili 29	29 de abril
+Apriili 30	30 de abril
+Maaji 1	1 de mayo
+Maaji 2	2 de mayo
+Maaji 3	3 de mayo
+Maaji 4	4 de mayo
+Maaji 5	5 de mayo
+Maaji 6	6 de mayo
+Maaji 7	7 de mayo
+Maaji 8	8 de mayo
+Maaji 9	9 de mayo
+Maaji 10	10 de mayo
+Maaji 11	11 de mayo
+Maaji 12	12 de mayo
+Maaji 13	13 de mayo
+Maaji 14	14 de mayo
+Maaji 15	15 de mayo
+Maaji 16	16 de mayo
+Maaji 17	17 de mayo
+Maaji 18	18 de mayo
+Maaji 19	19 de mayo
+Maaji 20	20 de mayo
+Maaji 21	21 de mayo
+Maaji 22	22 de mayo
+Maaji 23	23 de mayo
+Maaji 24	24 de mayo
+Maaji 25	25 de mayo
+Maaji 26	26 de mayo
+Maaji 27	27 de mayo
+Maaji 28	28 de mayo
+Maaji 29	29 de mayo
+Maaji 30	30 de mayo
+Maaji 31	31 de mayo
+Decemberi 21	21 de diciembre
+Juuni 14	14 de junio
+Juuni 15	15 de junio
+Juuni 13	13 de junio
+Juuni 10	10 de junio
+Juuni 7	7 de junio
+Juuni 11	11 de junio
+Juuni 9	9 de junio
+Juuni 12	12 de junio
+Juuni 6	6 de junio
+Juuni 8	8 de junio
+Juuni 5	5 de junio
+Juuni 3	3 de junio
+Juuni 2	2 de junio
+Juuni 1	1 de junio
+Juuni 4	4 de junio
+Decemberi 22	22 de diciembre
+Juuni 16	16 de junio
+Juuni 30	30 de junio
+Juuni 29	29 de junio
+Juuni 28	28 de junio
+Juuni 26	26 de junio
+Juuni 25	25 de junio
+Juuni 22	22 de junio
+Juuni 27	27 de junio
+Juuni 24	24 de junio
+Juuni 20	20 de junio
+Juuni 23	23 de junio
+Juuni 19	19 de junio
+Juuni 18	18 de junio
+Juuni 21	21 de junio
+Juuni 17	17 de junio
+Decemberi 23	23 de diciembre
+Arnold Schwarzenegger	Arnold Schwarzenegger
+Juuli 15	15 de julio
+Juuli 13	13 de julio
+Juuli 12	12 de julio
+Juuli 10	10 de julio
+Juuli 9	9 de julio
+Juuli 14	14 de julio
+Juuli 8	8 de julio
+Juuli 7	7 de julio
+Juuli 6	6 de julio
+Juuli 5	5 de julio
+Juuli 2	2 de julio
+Juuli 4	4 de julio
+Juuli 3	3 de julio
+Juuli 1	1 de julio
+Juuli 11	11 de julio
+Decemberi 24	24 de diciembre
+Juuli 31	31 de julio
+Juuli 30	30 de julio
+Juuli 29	29 de julio
+Juuli 28	28 de julio
+Juuli 27	27 de julio
+Juuli 25	25 de julio
+Juuli 24	24 de julio
+Juuli 23	23 de julio
+Juuli 26	26 de julio
+Juuli 22	22 de julio
+Juuli 19	19 de julio
+Juuli 21	21 de julio
+Juuli 20	20 de julio
+Juuli 17	17 de julio
+Juuli 18	18 de julio
+Juuli 16	16 de julio
+Decemberi 25	25 de diciembre
+Decemberi 26	26 de diciembre
+Aggusti 14	14 de agosto
+Aggusti 15	15 de agosto
+Aggusti 13	13 de agosto
+Aggusti 12	12 de agosto
+Aggusti 11	11 de agosto
+Aggusti 10	10 de agosto
+Aggusti 8	8 de agosto
+Aggusti 7	7 de agosto
+Aggusti 9	9 de agosto
+Aggusti 5	5 de agosto
+Aggusti 4	4 de agosto
+Aggusti 2	2 de agosto
+Aggusti 3	3 de agosto
+Aggusti 6	6 de agosto
+Aggusti 1	1 de agosto
+Decemberi 27	27 de diciembre
+Madrid	Madrid
+Aggusti 16	16 de agosto
+Aggusti 29	29 de agosto
+Aggusti 28	28 de agosto
+Aggusti 30	30 de agosto
+Aggusti 25	25 de agosto
+Aggusti 26	26 de agosto
+Aggusti 23	23 de agosto
+Aggusti 27	27 de agosto
+Aggusti 21	21 de agosto
+Aggusti 20	20 de agosto
+Aggusti 24	24 de agosto
+Aggusti 18	18 de agosto
+Aggusti 17	17 de agosto
+Aggusti 22	22 de agosto
+Aggusti 19	19 de agosto
+Aggusti 31	31 de agosto
+Decemberi 28	28 de diciembre
+Bogotá	Bogotá
+Brasilia	Brasilia
+Septemberi 15	15 de septiembre
+Septemberi 14	14 de septiembre
+Septemberi 13	13 de septiembre
+Septemberi 12	12 de septiembre
+Septemberi 8	8 de septiembre
+Septemberi 11	11 de septiembre
+Septemberi 7	7 de septiembre
+Septemberi 10	10 de septiembre
+Septemberi 5	5 de septiembre
+Septemberi 4	4 de septiembre
+Septemberi 9	9 de septiembre
+Septemberi 2	2 de septiembre
+Septemberi 6	6 de septiembre
+Septemberi 1	1 de septiembre
+Septemberi 3	3 de septiembre
+Decemberi 29	29 de diciembre
+Septemberi 30	30 de septiembre
+Septemberi 29	29 de septiembre
+Septemberi 28	28 de septiembre
+Septemberi 27	27 de septiembre
+Septemberi 26	26 de septiembre
+Septemberi 25	25 de septiembre
+Santiago (Chile)	Santiago de Chile
+Septemberi 23	23 de septiembre
+Septemberi 22	22 de septiembre
+Septemberi 24	24 de septiembre
+Septemberi 21	21 de septiembre
+Septemberi 20	20 de septiembre
+Septemberi 18	18 de septiembre
+Septemberi 17	17 de septiembre
+Septemberi 19	19 de septiembre
+Septemberi 16	16 de septiembre
+Decemberi 30	30 de diciembre
+Sucre	Sucre
+Decemberi 31	31 de diciembre
+Oktoberi 1	1 de octubre
+Oktoberi 15	15 de octubre
+Oktoberi 12	12 de octubre
+Oktoberi 10	10 de octubre
+Oktoberi 14	14 de octubre
+Oktoberi 9	9 de octubre
+Oktoberi 8	8 de octubre
+Oktoberi 13	13 de octubre
+Oktoberi 7	7 de octubre
+Oktoberi 11	11 de octubre
+Oktoberi 6	6 de octubre
+Oktoberi 4	4 de octubre
+Oktoberi 5	5 de octubre
+Oktoberi 3	3 de octubre
+Oktoberi 2	2 de octubre
+Oktoberi 31	31 de octubre
+Oktoberi 30	30 de octubre
+Oktoberi 29	29 de octubre
+Oktoberi 28	28 de octubre
+Oktoberi 26	26 de octubre
+Oktoberi 25	25 de octubre
+Oktoberi 24	24 de octubre
+Oktoberi 27	27 de octubre
+Oktoberi 22	22 de octubre
+Oktoberi 23	23 de octubre
+Oktoberi 20	20 de octubre
+Oktoberi 21	21 de octubre
+Oktoberi 19	19 de octubre
+Oktoberi 17	17 de octubre
+Oktoberi 16	16 de octubre
+Oktoberi 18	18 de octubre
+Novemberi 15	15 de noviembre
+Novemberi 14	14 de noviembre
+Novemberi 13	13 de noviembre
+Novemberi 12	12 de noviembre
+Novemberi 11	11 de noviembre
+Novemberi 10	10 de noviembre
+Novemberi 7	7 de noviembre
+Novemberi 8	8 de noviembre
+Novemberi 9	9 de noviembre
+Novemberi 6	6 de noviembre
+Novemberi 5	5 de noviembre
+Novemberi 4	4 de noviembre
+Novemberi 3	3 de noviembre
+Novemberi 2	2 de noviembre
+Novemberi 1	1 de noviembre
+Novemberi 30	30 de noviembre
+Novemberi 29	29 de noviembre
+Novemberi 28	28 de noviembre
+Novemberi 27	27 de noviembre
+Novemberi 26	26 de noviembre
+Novemberi 25	25 de noviembre
+Novemberi 23	23 de noviembre
+Novemberi 24	24 de noviembre
+Novemberi 21	21 de noviembre
+Novemberi 20	20 de noviembre
+Novemberi 22	22 de noviembre
+Novemberi 19	19 de noviembre
+Novemberi 18	18 de noviembre
+Novemberi 17	17 de noviembre
+Novemberi 16	16 de noviembre
+Canberra	Canberra
+Sydney	Sídney
+Melbourne	Melbourne
+Tripoli	Trípoli
+Angol	Angol
+Antofagasta	Antofagasta
+Tehran	Teherán
+Jakarta	Yakarta
+Ankara	Ankara
+Riyadh	Riad
+Chiguayante	Chiguayante
+Damascus	Damasco
+Chillán	Chillán
+Amman	Amán
+Coyhaique	Coyhaique
+Beirut	Beirut
+Masqat, Oman	Mascate
+Nicosia	Nicosia
+Doha	Doha
+Dodoma	Dodoma
+Copiapó	Copiapó
+Nairobi	Nairobi
+Manama	Manama
+Kampala	Kampala
+Antananarivo	Antananarivo
+Osasco	Osasco
+Mittarfik Dong Hoi	Aeropuerto de Đồng Hới
+Arusha	Arusha (ciudad)
+Kuritiba	Curitiba
+Talca, Chile	Talca
+Rancagua, Chile	Rancagua
+Konfusiusi	Confucio
+Corbin Bleu	Corbin Bleu
+Sumut atassuseq:Matematikki	Categoría:Matemáticas
+Savalimmiut	Islas Feroe
+Surat	Surat
+Hangzhou	Hangzhou
+Céline Dion	Céline Dion
+Nunavissuaq	Continente
+Illoqarfiit pingaarnersaat	Capital (política)
+Monzón	Monzón (Huesca)
+Ukiup qaammatai	Mes
+Almazán	Almazán
+Japanimiusut	Idioma japonés
+Encyklopædi	Enciclopedia
+Saqqaa	Wikipedia:Portada
+Eurasia	Eurasia
+Francisco Goya	Francisco de Goya
+Tatarstan	Tartaristán
+Salvador Dalí	Salvador Dalí
+Vincent van Gogh	Vincent van Gogh
+Henri Matisse	Henri Matisse
+Michelangelo	Miguel Ángel
+Pablo Picasso	Pablo Picasso
+Raphael	Rafael Sanzio
+Rembrandt	Rembrandt
+Jericho	Jericó (Cisjordania)
+Bethlehem	Belén
+Mekka	La Meca
+Xi'an	Xi'an
+Kabul	Kabul
+Inuunerup isumalerineq	Filosofía
+Sumut atassuseq:Candidates for speedy deletion	Categoría:Wikipedia:Borrar (definitivo)
+Medan	Medan
+Hebe Camargo	Hebe Camargo
+Seinäjoki	Seinäjoki
+Montpellier	Montpellier
+Guovdageaidnu	Kautokeino
+Airbus A330	Airbus A330
+Sumut atassuseq:Ullorissanik ilisimatusarneq	Categoría:Astronomía
+Strasbourg	Estrasburgo
+Ekutaq	República de Sajá
+Guitar	Guitarra
+Dijon	Dijon
+Økologi	Ecología
+Politikki	Política
+Naalakkersueriaaseq	Gobierno
+Sevastopol	Sebastopol
+Angallassissutit	Transporte
+Inuttut pisinnaatitaafiit pillugit silarsuarmioqatigiinut nalunaarut	Declaración Universal de los Derechos Humanos
+WHO	Organización Mundial de la Salud
+Swahilimiutut	Idioma suajili
+Kineserisut (oqaatsit)	Idioma chino
+Toulouse	Toulouse
+Malagassiskisut	Idioma malgache
+Qagiirgiin	Anádyr
+Leksikoni	Léxico
+Palembang	Palembang
+Suliffissualerineq	Industria
+Sumut atassuseq:Bulgaria	Categoría:Bulgaria
+Sumut atassuseq:Frankrigi	Categoría:Francia
+Sumut atassuseq:Nipilersorneq	Categoría:Música
+Ilinniartitaaneq	Educación
+Hongkong	Hong Kong
+Karachi	Karachi
+Seoul	Seúl
+Shanghai	Shanghái
+Internetprotokol	Internet Protocol
+Ukrainimiusut	Idioma ucraniano
+Cancún	Cancún
+Guadalajara (Jalisco)	Guadalajara (México)
+Svenskisuut	Idioma sueco
+Qallunaatut	Idioma danés
+Slovakimiusut	Idioma eslovaco
+Estlandimiutut	Idioma estonio
+Letlandimiutut	Idioma letón
+Litauenimiutut	Idioma lituano
+Isarukitsoq	Spheniscidae
+Farsimiutut	Idioma persa
+Upperisarsiorneq	Religión
+Koreamiusut	Idioma coreano
+Vietnamimiusut	Idioma vietnamita
+Thailandimiutut	Idioma tailandés
+Indonesiamiutut	Idioma indonesio
+Mongoliamiutut	Idioma mongol
+Juutit	Judaísmo
+Hebraimiutut	Idioma hebreo
+Aserbajdsjaniskisut	Idioma azerí
+Tarnip ilinniarnera	Psicología
+Taoisme	Taoísmo
+Bengalimiutut	Idioma bengalí
+Ukiuunerani OL 2010	Juegos Olímpicos de Vancouver 2010
+Ronald Reagan	Ronald Reagan
+Tangerang	Tangerang
+Sasaskisut	Zazaki
+Bandung	Bandung
+Bekasi	Bekasi
+Depok	Depok
+Saskatoon	Saskatoon
+Tórshavn	Tórshavn
+Ingeniørilerineq	Ingeniería
+Attaveqaqatigiinneq	Comunicación
+Oqarasuaat	Teléfono
+Kulturi	Cultura
+Aritmetikki	Aritmética
+Sumut atassuseq:Brazil	Categoría:Brasil
+Nikerartuusisitsineq	Animación
+Nunaateqarneq	Agricultura
+Surabaya	Surabaya
+Taparneq	Danza
+Innallangialerineq	Electrónica
+Silasiorneq	Tiempo atmosférico
+Shenyang	Shenyang
+Chongqing	Chongqing
+Tianjin	Tianjín
+Lahore	Lahore
+Wuhan	Wuhan
+Silarsuarmi nunat	Anexo:Países
+Nagoya	Nagoya
+Ursidae	Ursidae
+Ullorsiut	Calendario
+Gregorianskit ullorsiutaat	Calendario gregoriano
+Peqqinneq	Salud
+Nantes	Nantes
+Brest	Brest (Francia)
+Ilisserut:Kortpositioner Islandi	Plantilla:Mapa de localización de Islandia
+Ilisserut:Kortpositioner Norge	Plantilla:Mapa de localización de Noruega
+Ilisserut:Kortpositioner Danmarki	Plantilla:Mapa de localización de Dinamarca
+Ilisserut:Kortpositioner Litaueni	Plantilla:Mapa de localización de Lituania
+Ilisserut:Kortpositioner Franskit Nunaat	Plantilla:Mapa de localización de Francia
+Ilisserut:Kortpositioner Andorra	Plantilla:Mapa de localización de Andorra
+Ilisserut:Kortpositioner Spania	Plantilla:Mapa de localización de España
+Ilusilersugaaneq	Arquitectura
+Ilisserut:Kortpositioner Poleni	Plantilla:Mapa de localización de Polonia
+Ilisserut:Kortpositioner Tjekkia	Plantilla:Mapa de localización de República Checa
+Malgrat de Mar	Malgrat de Mar
+Hualqui	Hualqui
+Ilisserut:Kortpositioner Grønland	Plantilla:Mapa de localización de Groenlandia
+Arabiamiutut	Idioma árabe
+Tartu	Tartu
+Iquique	Iquique
+La Serena	La Serena (Chile)
+Makassar	Macasar
+Erfalasoq	Bandera
+Brno	Brno
+Qungasersooq	Giraffa camelopardalis
+Shenzhen	Shenzhen
+Queen	Queen
+Franche-Comté	Franco Condado
+Wikipedia:Anbefalet	Wikipedia:Artículos destacados
+Wikipedia:Katersortarfik	Wikipedia:Café
+Busan	Busan
+Guangzhou	Cantón (China)
+Nanjing	Nankín
+ABBA	ABBA
+Amaroq	Canis lupus
+Pyongyang	Pionyang
+Bien Hoa	Biên Hòa
+San Pedro de la Paz	San Pedro de la Paz
+Nha Trang	Nha Trang
+Simferopol	Simferópol
+Bukarest	Bucarest
+Tirana	Tirana
+Motorhead	Motörhead
+Ukioq ilassutilik	Año bisiesto
+Suwon	Suwon
+Daejeon	Daejeon
+Daegu	Daegu
+Incheon	Incheon
+Skövde	Skövde
+Enköping	Enköping
+Varberg	Varberg
+Viborg	Viborg
+Næstved	Næstved
+Sønderborg	Sønderborg
+Fredericia	Fredericia
+Hjørring	Hjørring
+Vung Tau	Vũng Tàu
+Qarasaasialerinermik ilisimatusarneq	Ciencias de la computación
+Jean Dominique Ingres	Jean-Auguste-Dominique Ingres
+Cervidae	Cervidae
+Ataatarpooq	Padre nuestro
+Inuup ineriartorneranik ilisimatusarneq	Antropología
+Ulan Bator	Ulán Bator
+Marseille	Marsella
+Moshchena	Moshchena
+Ittarnisarsiorneq	Arqueología
+Paltoga	Paltoga
+Entrena	Entrena
+Wellington	Wellington (Nueva Zelanda)
+Inuiaqatigiinni erinaq	Himno nacional
+Palæstina	Palestina (región)
+Vancouver	Vancouver
+Mittarfik Cam Ranh	Aeropuerto de Cam Ranh
+Svalbard	Svalbard
+Benetice	Benetice (Světlá nad Sázavou)
+Savalimmiutut	Idioma feroés
+Ca Mau	Cà Mau
+Da Lat	Đà Lạt
+Uppsala	Upsala
+Göteborg	Gotemburgo
+Racibórz	Racibórz
+Phan Thiet	Phan Thiết
+Aarhus	Aarhus
+Odense	Odense
+Qeerlutooq	Anas platyrhynchos
+Kalaallisut	Idioma groenlandés
+Jylland	Península de Jutlandia
+Aalborg	Aalborg
+Helsingborg	Helsingborg
+Västerås	Västerås
+Linköping	Linköping
+Jönköping	Jönköping
+Stavanger	Stavanger
+Oqaatsoq	Phalacrocorax carbo
+Karlstad	Karlstad
+Mölnlycke	Mölnlycke
+Sjælland	Selandia
+Umeå	Umeå
+Qussuk	Cygnus cygnus
+Norrköping	Norrköping
+Örebro	Örebro
+Gävle	Gävle
+Karlskrona	Karlskrona
+Trondheim	Trondheim
+Kaniina	Leporidae
+Borås	Borås
+Tromsø	Tromsø
+Växjö	Växjö
+Esbjerg	Esbjerg
+Luleå	Luleå
+Kalmar	Kalmar
+Appaliarsuk	Alle alle
+Sundsvall	Sundsvall
+Eskilstuna	Eskilstuna
+Fyn	Fionia
+Falun	Falun
+Östersund	Östersund
+Södertälje	Södertälje
+Halmstad	Halmstad
+Drammen	Drammen
+Roskilde	Roskilde
+Zahlé	Zahlé
+Ciudad Juárez	Ciudad Juárez
+Fukuoka	Fukuoka
+Qarsaaq	Gavia stellata
+Bergen (Norge)	Bergen
+Aarluk	Orcinus orca
+Helsingør	Elsinor
+Taliffak	Arenaria interpres
+Qaqulluk	Fulmarus glacialis
+Kristianstad	Kristianstad
+Trelleborg	Trelleborg
+Niisa	Phocoena phocoena
+Apparluk	Alca torda
+Vejle	Vejle
+Kolding	Kolding
+Herning	Herning
+Mölndal	Mölndal
+Uddevalla	Uddevalla
+Frederikshavn	Frederikshavn
+Afrika-Eurasia	Eurafrasia
+Ippernaq	Nematocera
+Ystad	Ystad
+Kungsbacka	Kungsbacka
+Lahti	Lahti
+Akureyri	Akureyri
+Chengdu	Chengdú
+Nyborg	Nyborg (municipio)
+Pinnipedia	Pinnipedia
+Zhengzhou	Zhengzhou
+Pleiku	Pleiku
+Kraków	Cracovia
+Invercargill	Invercargill
+Siutitooq nimeruaartoq	Cebra
+Drake	Drake (rapero)
+Vinh	Vinh
+Buon Ma Thuot	Buôn Ma Thuột
+Nanoq	Ursus maritimus
+Kasjubiskisut	Idioma casubio
+Tel Aviv	Tel Aviv
+Nice	Niza
+Valparaíso	Valparaíso
+Georges Seurat	Georges Pierre Seurat
+Imermiutarsuaq	Hippopotamus amphibius
+Kyoto	Kioto
+Siissisoq	Rhinocerotidae
+Grækerit oqaluttuatoqqanik	Mitología griega
+Inooqatigiinnik ilisimatusarneq	Ciencias sociales
+Tequixquiac	Tequixquiac
+Luxembourg	Luxemburgo (desambiguación)
+Kuwait Illoqarfik	Kuwait (ciudad)
+Medina	Medina
+Afrodite	Afrodita
+Tuttorpak	Alces alces
+Osaka	Osaka
+Bayda	Al Baida
+Izmir	Esmirna
+Lviv	Leópolis
+Ha Long	Ha Long
+Qui Nhon	Quy Nhơn
+Vinh Yen	Vĩnh Yên
+Hue	Huế
+Thanh Hoa	Thanh Hóa
+Puerto Montt	Puerto Montt
+Calgary	Calgary
+Allaq	Ursus arctos
+Kurdiskisut	Idioma kurdo
+Maorimiutut	Idioma maorí
+Karaj	Karaj
+Ben Tre	Bến Tre (ciudad)
+Aasaanerani nalunaaqqutaq	Horario de verano
+Rauma	Rauma
+Pop (Nipilersoriaaseq)	Pop
+Auckland	Auckland
+Mariupol	Mariúpol
+Lublin	Lublin
+Paul Gauguin	Paul Gauguin
+Sapporo	Sapporo
+Yokohama	Yokohama
+Angers	Angers
+Turku	Turku
+Adana	Adana
+Iganeq	Cocción
+Bodø	Bodø
+Tuttu	Rangifer tarandus
+Eyjafjallajökull (innermik anitsisartoq)	Eyjafjallajökull
+Radio Studio 54 Network	Radio Studio 54 Network
+Ágreda	Ágreda
+Pierre-Auguste Renoir	Pierre-Auguste Renoir
+Bursa	Bursa
+Benghazi	Bengasi
+Tampere	Tampere
+Aaveq	Odobenus rosmarus
+Mariah Carey	Mariah Carey
+Skizofrenii	Esquizofrenia
+Aleppo	Alepo
+Bydgoszcz	Bydgoszcz
+Johannes Vermeer	Johannes Vermeer
+Ulsan	Ulsan
+Gwangju	Gwangju
+Edvard Munch	Edvard Munch
+Mykolaiv	Mykolaiv
+Świnoujście	Świnoujście
+Haifa	Haifa
+Stewart Island	Isla Stewart
+Beersheba	Beerseba
+Reims	Reims
+Talcahuano	Talcahuano
+Isfahan	Isfahán
+Seongnam	Seongnam
+Clermont-Ferrand	Clermont-Ferrand
+Tunnullit	Balaenoptera musculus
+Kharkiv	Járkov
+Iron Maiden	Iron Maiden
+Saint-Étienne	Saint-Étienne
+Nîmes	Nimes
+Le Havre	El Havre
+Harbin	Harbin
+Donetsk	Donetsk
+Toulon	Tolón
+Rawson	Rawson
+Río Gallegos	Río Gallegos
+Ushuaia	Ushuaia
+Viljandi	Viljandi
+Zac Efron	Zac Efron
+Monte-Carlo	Montecarlo
+Herat	Herāt (ciudad)
+Kandahar	Kandahar
+Nuna eqqissisimatitaq	Parque nacional
+Edgar Degas	Edgar Degas
+Espoo	Espoo
+Saint-Denis (Reunion)	Saint-Denis (Reunión)
+Oulu	Oulu
+Aix-en-Provence	Aix-en-Provence
+Anaanap ullua	Día de la Madre
+Mittarfik Con Dao	Aeropuerto de Côn Đảo
+Lucknow	Lucknow
+Ilisserut:Commonscat	Plantilla:Commonscat
+Basra	Basora
+Dnipropetrovsk	Dnipropetrovsk
+Kobe	Kōbe
+Mariehamn	Mariehamn
+Porvenir	Porvenir
+Punta Arenas	Punta Arenas
+Chiang Mai	Chiang Mai
+Trollhättan	Trollhättan
+Borlänge	Borlänge
+Landskrona	Landskrona
+Nyköping	Nyköping
+Monaco-Illoqarfik	Mónaco (ciudad)
+Asker	Asker
+Bærum	Bærum
+Shijiazhuang	Shijiazhuang
+Pashtomiutut	Idioma pastún
+Narvik	Narvik
+Aappilattoq (Nanortalik)	Aappilattoq (Kujalleq)
+Aappilattoq (Upernavik)	Aappilattoq (Qaasuitsup)
+Narsarsuaq	Narsarsuaq
+Mo i Rana	Mo i Rana
+Chihuahua, Chihuahua	Chihuahua (Chihuahua)
+Brandon (Canada)	Brandon (Manitoba)
+Harstad	Harstad
+Ålesund	Ålesund
+Sissarmiutaq	Calidris maritima
+Nordkapp	Nordkapp
+Jaipur	Jaipur
+Kanpur	Kanpur
+Rogier van der Weyden	Rogier van der Weyden
+Taiyuan	Taiyuan
+Hai Phong	Hải Phòng
+Dalian	Dalian
+Christchurch	Christchurch
+Uranusi (guuti)	Urano (mitología)
+Coronel Fabriciano	Coronel Fabriciano
+Daugavpils	Daugavpils
+Tabriz	Tabriz
+Humaniora	Humanidades
+Monterrey, Nuevo León	Monterrey
+Baffin Island	Isla de Baffin
+Kigutilissuaq	Physeter macrocephalus
+Acapulco	Acapulco de Juárez
+Giza	Guiza
+Royan	Royan
+Tyre, Lebanon	Tiro
+Temuco	Temuco
+Hande Yener	Hande Yener
+Henri de Toulouse-Lautrec	Henri de Toulouse-Lautrec
+Terianniaq qaqortaq	Alopex lagopus
+Advent	Adviento
+Mosul	Mosul
+Changchun	Changchun
+London (Canada)	London (Ontario)
+Rawalpindi	Rawalpindi
+Kimmernaq	Vaccinium vitis-idaea
+Chrzanów	Chrzanów
+Gaziantep	Gaziantep
+Lillehammer	Lillehammer
+Dronning Margrethe II	Margarita II de Dinamarca
+Narva	Narva
+Jan van Eyck	Jan van Eyck
+Pärnu	Pärnu
+Rovaniemi	Rovaniemi
+Hafnarfjörður	Hafnarfjörður
+Ventspils	Ventspils
+Vadsø	Vadsø
+Hamar	Hamar
+Ísafjörður	Ísafjörður
+Fredrikstad	Fredrikstad
+Tønsberg	Tønsberg
+Akranes	Akranes
+Sarpsborg	Sarpsborg
+Gjøvik	Gjøvik
+Valmiera	Valmiera
+Kunduz	Qundūz
+Vardø	Vardø
+Sandefjord	Sandefjord
+Moss	Moss
+Haugesund	Haugesund
+Halden	Halden
+Horten	Horten
+Kaesong	Kaesong
+Chongjin	Ch'ŏngjin
+Hamhŭng	Hamhung
+Wonsan	Wŏnsan
+Namp'o	Namp'o
+Mwanza	Mwanza
+Steinkjer	Steinkjer
+Qeqertaq Avannarleq	Isla Norte
+Qeqertaq Kujalleq	Isla Sur
+Mashhad	Mashhad
+Oqinninnguaq	Capreolus capreolus
+Nattoraliusaq	Buitre
+Tijuana	Tijuana
+Vaasa	Vaasa
+Puebla (Puebla)	Puebla de Zaragoza
+Vantaa	Vantaa
+Mittarfik Carriel Sur	Aeropuerto Internacional Carriel Sur
+Mazar-i-Sharif	Mazar-e Sarif
+Luxor	Lúxor
+Tupaarnaq	Thymus
+Homs	Homs
+Misrata	Misurata
+Shania Twain	Shania Twain
+Aden	Adén
+Tina Turner	Tina Turner
+Qilalugaq qaqortaq	Delphinapterus leucas
+Arbil	Erbil (ciudad)
+Qipoqqaq	Megaptera novaeangliae
+Dunedin	Dunedin
+Luhansk	Lugansk
+Port Said	Puerto Saíd
+Suez	Suez
+Jyväskylä	Jyväskylä
+Šiauliai	Šiauliai
+Eilat	Eilat
+Hiiumaa	Hiiumaa
+Ellesmere Island	Isla de Ellesmere
+Zapopan	Zapopan
+Zarqa	Zarqa
+Puisi	Erignathus barbatus
+Mittarfik Pleiku	Aeropuerto de Pleiku
+Joan Miró	Joan Miró
+Afula	Afula
+Bnei Brak	Bnei Brak
+Shinji Kagawa	Shinji Kagawa
+Larvik	Larvik
+Sinuiju	Sinuiju
+Kronprinsesse Victoria Sverige'mit	Victoria de Suecia
+Makiivka	Makiivka
+Kryvyi Rih	Krivói Rog
+Vinnytsia	Vinnytsia
+Avaalaqiaq	Betula nana
+Zaporizhzhia	Zaporiyia
+Ramallah	Ramala
+Qilalugaq qernertaq	Monodon monoceros
+Mittarfik Phu Bai	Aeropuerto de Phú Bài
+Dammam	Dammam
+Valdivia	Valdivia
+Pachuca de Soto	Pachuca de Soto
+Kuopio	Kuopio
+Sidon	Sidón
+Kópavogur	Kópavogur
+Kawasaki (Kanagawa)	Kawasaki (Kanagawa)
+Mittarfik Lien Khuong	Aeropuerto Lien Khuong
+Mérida, Yucatán	Mérida (Yucatán)
+Frans Hals	Frans Hals
+Liepāja	Liepāja
+Najaf	Nayaf
+Hebron	Hebrón
+Tripoli, Lebanon	Trípoli (Líbano)
+Jinan	Jinan
+Qingdao	Qingdao
+Mittarfik Can Tho	Aeropuerto de Cần Thơ
+Gran Concepcion	Gran Concepción
+Santa Cruz de la Sierra	Santa Cruz de la Sierra
+Keflavík	Keflavík
+Pattaya	Pattaya
+Ashdod	Asdod
+Nanchang	Nanchang
+Nerlernaq	Anser albifrons
+Santiago de Querétaro	Santiago de Querétaro
+Veracruz, Veracruz	Veracruz
+Kirkuk	Kirkuk
+Hama	Hama
+Roxette	Roxette
+Faisalabad	Faisalabad
+Arfivik	Balaena mysticetus
+Villa Alemana	Villa Alemana
+Kissaviarsuk	Falco rusticolus
+Toamasina	Toamasina
+Peeqin	Pevek
+Surtsey	Surtsey
+Qajaq	Kayak
+Jelgava	Jelgava
+Pori	Pori
+Rēzekne	Rēzekne
+Lappeenranta	Lappeenranta
+Windsor (Canada)	Windsor (Ontario)
+Umimmak	Ovibos moschatus
+Kalaallit erfalasuat	Bandera de Groenlandia
+Multan	Multan
+Quetta	Quetta
+Garðabær	Garðabær
+Joensuu	Joensuu
+Devon Island	Isla Devon
+Vestmannaeyjar	Islas Vestman
+Carl Larsson	Carl Larsson
+SAS Scandinavian Airlines System	Scandinavian Airlines System
+Safed	Safed
+León (Guanajuato)	León (Guanajuato)
+Hermosillo	Hermosillo
+Utena	Utena (Lituania)
+Katekismus	Catecismo
+Klaksvík	Klaksvík
+Joe Cocker	Joe Cocker
+Horsens	Horsens
+Tuullik	Gavia immer
+Mikkeli	Mikkeli
+Petah Tikva	Petaj Tikva
+Abha	Abha
+Ilulissat	Ilulissat
+Jēkabpils	Jēkabpils
+Rakvere	Rakvere
+Kotka	Kotka
+Holon	Jolón
+Netanya	Netanya
+Ivan Sjisjkin	Iván Shishkin
+Porvoo	Porvoo
+Mittarfik Phu Cat	Aeropuerto de Phu Cat
+Irbid	Irbid
+Łobez	Łobez
+Mexicali	Mexicali
+Hamilton ( New Zealand)	Hamilton (Nueva Zelanda)
+Latakia	Latakia
+Aguascalientes, Aguascalientes	Aguascalientes (Aguascalientes)
+Rishon LeZion	Rishon LeZion
+Yungay (Chile)	Yungay (Chile)
+Kohtla-Järve	Kohtla-Järve
+Tikaagullit	Balaenoptera acutorostrata
+Hämeenlinna	Hämeenlinna
+Georges de la Tour	Georges de La Tour
+Napier	Napier (Nueva Zelanda)
+Mittarfik Phu Quoc	Aeropuerto de Phú Quốc
+Saint John (New Brunswick)	Saint John (Nuevo Brunswick)
+San Luis Potosí, San Luis Potosí	San Luis Potosí (San Luis Potosí)
+Kouvola	Kouvola
+Qaarsut	Qaarsut
+Nelson (New Zealand)	Nelson (Nueva Zelanda)
+Niisarnaq	Globicephala melas
+Kuanneq	Angelica archangelica
+Sillamäe	Sillamäe
+Southampton Island , Nunavut	Isla de Southampton
+Hyvinkää	Hyvinkää
+Émile Friant	Émile Friant
+Tauranga	Tauranga
+Ivan Kramskoi	Iván Kramskói
+Miteq sujorakitsoq	Somateria spectabilis
+Kokkola	Kokkola
+Prince of Wales Island, Nunavut	Isla del Príncipe de Gales (Nunavut)
+Sisimiut	Sisimiut
+Järvenpää	Järvenpää
+Soluna Samay	Soluna Samay
+Rotorua	Rotorua
+Toluca	Toluca de Lerdo
+Kirkenes	Kirkenes
+Salo	Salo (Finlandia)
+Aasiaat	Aasiaat
+Culiacán	Culiacán
+Prinsesse Madeleine Sverige'mit	Magdalena de Suecia
+Serfaq	Cepphus grylle
+Palmerston North	Palmerston North
+Østjerusalem	Jerusalén Este
+O'Hare International Airport	Aeropuerto Internacional O'Hare
+John Bauer	John Bauer
+Nablus	Nablus
+Kisumu	Kisumu
+Lohja	Lohja
+Can Tho	Cần Thơ
+Levanger	Levanger
+Aarluarsuk	Lagenorhynchus acutus
+Issittup amarua	Canis lupus arctos
+Jens Fink-Jensen	Jens Fink-Jensen
+Mahajanga	Mahajanga
+Húsavík	Húsavík
+Miluumasunik inungasunik ilisimatusarneq	Primatología
+Naucalpan	Naucalpan de Juárez
+Qaqortoq	Qaqortoq
+Ramla	Ramla
+Qaanaaq	Qaanaaq
+Nunarput utoqqarsuanngoravit	Nunarput utoqqarsuanngoravit
+Mombasa	Mombasa
+Al Ain	Al Ain
+Öland	Öland
+Nakuru	Nakuru
+Morogoro	Morogoro
+Gujranwala	Gujranwala
+Khulna	Khulna
+Changwon	Changwon
+Tabuk, Saudi Arabia	Tabuk (Arabia Saudita)
+Kigoma	Kigoma
+Air Iceland	Air Iceland
+Kangaamiut	Kangaamiut
+Buraidah	Buraidá
+Gray (Franche-Comté)	Gray (Alto Saona)
+Alluitsup-Paa	Alluitsup Paa
+Al Hudaydah	Al Hudayda
+Abbotsford	Abbotsford
+Moshi	Moshi
+Grise Fiord, Nunavut	Grise Fiord
+Truro (Canada)	Truro (Nueva Escocia)
+Sharjah	Sarja (ciudad)
+Upernavik	Upernavik
+Qaqullunnaq	Puffinus gravis
+Hans Enoksen	Hans Enoksen
+Al-Rayyan	Municipio de Rayán
+Kuupik Kleist	Kuupik Kleist
+Bahawalpur	Bahawalpur
+Illoqqortoormiut	Ittoqqortoormiit
+Eldoret	Eldoret
+Status Quo	Status Quo
+Safri Duo	Safri Duo
+Kiryat Shmona	Kiryat Shemona
+Peder Severin Krøyer	Peder Severin Krøyer
+Dawson City, Yukon	Dawson City
+Jeddah	Yeda
+Aappilattoq	Aappilattoq
+Chittagong	Chittagong
+Nyeri	Nyeri
+Bartholomeus van der Helst	Bartholomeus van der Helst
+Vilhelm Hammershøi	Vilhelm Hammershøi
+Dirck van Baburen	Dirck van Baburen
+Jonathan Motzfeldt	Jonathan Motzfeldt
+Air Greenland	Air Greenland
+Nazareth	Nazaret
+Narsaq	Narsaq
+Alytus	Alytus
+Murilo Benício	Murilo Benício
+Ta'izz	Taiz
+Sylhet	Sylhet
+Per Kirkeby	Per Kirkeby
+Ammassivik	Ammassivik
+Paramore	Paramore
+Tczew	Tczew
+Qeqqata Kommunia	Qeqqata
+Mittarfik Tan Son Nhat	Aeropuerto Internacional de Tan Son Nhat
+Kommune Kujalleq	Kujalleq
+William-Adolphe Bouguereau	William-Adolphe Bouguereau
+Sariwon	Sariwon
+Paamiut	Paamiut
+Francis Rossi	Francis Rossi
+Annoraaq	Anorak
+Nuussuaq (Upernavik)	Nuussuaq
+Antsirabe	Antsirabe
+Atammik	Atammik
+Kulusuk	Kulusuk
+Nurmijärvi	Nurmijärvi
+Vestmanna	Vestmanna
+Kangaatsiaq	Kangaatsiaq
+Kisitsisinik ilinniarneq	Cuenta (matemáticas)
+Seyðisfjörður	Seyðisfjörður
+Nakhon Ratchasim	Khorat
+Qaasuitsup Kommunia	Qaasuitsup
+Hudiksvall	Hudiksvall
+Argir	Argir
+Reykjanesbær	Reykjanesbær
+Hadsund	Hadsund
+Narsarmijit	Narsarmijit
+Kullorsuaq	Kullorsuaq
+Norðragøta	Norðragøta
+Hoyvík	Hoyvík
+Naalakkersuisut siulittaasuat	Primer Ministro de Groenlandia
+Rønne	Rønne
+Eiði	Eiði
+Machakos	Machakos
+Kommuneqarfik Sermersooq	Sermersooq
+Mittarfik Buon Ma Thuot	Aeropuerto de Buôn Ma Thuột
+Fuglafjørður	Fuglafjørður
+Tasiusaq (Nanortalik)	Tasiusaq (Kujalleq)
+Ikerasak	Ikerasak
+Barisal	Barisal
+Uummannaq	Uummannaq
+Atassut	Atassut
+Tvøroyri	Tvøroyri
+Vágur	Vágur
+Bornholm	Bornholm
+Mittarfik Da Nang	Aeropuerto Internacional de Đà Nẵng
+Klaipėda	Klaipėda
+Kuummiut	Kuummiut
+Pigazzano	Pigazzano
+Nationalparki Sirmilik	Parque nacional Sirmilik
+Udon Thani	Udon Thani
+Höfn	Höfn
+Leirvík (Savalimmiut)	Leirvík
+Surat Thani	Surat Thani
+Sandur	Sandur (Islas Feroe)
+Sandavágur	Sandavágur
+Qeqertarsuaq	Qeqertarsuaq
+Maniitsoq	Maniitsoq
+Nanortalik	Nanortalik
+Miðvágur	Miðvágur
+Sargodha	Sargodha
+Khon Kaen	Khon Kaen
+Mittarfik Ca Mau	Aeropuerto de Cà Mau
+Ikiuutit:Ikiuutit	Ayuda:Contenidos
+Qeqertarsuatsiaat	Qeqertarsuatsiaat
+Skopun	Skopun
+Ivittuut	Ivittuut
+Qasigiannguit	Qasigiannguit
+Saaremaa	Saaremaa
+Uniaaluttuumasoq	Vermilingua
+Sermiligaaq	Sermiligaaq
+Igaliku	Igaliku
+Kapisillit	Kapisillit
+Puerto Natales	Puerto Natales
+Qassiarsuk	Qassiarsuk
+Siorapaluk	Siorapaluk
+Budka Suflera	Budka Suflera
+Kangerlussuaq	Kangerlussuaq
+Qassimiut	Qassimiut
+Niaqornaarsuk	Niaqornaarsuk
+Lower Hutt	Lower Hutt
+Sarfannguaq	Sarfannguit
+Vrahovice	Vrahovice
+Watson Lake, Yukon	Watson Lake
+Gotland	Isla de Gotland
+Peshawar	Peshawar
+Ilisimatusarfik	Universidad de Groenlandia
+Cascadia	Cascadia
+Mittarfik Nuuk	Aeropuerto de Nuuk
+Muttrah	Matrah
+Puerto Williams	Puerto Williams
+Ammasunik imalik	Contenido abierto
+Tunu	Tunu
+Jaume Plensa	Jaume Plensa
+Sumut atassuseq:Tysklandi	Categoría:Alemania
+Sumut atassuseq:Ruslandi	Categoría:Rusia
+Sumut atassuseq:Canada	Categoría:Canadá
+Sumut atassuseq:Spania	Categoría:España
+Sumut atassuseq:Kina	Categoría:China
+Sumut atassuseq:Japani	Categoría:Japón
+Sumut atassuseq:Australia	Categoría:Australia
+Sumut atassuseq:Mexiko	Categoría:México
+Sumut atassuseq:India	Categoría:India
+Sumut atassuseq:Saudi Arabia	Categoría:Arabia Saudita
+Sumut atassuseq:Israel	Categoría:Israel
+Sumut atassuseq:Tyrkia	Categoría:Turquía
+Sumut atassuseq:Egypt	Categoría:Egipto
+Sumut atassuseq:Iran	Categoría:Irán
+Sumut atassuseq:New Zealand	Categoría:Nueva Zelanda
+Sumut atassuseq:Argentina	Categoría:Argentina
+Sumut atassuseq:Afghanistan	Categoría:Afganistán
+Sumut atassuseq:Bangladesh	Categoría:Bangladés
+Sumut atassuseq:Indonesia	Categoría:Indonesia
+Sumut atassuseq:Iraq	Categoría:Irak
+Sumut atassuseq:Pakistan	Categoría:Pakistán
+Sumut atassuseq:Poleni	Categoría:Polonia
+Sumut atassuseq:Korea Kujalleq	Categoría:Corea del Sur
+Sumut atassuseq:Tanzania	Categoría:Tanzania
+Sumut atassuseq:Thailandi	Categoría:Tailandia
+Sumut atassuseq:Ukraine	Categoría:Ucrania
+Sumut atassuseq:Vietnam	Categoría:Vietnam
+Sumut atassuseq:Nersut	Categoría:Mammalia
+Sumut atassuseq:Uumaatsulerineq	Categoría:Física
+Sumut atassuseq:Pinngortitamik ilisimatusarneq	Categoría:Ciencias naturales
+Sumut atassuseq:Uumassuseqartulerineq	Categoría:Biología
+Sumut atassuseq:Oqaluttuarisaaneq	Categoría:Historia
+Sumut atassuseq:Nunavissuaq	Categoría:Geografía
+Sumut atassuseq:Upperisarsiorneq	Categoría:Religión
+Sumut atassuseq:Timersorneq	Categoría:Deporte
+Sumut atassuseq:Ilisimatusaatit	Categoría:Ciencia
+Sumut atassuseq:EU	Categoría:Unión Europea
+Sumut atassuseq:Attaveqaqatigiinneq	Categoría:Comunicación
+Hyderabad (Pakistan)	Hyderabad (Pakistán)
+Panevėžys	Panevėžys
+Riffa	Riffa
+Nanisivik, Nunavut	Nanisivik
+Sumut atassuseq:Filosofi	Categoría:Filosofía
+Arsuk	Arsuk
+Itilleq	Itilleq
+Innaarsuit	Innaarsuit
+Palanga	Palanga
+Julie Berthelsen	Julie Berthelsen
+Tasiusaq (Upernavik)	Tasiusaq (Qaasuitsup)
+Qeqertaq (Nunaqarfik)	Qeqertaq
+Ukkusissat	Ukkusissat
+Kangersuatsiaq	Kangersuatsiaq
+Tasiilaq	Tasiilaq
+Attu	Attu (Groenlandia)
+Tasiusaq	Tasiusaq
+Saarloq	Saarloq
+Ikerasaarsuk	Ikerasaarsuk
+Eqalugaarsuit	Eqalugaarsuit
+Antonio de Bellis	Antonio de Bellis
+Benedicta Boccoli	Benedicta Boccoli
+Katuaq	Centro Cultural Katuaq
+Sumut atassuseq:Kulturi	Categoría:Cultura
+Sumut atassuseq:Humaniora	Categoría:Humanidades
+Sumut atassuseq:Nunarsualerineq	Categoría:Geología
+Dronning Ingridip Napparsimmavissua	Hospital Reina Íngrid
+Christian August Lorentzen	Christian August Lorentzen
+Ammassalik	Isla de Ammassalik
+Anna Rita Del Piano	Anna Rita Del Piano
+Sumut atassuseq:Wikipedia bots	Categoría:Wikipedia:Bots
+Wikipedia:Administratorit	Wikipedia:Bibliotecarios
+Wikipedia:Bot	Wikipedia:Bot
+Sumut atassuseq:Politik	Categoría:Política
+Sumut atassuseq:Eqqumiitsuliorneq	Categoría:Arte
+Kaunas	Kaunas
+Egypt	Egipto
+Ilisserut:Bot	Plantilla:Bot
+Wikipedia:Wikipedia tassaanngilaq	Wikipedia:Lo que Wikipedia no es
+Canada	Canadá
+Sumut atassuseq:Ungarni	Categoría:Hungría
+Sumut atassuseq:Belgia	Categoría:Bélgica
+Sumut atassuseq:Cyperni	Categoría:Chipre
+Sumut atassuseq:Tjekkia	Categoría:República Checa
+Sumut atassuseq:Danmarki	Categoría:Dinamarca
+Sumut atassuseq:Estlandi	Categoría:Estonia
+Sumut atassuseq:Finlandi	Categoría:Finlandia
+Sumut atassuseq:Grækenlandi	Categoría:Grecia
+Sumut atassuseq:Letlandi	Categoría:Letonia
+Sumut atassuseq:Islandi	Categoría:Islandia
+Sumut atassuseq:Luxembourg	Categoría:Luxemburgo
+Sumut atassuseq:Litaueni	Categoría:Lituania
+Sumut atassuseq:Sverige	Categoría:Suecia
+Wikipedia:Piginnittussaatitaaneq	Wikipedia:Derechos de autor
+Sumut atassuseq:Anbefalet	Categoría:Wikipedia:Artículos destacados
+Sumut atassuseq:Europa	Categoría:Europa
+Ilisserut:Documentation	Plantilla:Documentación
+Wikipedia:Saqqaa	Portal:Comunidad
+Sumut atassuseq:User	Categoría:Wikipedia:Wikipedistas por idioma
+Wikipedia:Maleruaqqusat ileqqussallu	Wikipedia:Políticas y convenciones
+Wikipedia:Kalluunnaveersaartoq	Wikipedia:Punto de vista neutral
+Wikipedia:Oqalliffinni ilanngutanni atsiortarit	Wikipedia:Firma de usuario
+Wikipedia:Atajuartitsineq	Wikipedia:Páginas para mejorar
+Sung Jae-ki	Sung Jae-ki
+Ilisserut:Softredirect	Plantilla:Redirección suave
+Ilisserut:Peerli	Plantilla:Destruir
+Sumut atassuseq:Oqaatsit	Categoría:Lenguas
+Jonathan Petersen	Jonathan Petersen
+Sumut atassuseq:Wikipedia	Categoría:Wikipedia
+Ilisserut:Navbox	Plantilla:Navegación
+Ilisserut:!	Plantilla:!
+Ilisserut:Tnavbar	Plantilla:Navbar
+Ilisserut:Nowrap	Plantilla:Nowrap
+Sumut atassuseq:Afrika	Categoría:África
+Sumut atassuseq:Juuli	Categoría:Julio
+Sumut atassuseq:Juuni	Categoría:Junio
+Sumut atassuseq:Leksikoni	Categoría:Libros
+Sumut atassuseq:Qaammatit	Categoría:Meses
+Ilisserut:Babel	Plantilla:Babel
+Ilisserut:Commons	Plantilla:Commons
+Ilisserut:Stub	Plantilla:Esbozo
+Sumut atassuseq:Februaari	Categoría:Febrero
+Sumut atassuseq:Asia	Categoría:Asia
+Sumut atassuseq:Chile	Categoría:Chile
+Sumut atassuseq:User uk	Categoría:Wikipedia:Wikipedistas con conocimientos de ucraniano
+Sumut atassuseq:Amerika Kujalleq	Categoría:América del Sur
+Sumut atassuseq:User uk-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de ucraniano
+Ilisserut:NowCommons	Plantilla:EnCommons
+Ilisserut:SIL	Plantilla:Doc ISO3
+Ilisserut:Image label	Plantilla:Etiqueta imagen
+Ilisserut:Infoboks musiker	Plantilla:Ficha de artista musical
+Ilisserut:Infobox Country	Plantilla:Ficha de país
+Ilisserut:Anbefalet	Plantilla:Artículo destacado
+Sumut atassuseq:User en-4	Categoría:Wikipedia:Wikipedistas con nivel experto de inglés
+Sumut atassuseq:User en	Categoría:Wikipedia:Wikipedistas con conocimientos de inglés
+Sumut atassuseq:User zh	Categoría:Wikipedia:Wikipedistas con conocimientos de chino
+Sumut atassuseq:User en-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de inglés
+Sumut atassuseq:Nerisassat imigassallu	Categoría:Comida y bebida
+Ilisserut:,	Plantilla:,
+Sumut atassuseq:Nunaateqarneq	Categoría:Agricultura
+Sumut atassuseq:Palæstina	Categoría:Palestina
+Ilisserut:MONTHNAME	Plantilla:Nombre mes
+Sumut atassuseq:Jannuaari	Categoría:Enero
+Ilisserut:Image label end	Plantilla:Etiqueta imagen fin
+Ilisserut:Savalimmiut	Plantilla:FRO
+Ilisserut:Canada	Plantilla:CAN
+Ilisserut:Danmarki	Plantilla:DNK
+Sumut atassuseq:Vietnami mittarfik	Categoría:Aeropuertos de Vietnam
+Ilisserut:Image label small	Plantilla:Etiqueta imagen pequeña
+Ilisserut:Colombia	Plantilla:COL
+Ilisserut:Kalaallit Nunaat	Plantilla:GRL
+Ilisserut:Australia	Plantilla:AUS
+Sumut atassuseq:Ilusilersugaaneq	Categoría:Arquitectura
+Ilisserut:Pov	Plantilla:No neutralidad
+Sumut atassuseq:Kalaallit Nunaat	Categoría:Groenlandia
+Sumut atassuseq:User simple	Categoría:Wikipedia:Wikipedistas con conocimientos de Simple English
+Sumut atassuseq:User az	Categoría:Wikipedia:Wikipedistas con conocimientos de azerí
+Sumut atassuseq:User sk	Categoría:Wikipedia:Wikipedistas con conocimientos de eslovaco
+Sumut atassuseq:User fr	Categoría:Wikipedia:Wikipedistas con conocimientos de francés
+Sumut atassuseq:User sv	Categoría:Wikipedia:Wikipedistas con conocimientos de sueco
+Sumut atassuseq:User simple-4	Categoría:Wikipedia:Wikipedistas con nivel experto de Simple English
+Sumut atassuseq:User fr-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de francés
+Sumut atassuseq:User cs-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de checo
+Sumut atassuseq:User fr-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de francés
+Sumut atassuseq:User is-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de islandés
+Sumut atassuseq:User it-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de italiano
+Sumut atassuseq:User cs	Categoría:Wikipedia:Wikipedistas con conocimientos de checo
+Sumut atassuseq:User da	Categoría:Wikipedia:Wikipedistas con conocimientos de danés
+Sumut atassuseq:User sk-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de eslovaco
+Sumut atassuseq:User de	Categoría:Wikipedia:Wikipedistas con conocimientos de alemán
+Sumut atassuseq:User de-2	Categoría:Wikipedia:Wikipedistas con nivel intermedio de alemán
+Sumut atassuseq:User de-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de alemán
+Sumut atassuseq:User de-4	Categoría:Wikipedia:Wikipedistas con nivel experto de alemán
+Shiraz	Shiraz
+Sumut atassuseq:User el	Categoría:Wikipedia:Wikipedistas con conocimientos de griego antiguo
+Sumut atassuseq:User en-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de inglés
+Sumut atassuseq:User en-5	Categoría:Wikipedia:Wikipedistas con nivel profesional de inglés
+Sumut atassuseq:User en-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de inglés
+Sumut atassuseq:User es	Categoría:Wikipedia:Wikipedistas con conocimientos de español
+Sumut atassuseq:User es-1	Categoría:Wikipedia:Wikipedistas con nivel básico de español
+Sumut atassuseq:User es-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de español
+Sumut atassuseq:User it	Categoría:Wikipedia:Wikipedistas con conocimientos de italiano
+Ilisserut:Norge	Plantilla:NOR
+Ilisserut:Brazil	Plantilla:BRA
+Sumut atassuseq:Novemberi	Categoría:Noviembre
+Sumut atassuseq:User ru-1	Categoría:Wikipedia:Wikipedistas con nivel básico de ruso
+Sumut atassuseq:Martsi	Categoría:Marzo
+Sumut atassuseq:Septemberi	Categoría:Septiembre
+Sumut atassuseq:Oktoberi	Categoría:Octubre
+Sumut atassuseq:Decemberi	Categoría:Diciembre
+Sumut atassuseq:Aggusti	Categoría:Agosto
+Sumut atassuseq:Maaji	Categoría:Mayo
+Sumut atassuseq:Apriili	Categoría:Abril
+Sumut atassuseq:Qarasaasialerineq	Categoría:Informática
+Sumut atassuseq:Naasut	Categoría:Flores
+Sumut atassuseq:Inooqatigiinnik ilisimatusarneq	Categoría:Ciencias sociales
+Sumut atassuseq:User ru	Categoría:Wikipedia:Wikipedistas con conocimientos de ruso
+Sumut atassuseq:User ru-3	Categoría:Wikipedia:Wikipedistas con nivel avanzado de ruso
+Ilisserut:Lang	Plantilla:Lang
+Ilisserut:Andorra	Plantilla:AND
+Sumut atassuseq:Frankrigimi kommuneqarfik	Categoría:Regiones de Francia
+Ilisserut:Chile	Plantilla:CHL
+Sumut atassuseq:Kenya	Categoría:Kenia
+Sumut atassuseq:Libya	Categoría:Libia
+Sumut atassuseq:Madagascar	Categoría:Madagascar
+Sumut atassuseq:Uganda	Categoría:Uganda
+Sumut atassuseq:Bahrain	Categoría:Baréin
+Sumut atassuseq:Syria	Categoría:Siria
+Sumut atassuseq:Korea Avannarleq	Categoría:Corea del Norte
+Sumut atassuseq:Qatar	Categoría:Catar
+Sumut atassuseq:Kuwait	Categoría:Kuwait
+Sumut atassuseq:Lebanon	Categoría:Líbano
+Sumut atassuseq:Oman	Categoría:Omán
+Sumut atassuseq:United Arab Emirates	Categoría:Emiratos Árabes Unidos
+Sumut atassuseq:Jordan	Categoría:Jordania
+Sumut atassuseq:Bosnia-Hercegovina	Categoría:Bosnia y Herzegovina
+Sumut atassuseq:Norge	Categoría:Noruega
+Sumut atassuseq:Andorra	Categoría:Andorra
+Sumut atassuseq:Yemen	Categoría:Yemen
+Sumut atassuseq:Bolivia	Categoría:Bolivia
+Sumut atassuseq:Albania	Categoría:Albania
+Sumut atassuseq:Monaco	Categoría:Mónaco
+Sumut atassuseq:Inuup ineriartorneranik ilisimatusarneq	Categoría:Antropología
+Ilisserut:Spania	Plantilla:ESP
+Sumut atassuseq:Miluumasoq	Categoría:Animales
+Sumut atassuseq:Arferit	Categoría:Cetacea
+Sumut atassuseq:Colombia	Categoría:Colombia
+Sumut atassuseq:Nalunaarasuartaaseriveqarneq	Categoría:Telecomunicaciones
+Sumut atassuseq:Angallassissutit	Categoría:Transporte
+Sumut atassuseq:Taparneq	Categoría:Danza
+Sumut atassuseq:Qalasersuaq Kujalleq	Categoría:Antártida
+Sumut atassuseq:Amerika Avannarleq	Categoría:América del Norte
+Sumut atassuseq:Oceania	Categoría:Oceanía
+Sumut atassuseq:Nuuk	Categoría:Nuuk
+Sumut atassuseq:Peqqinneq	Categoría:Salud
+Sumut atassuseq:User de-5	Categoría:Wikipedia:Wikipedistas con nivel profesional de alemán
+Trojany	Trojany
+Sumut atassuseq:Savalimmiut	Categoría:Islas Feroe
+Ilisserut:Belgia	Plantilla:BEL
+Ilisserut:Image label begin	Plantilla:Etiqueta imagen inicio
+Sumut atassuseq:User en-1	Categoría:Wikipedia:Wikipedistas con nivel básico de inglés
+Sumut atassuseq:User de-1	Categoría:Wikipedia:Wikipedistas con nivel básico de alemán
+Sumut atassuseq:User da-N	Categoría:Wikipedia:Wikipedistas con nivel nativo de danés
+Ilisserut:Userbox-level	Plantilla:Userbox-nivel
+Ilisserut:Section	Plantilla:Sección
+Immikkut:Seneste ændringer	Especial:CambiosRecientes
